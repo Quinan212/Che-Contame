@@ -1,0 +1,2288 @@
+{
+  "version": "3.3-apertura-fluida",
+  "style": "alegre y coqueto · limpio y ligero",
+  "effects": [
+    {
+      "id": "cierre",
+      "action": "cierre",
+      "variant": 1,
+      "duration_ms": 1050,
+      "voices": [
+        [
+          0,
+          69,
+          0.45,
+          0.5
+        ],
+        [
+          0.2,
+          66,
+          0.46,
+          0.55
+        ],
+        [
+          0.43,
+          62,
+          0.58,
+          0.8
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026100400,
+        2026100401,
+        2026100402
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026100402,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.055397168863691115,
+          0.01993610657322238
+        ],
+        "attack_seconds": 0.035,
+        "decay": 3.8,
+        "drift_cents": 28
+      },
+      "measurement": {
+        "id": "cierre",
+        "action": "cierre",
+        "variant": 1,
+        "duration_ms": 1050,
+        "rms_active_dbfs": -19.999994518046087,
+        "peak_dbfs": -8.866207434399554,
+        "initial_silence_ms": 3.968253968253968,
+        "tail_rms_dbfs": -180.0,
+        "sha256": "a59f45c34d39c8e1e77ab3c859ded3a916d59e04236ab3b70712a25deab76197",
+        "bytes": 92654
+      }
+    },
+    {
+      "id": "nivelSuave",
+      "action": "nivelSuave",
+      "variant": 1,
+      "duration_ms": 250,
+      "voices": [
+        [
+          0,
+          69,
+          0.25,
+          1
+        ]
+      ],
+      "prompt": "A single isolated mellow expressive harmonic bloom. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026100500,
+        2026100501,
+        2026100502
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026100502,
+        "partials": [
+          1.0,
+          0.16591083936547193,
+          0.07,
+          0.032103647419156695,
+          0.00905856281978376
+        ],
+        "attack_seconds": 0.06,
+        "decay": 2.9,
+        "drift_cents": -22
+      },
+      "measurement": {
+        "id": "nivelSuave",
+        "action": "nivelSuave",
+        "variant": 1,
+        "duration_ms": 250,
+        "rms_active_dbfs": -20.000005806672792,
+        "peak_dbfs": -12.049686285112283,
+        "initial_silence_ms": 4.671201814058957,
+        "tail_rms_dbfs": -94.90647028569676,
+        "sha256": "ff47f1520fbb7574990f9ea01c6efb8575b90aec0fe5cc5ad802a0c801c24b0f",
+        "bytes": 22094
+      }
+    },
+    {
+      "id": "nivelMedio",
+      "action": "nivelMedio",
+      "variant": 1,
+      "duration_ms": 300,
+      "voices": [
+        [
+          0,
+          62,
+          0.3,
+          0.9
+        ],
+        [
+          0.065,
+          66,
+          0.225,
+          0.45
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026100600,
+        2026100601,
+        2026100602
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026100601,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.045,
+        "decay": 3.1,
+        "drift_cents": 18
+      },
+      "measurement": {
+        "id": "nivelMedio",
+        "action": "nivelMedio",
+        "variant": 1,
+        "duration_ms": 300,
+        "rms_active_dbfs": -19.999999976050113,
+        "peak_dbfs": -11.976761797007441,
+        "initial_silence_ms": 4.058956916099773,
+        "tail_rms_dbfs": -95.61395107080438,
+        "sha256": "673937c9f9393a7d32538d8929adf32788dd89d3dddc4cf6cf33aebe5552a3ed",
+        "bytes": 26504
+      }
+    },
+    {
+      "id": "nivelProfundo",
+      "action": "nivelProfundo",
+      "variant": 1,
+      "duration_ms": 370,
+      "voices": [
+        [
+          0,
+          54,
+          0.37,
+          0.9
+        ],
+        [
+          0.1,
+          61,
+          0.25,
+          0.3
+        ]
+      ],
+      "prompt": "A single isolated velvety rounded keyboard resonance. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026100700,
+        2026100701,
+        2026100702
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026100701,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "nivelProfundo",
+        "action": "nivelProfundo",
+        "variant": 1,
+        "duration_ms": 370,
+        "rms_active_dbfs": -19.99969865795963,
+        "peak_dbfs": -11.946294175867173,
+        "initial_silence_ms": 4.353741496598639,
+        "tail_rms_dbfs": -95.74967914269712,
+        "sha256": "e0bb0f1e1197483fff088098713a42dd34da2a6066c1184159b2bf3a7bfaed0a",
+        "bytes": 32678
+      }
+    },
+    {
+      "id": "rondaCorta",
+      "action": "rondaCorta",
+      "variant": 1,
+      "duration_ms": 400,
+      "voices": [
+        [
+          0,
+          65,
+          0.18,
+          0.8
+        ],
+        [
+          0.16,
+          69,
+          0.24,
+          0.75
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026100800,
+        2026100801,
+        2026100802
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026100801,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.035,
+        "decay": 3.8,
+        "drift_cents": 28
+      },
+      "measurement": {
+        "id": "rondaCorta",
+        "action": "rondaCorta",
+        "variant": 1,
+        "duration_ms": 400,
+        "rms_active_dbfs": -20.000006717489846,
+        "peak_dbfs": -10.967404016304416,
+        "initial_silence_ms": 3.6054421768707483,
+        "tail_rms_dbfs": -95.3232365913318,
+        "sha256": "46f805539a961054dcc1db07cc2a91d2c911a0ed8380f13682d0bed3f5c0af5c",
+        "bytes": 35324
+      }
+    },
+    {
+      "id": "rondaLarga",
+      "action": "rondaLarga",
+      "variant": 1,
+      "duration_ms": 520,
+      "voices": [
+        [
+          0,
+          60,
+          0.18,
+          0.7
+        ],
+        [
+          0.16,
+          64,
+          0.18,
+          0.75
+        ],
+        [
+          0.32,
+          67,
+          0.2,
+          0.8
+        ]
+      ],
+      "prompt": "A single isolated mellow expressive harmonic bloom. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026100900,
+        2026100901,
+        2026100902
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026100901,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.032155449403521205,
+          0.013626135412548684
+        ],
+        "attack_seconds": 0.06,
+        "decay": 2.9,
+        "drift_cents": -22
+      },
+      "measurement": {
+        "id": "rondaLarga",
+        "action": "rondaLarga",
+        "variant": 1,
+        "duration_ms": 520,
+        "rms_active_dbfs": -19.99979690729522,
+        "peak_dbfs": -11.882553827517919,
+        "initial_silence_ms": 4.217687074829931,
+        "tail_rms_dbfs": -94.82213861032812,
+        "sha256": "07112994d82dd9e819853564f94ad02d7bf743ab1d43cb108ed53be8d917b4cd",
+        "bytes": 45908
+      }
+    },
+    {
+      "id": "iniciarRonda",
+      "action": "iniciarRonda",
+      "variant": 1,
+      "duration_ms": 680,
+      "voices": [
+        [
+          0,
+          60,
+          0.42,
+          0.7
+        ],
+        [
+          0.17,
+          67,
+          0.45,
+          0.6
+        ],
+        [
+          0.27,
+          72,
+          0.37,
+          0.3
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026101000,
+        2026101001,
+        2026101002
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026101001,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.042026060708427515,
+          0.008
+        ],
+        "attack_seconds": 0.045,
+        "decay": 3.1,
+        "drift_cents": 18
+      },
+      "measurement": {
+        "id": "iniciarRonda",
+        "action": "iniciarRonda",
+        "variant": 1,
+        "duration_ms": 680,
+        "rms_active_dbfs": -20.000171431441274,
+        "peak_dbfs": -10.718031205112457,
+        "initial_silence_ms": 4.217687074829931,
+        "tail_rms_dbfs": -180.0,
+        "sha256": "dda98263cb241519157a0f598e9d75bc12a92f0aff07f923a0fda0a4ee98d2e3",
+        "bytes": 60020
+      }
+    },
+    {
+      "id": "retomarRonda",
+      "action": "retomarRonda",
+      "variant": 1,
+      "duration_ms": 530,
+      "voices": [
+        [
+          0,
+          66,
+          0.32,
+          0.5
+        ],
+        [
+          0.16,
+          62,
+          0.37,
+          0.75
+        ]
+      ],
+      "prompt": "A single isolated velvety rounded keyboard resonance. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026101100,
+        2026101101,
+        2026101102
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026101100,
+        "partials": [
+          1.0,
+          0.14,
+          0.10851757400892109,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "retomarRonda",
+        "action": "retomarRonda",
+        "variant": 1,
+        "duration_ms": 530,
+        "rms_active_dbfs": -19.999990282969353,
+        "peak_dbfs": -10.136995263956008,
+        "initial_silence_ms": 4.671201814058957,
+        "tail_rms_dbfs": -95.08021124639099,
+        "sha256": "f0a662eaf928e372e85309813038eee2146b30143ccabcc59e21ed82ad6e4fa1",
+        "bytes": 46790
+      }
+    },
+    {
+      "id": "otraRonda",
+      "action": "otraRonda",
+      "variant": 1,
+      "duration_ms": 620,
+      "voices": [
+        [
+          0,
+          64,
+          0.3,
+          0.6
+        ],
+        [
+          0.15,
+          62,
+          0.3,
+          0.5
+        ],
+        [
+          0.29,
+          67,
+          0.33,
+          0.7
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026101200,
+        2026101201,
+        2026101202
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026101200,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.03839082595145175,
+          0.075
+        ],
+        "attack_seconds": 0.035,
+        "decay": 3.8,
+        "drift_cents": 28
+      },
+      "measurement": {
+        "id": "otraRonda",
+        "action": "otraRonda",
+        "variant": 1,
+        "duration_ms": 620,
+        "rms_active_dbfs": -20.000002005557555,
+        "peak_dbfs": -9.638915240290864,
+        "initial_silence_ms": 3.7414965986394555,
+        "tail_rms_dbfs": -94.93494871442502,
+        "sha256": "f01e9658158730daaa18af1027c637ff6a9106b9f4868702f407985e46dec843",
+        "bytes": 54728
+      }
+    },
+    {
+      "id": "abrirConsignas",
+      "action": "abrirConsignas",
+      "variant": 1,
+      "duration_ms": 420,
+      "voices": [
+        [
+          0,
+          67,
+          0.31,
+          0.75
+        ],
+        [
+          0.12,
+          71,
+          0.3,
+          0.4
+        ]
+      ],
+      "prompt": "A single isolated mellow expressive harmonic bloom. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026101300,
+        2026101301,
+        2026101302
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026101302,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.06,
+        "decay": 2.9,
+        "drift_cents": -22
+      },
+      "measurement": {
+        "id": "abrirConsignas",
+        "action": "abrirConsignas",
+        "variant": 1,
+        "duration_ms": 420,
+        "rms_active_dbfs": -20.000245104714356,
+        "peak_dbfs": -11.331940575200088,
+        "initial_silence_ms": 4.376417233560091,
+        "tail_rms_dbfs": -95.61395107080438,
+        "sha256": "81f7ad2d919ab1d87aaac6f22c0092e1d1c32f45a2d22ed0170208b20b81ac15",
+        "bytes": 37088
+      }
+    },
+    {
+      "id": "abrirTutorial",
+      "action": "abrirTutorial",
+      "variant": 1,
+      "duration_ms": 510,
+      "voices": [
+        [
+          0,
+          61,
+          0.32,
+          0.7
+        ],
+        [
+          0.16,
+          68,
+          0.35,
+          0.6
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026101400,
+        2026101401,
+        2026101402
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026101401,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.045,
+        "decay": 3.1,
+        "drift_cents": 18
+      },
+      "measurement": {
+        "id": "abrirTutorial",
+        "action": "abrirTutorial",
+        "variant": 1,
+        "duration_ms": 510,
+        "rms_active_dbfs": -20.00000280445692,
+        "peak_dbfs": -10.847365707167008,
+        "initial_silence_ms": 4.081632653061225,
+        "tail_rms_dbfs": -96.54149160317337,
+        "sha256": "6541a71e0a8990482a6f8ae89ad599ce81772dedad0e305dd8ebdb195f9e5d31",
+        "bytes": 45026
+      }
+    },
+    {
+      "id": "abrirLaboratorio",
+      "action": "abrirLaboratorio",
+      "variant": 1,
+      "duration_ms": 570,
+      "voices": [
+        [
+          0,
+          64,
+          0.32,
+          0.65
+        ],
+        [
+          0.14,
+          69,
+          0.3,
+          0.4
+        ],
+        [
+          0.25,
+          66,
+          0.32,
+          0.65
+        ]
+      ],
+      "prompt": "A single isolated velvety rounded keyboard resonance. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026101500,
+        2026101501,
+        2026101502
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026101502,
+        "partials": [
+          1.0,
+          0.1915662091540253,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "abrirLaboratorio",
+        "action": "abrirLaboratorio",
+        "variant": 1,
+        "duration_ms": 570,
+        "rms_active_dbfs": -20.00000069111003,
+        "peak_dbfs": -11.008729693749402,
+        "initial_silence_ms": 4.875283446712018,
+        "tail_rms_dbfs": -94.7943880697804,
+        "sha256": "6014ea5188b06dee1d8a769592f03bac031e0cabe941b00e223e346554b3eb35",
+        "bytes": 50318
+      }
+    },
+    {
+      "id": "carta",
+      "action": "carta",
+      "variant": 1,
+      "duration_ms": 470,
+      "voices": [
+        [
+          0,
+          62,
+          0.39,
+          0.8
+        ],
+        [
+          0.12,
+          69,
+          0.34,
+          0.4
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026101600,
+        2026101601,
+        2026101602
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026101602,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.12787169686393476,
+          0.049655794533469924
+        ],
+        "attack_seconds": 0.035,
+        "decay": 3.8,
+        "drift_cents": 28
+      },
+      "measurement": {
+        "id": "carta",
+        "action": "carta",
+        "variant": 1,
+        "duration_ms": 470,
+        "rms_active_dbfs": -19.99999655046851,
+        "peak_dbfs": -10.213116491420118,
+        "initial_silence_ms": 3.764172335600907,
+        "tail_rms_dbfs": -180.0,
+        "sha256": "ef90297cef01a1b29886b61ec176d4f35bec120facbd78a8b247564c3f867b93",
+        "bytes": 41498
+      }
+    },
+    {
+      "id": "carta_2",
+      "action": "carta",
+      "variant": 2,
+      "duration_ms": 510,
+      "voices": [
+        [
+          0,
+          64,
+          0.33,
+          0.6
+        ],
+        [
+          0.18,
+          67,
+          0.33,
+          0.75
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026101700,
+        2026101701,
+        2026101702
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026101702,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.06,
+        "decay": 2.9,
+        "drift_cents": -22
+      },
+      "measurement": {
+        "id": "carta_2",
+        "action": "carta",
+        "variant": 2,
+        "duration_ms": 510,
+        "rms_active_dbfs": -20.00000255500751,
+        "peak_dbfs": -10.587903083800454,
+        "initial_silence_ms": 4.920634920634921,
+        "tail_rms_dbfs": -95.02152190974999,
+        "sha256": "9409ea893999853ee2eedcc877e5951d842b2b3dcf8c753bc3315bbae8044169",
+        "bytes": 45026
+      }
+    },
+    {
+      "id": "carta_3",
+      "action": "carta",
+      "variant": 3,
+      "duration_ms": 490,
+      "voices": [
+        [
+          0,
+          59,
+          0.35,
+          0.7
+        ],
+        [
+          0.1,
+          66,
+          0.32,
+          0.35
+        ],
+        [
+          0.23,
+          69,
+          0.26,
+          0.4
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026101800,
+        2026101801,
+        2026101802
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026101800,
+        "partials": [
+          1.0,
+          0.14,
+          0.15909482652162088,
+          0.13539969991858564,
+          0.075
+        ],
+        "attack_seconds": 0.045,
+        "decay": 3.1,
+        "drift_cents": 18
+      },
+      "measurement": {
+        "id": "carta_3",
+        "action": "carta",
+        "variant": 3,
+        "duration_ms": 490,
+        "rms_active_dbfs": -20.000007758589014,
+        "peak_dbfs": -11.547614974726644,
+        "initial_silence_ms": 4.240362811791384,
+        "tail_rms_dbfs": -95.38617892230867,
+        "sha256": "ee813a7179603d693ded934f590aea6da7bff256d843647678ee5bcc6fc5e58e",
+        "bytes": 43262
+      }
+    },
+    {
+      "id": "carta_4",
+      "action": "carta",
+      "variant": 4,
+      "duration_ms": 450,
+      "voices": [
+        [
+          0,
+          69,
+          0.29,
+          0.45
+        ],
+        [
+          0.16,
+          64,
+          0.29,
+          0.8
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026101900,
+        2026101901,
+        2026101902
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026101902,
+        "partials": [
+          1.0,
+          0.2326910664155344,
+          0.07,
+          0.07305401590895073,
+          0.012149812454998651
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "carta_4",
+        "action": "carta",
+        "variant": 4,
+        "duration_ms": 450,
+        "rms_active_dbfs": -19.999998864575346,
+        "peak_dbfs": -9.98672537201619,
+        "initial_silence_ms": 4.73922902494331,
+        "tail_rms_dbfs": -95.45004690892269,
+        "sha256": "6cbfb9eda85739ba3a77ace0a359ba87c1164237330d5ed0ead15349588a8f87",
+        "bytes": 39734
+      }
+    },
+    {
+      "id": "giro",
+      "action": "giro",
+      "variant": 1,
+      "duration_ms": 470,
+      "voices": [
+        [
+          0,
+          60,
+          0.3,
+          0.55
+        ],
+        [
+          0.14,
+          67,
+          0.33,
+          0.75
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026102000,
+        2026102001,
+        2026102002
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026102001,
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "attack_seconds": 0.06,
+        "decay": 2.9,
+        "drift_cents": -22
+      },
+      "measurement": {
+        "id": "giro",
+        "action": "giro",
+        "variant": 1,
+        "duration_ms": 470,
+        "rms_active_dbfs": -19.999997911793457,
+        "peak_dbfs": -9.303724246278442,
+        "initial_silence_ms": 4.761904761904763,
+        "tail_rms_dbfs": -95.02152190974999,
+        "sha256": "dfc6db47ce25844b33cc0ca1de1d9609279972325d9f9fcc654c7ab85d5b1f39",
+        "bytes": 41498
+      }
+    },
+    {
+      "id": "giro_2",
+      "action": "giro",
+      "variant": 2,
+      "duration_ms": 500,
+      "voices": [
+        [
+          0,
+          62,
+          0.32,
+          0.75
+        ],
+        [
+          0.22,
+          66,
+          0.28,
+          0.45
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026102100,
+        2026102101,
+        2026102102
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026102100,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.045,
+        "decay": 3.1,
+        "drift_cents": 18
+      },
+      "measurement": {
+        "id": "giro_2",
+        "action": "giro",
+        "variant": 2,
+        "duration_ms": 500,
+        "rms_active_dbfs": -20.000003772394898,
+        "peak_dbfs": -10.207105197743386,
+        "initial_silence_ms": 3.9455782312925174,
+        "tail_rms_dbfs": -94.73941335066823,
+        "sha256": "6dae5d05358b961b363d6400488eed34217c639476926cd29f47009b92bbc29b",
+        "bytes": 44144
+      }
+    },
+    {
+      "id": "giro_3",
+      "action": "giro",
+      "variant": 3,
+      "duration_ms": 460,
+      "voices": [
+        [
+          0,
+          64,
+          0.36,
+          0.65
+        ],
+        [
+          0.1,
+          71,
+          0.36,
+          0.3
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026102200,
+        2026102201,
+        2026102202
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026102201,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.15,
+          0.008
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "giro_3",
+        "action": "giro",
+        "variant": 3,
+        "duration_ms": 460,
+        "rms_active_dbfs": -20.0000056445492,
+        "peak_dbfs": -11.510630291813225,
+        "initial_silence_ms": 4.852607709750567,
+        "tail_rms_dbfs": -95.68128489739406,
+        "sha256": "af9359a825122ba073f762796b76145d3224317ca9a8e7618a1db636624fd08c",
+        "bytes": 40616
+      }
+    },
+    {
+      "id": "giro_4",
+      "action": "giro",
+      "variant": 4,
+      "duration_ms": 490,
+      "voices": [
+        [
+          0,
+          59,
+          0.24,
+          0.5
+        ],
+        [
+          0.15,
+          64,
+          0.25,
+          0.45
+        ],
+        [
+          0.26,
+          68,
+          0.23,
+          0.55
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026102300,
+        2026102301,
+        2026102302
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026102302,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.035,
+        "decay": 3.8,
+        "drift_cents": 28
+      },
+      "measurement": {
+        "id": "giro_4",
+        "action": "giro",
+        "variant": 4,
+        "duration_ms": 490,
+        "rms_active_dbfs": -19.99999771846183,
+        "peak_dbfs": -10.034563138173098,
+        "initial_silence_ms": 4.217687074829931,
+        "tail_rms_dbfs": -95.26119346731895,
+        "sha256": "67768754e390a847bc1e961344a2d9c5363427ccbd7e68d41cf98ab6ee55611d",
+        "bytes": 43262
+      }
+    },
+    {
+      "id": "volverCarta",
+      "action": "volverCarta",
+      "variant": 1,
+      "duration_ms": 450,
+      "voices": [
+        [
+          0,
+          68,
+          0.29,
+          0.5
+        ],
+        [
+          0.17,
+          61,
+          0.28,
+          0.8
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026102400,
+        2026102401,
+        2026102402
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026102400,
+        "partials": [
+          1.0,
+          0.14,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "attack_seconds": 0.045,
+        "decay": 3.1,
+        "drift_cents": 18
+      },
+      "measurement": {
+        "id": "volverCarta",
+        "action": "volverCarta",
+        "variant": 1,
+        "duration_ms": 450,
+        "rms_active_dbfs": -19.999751629722244,
+        "peak_dbfs": -10.051410955768564,
+        "initial_silence_ms": 4.399092970521542,
+        "tail_rms_dbfs": -94.87817738550811,
+        "sha256": "aed85045159d618b084115ffe920a8dc513854f1dc4cb9015222f817691bbee0",
+        "bytes": 39734
+      }
+    },
+    {
+      "id": "volverCarta_2",
+      "action": "volverCarta",
+      "variant": 2,
+      "duration_ms": 480,
+      "voices": [
+        [
+          0,
+          69,
+          0.31,
+          0.35
+        ],
+        [
+          0.1,
+          65,
+          0.3,
+          0.5
+        ],
+        [
+          0.24,
+          62,
+          0.24,
+          0.6
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026102500,
+        2026102501,
+        2026102502
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026102502,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.026921881662134387,
+          0.008
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "volverCarta_2",
+        "action": "volverCarta",
+        "variant": 2,
+        "duration_ms": 480,
+        "rms_active_dbfs": -19.999993664019765,
+        "peak_dbfs": -10.805879131060571,
+        "initial_silence_ms": 4.829931972789116,
+        "tail_rms_dbfs": -95.05076743992318,
+        "sha256": "5fbed99912581284950eda99cbb849eeace3e2dc4811ea13db4bcd808d8f94aa",
+        "bytes": 42380
+      }
+    },
+    {
+      "id": "volverCarta_3",
+      "action": "volverCarta",
+      "variant": 3,
+      "duration_ms": 460,
+      "voices": [
+        [
+          0,
+          66,
+          0.36,
+          0.65
+        ],
+        [
+          0.14,
+          60,
+          0.32,
+          0.5
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026102600,
+        2026102601,
+        2026102602
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026102601,
+        "partials": [
+          1.0,
+          0.38,
+          0.1800529162673141,
+          0.1115152984882345,
+          0.075
+        ],
+        "attack_seconds": 0.035,
+        "decay": 3.8,
+        "drift_cents": 28
+      },
+      "measurement": {
+        "id": "volverCarta_3",
+        "action": "volverCarta",
+        "variant": 3,
+        "duration_ms": 460,
+        "rms_active_dbfs": -19.999994501325023,
+        "peak_dbfs": -9.934988725869491,
+        "initial_silence_ms": 4.353741496598639,
+        "tail_rms_dbfs": -96.10880470160356,
+        "sha256": "70b9032c1384751baee8c9346fd352b4c7819867460f0c949a7ef84d509d010d",
+        "bytes": 40616
+      }
+    },
+    {
+      "id": "volverCarta_4",
+      "action": "volverCarta",
+      "variant": 4,
+      "duration_ms": 500,
+      "voices": [
+        [
+          0,
+          71,
+          0.28,
+          0.45
+        ],
+        [
+          0.23,
+          64,
+          0.27,
+          0.75
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026102700,
+        2026102701,
+        2026102702
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026102700,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.036425915847700656,
+          0.008
+        ],
+        "attack_seconds": 0.06,
+        "decay": 2.9,
+        "drift_cents": -22
+      },
+      "measurement": {
+        "id": "volverCarta_4",
+        "action": "volverCarta",
+        "variant": 4,
+        "duration_ms": 500,
+        "rms_active_dbfs": -19.999997546761787,
+        "peak_dbfs": -10.465000103282659,
+        "initial_silence_ms": 5.26077097505669,
+        "tail_rms_dbfs": -95.58067163731509,
+        "sha256": "e7079082407b248e220670277d6b32bb451b47654fa82e919d990cee1229a7a0",
+        "bytes": 44144
+      }
+    },
+    {
+      "id": "pasar",
+      "action": "pasar",
+      "variant": 1,
+      "duration_ms": 420,
+      "voices": [
+        [
+          0,
+          65,
+          0.42,
+          0.8
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026102800,
+        2026102801,
+        2026102802
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026102800,
+        "partials": [
+          1.0,
+          0.14,
+          0.07628455633704966,
+          0.15,
+          0.075
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "pasar",
+        "action": "pasar",
+        "variant": 1,
+        "duration_ms": 420,
+        "rms_active_dbfs": -20.000002494641652,
+        "peak_dbfs": -11.290024411206351,
+        "initial_silence_ms": 4.671201814058957,
+        "tail_rms_dbfs": -94.90647028569676,
+        "sha256": "0f61c97e178bce32e967b5daf82027df0038b40c89b8f0e91ce5efe2b001c24f",
+        "bytes": 37088
+      }
+    },
+    {
+      "id": "pasar_2",
+      "action": "pasar",
+      "variant": 2,
+      "duration_ms": 450,
+      "voices": [
+        [
+          0,
+          67,
+          0.29,
+          0.35
+        ],
+        [
+          0.13,
+          63,
+          0.32,
+          0.6
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026102900,
+        2026102901,
+        2026102902
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026102901,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.033085499816538314,
+          0.008
+        ],
+        "attack_seconds": 0.035,
+        "decay": 3.8,
+        "drift_cents": 28
+      },
+      "measurement": {
+        "id": "pasar_2",
+        "action": "pasar",
+        "variant": 2,
+        "duration_ms": 450,
+        "rms_active_dbfs": -19.99975441926581,
+        "peak_dbfs": -9.098063596670974,
+        "initial_silence_ms": 4.172335600907029,
+        "tail_rms_dbfs": -95.51486818420189,
+        "sha256": "b719b4823e3e220abe8dcb70e008ff0a214238bd357bb1a37ce920ef930075b4",
+        "bytes": 39734
+      }
+    },
+    {
+      "id": "pasar_3",
+      "action": "pasar",
+      "variant": 3,
+      "duration_ms": 400,
+      "voices": [
+        [
+          0,
+          61,
+          0.4,
+          0.75
+        ],
+        [
+          0.07,
+          66,
+          0.31,
+          0.25
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026103000,
+        2026103001,
+        2026103002
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026103001,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.08750203122416741,
+          0.008
+        ],
+        "attack_seconds": 0.06,
+        "decay": 2.9,
+        "drift_cents": -22
+      },
+      "measurement": {
+        "id": "pasar_3",
+        "action": "pasar",
+        "variant": 3,
+        "duration_ms": 400,
+        "rms_active_dbfs": -19.999727610445184,
+        "peak_dbfs": -11.929530089335273,
+        "initial_silence_ms": 4.467120181405895,
+        "tail_rms_dbfs": -94.87817738550811,
+        "sha256": "00336590def3fc5107b3f190b7c4353ce524fc803ad39cf52d2126a3008fa424",
+        "bytes": 35324
+      }
+    },
+    {
+      "id": "pasar_4",
+      "action": "pasar",
+      "variant": 4,
+      "duration_ms": 460,
+      "voices": [
+        [
+          0,
+          64,
+          0.28,
+          0.6
+        ],
+        [
+          0.2,
+          62,
+          0.26,
+          0.5
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026103100,
+        2026103101,
+        2026103102
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026103102,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025753252395976294,
+          0.008
+        ],
+        "attack_seconds": 0.045,
+        "decay": 3.1,
+        "drift_cents": 18
+      },
+      "measurement": {
+        "id": "pasar_4",
+        "action": "pasar",
+        "variant": 4,
+        "duration_ms": 460,
+        "rms_active_dbfs": -19.999769005142117,
+        "peak_dbfs": -11.127216411846515,
+        "initial_silence_ms": 4.73922902494331,
+        "tail_rms_dbfs": -95.10985603602836,
+        "sha256": "a82165db0835a75a33fd084dee2ef4b528a28f8a4d40686bdd71d11a7020b4dc",
+        "bytes": 40616
+      }
+    },
+    {
+      "id": "deslizamiento",
+      "action": "deslizamiento",
+      "variant": 1,
+      "duration_ms": 300,
+      "voices": [
+        [
+          0,
+          64,
+          0.3,
+          0.7
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026103200,
+        2026103201,
+        2026103202
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026103201,
+        "partials": [
+          1,
+          0.12,
+          0.045,
+          0.02,
+          0.005
+        ],
+        "attack_seconds": 0.07,
+        "decay": 3.8,
+        "drift_cents": -35
+      },
+      "measurement": {
+        "id": "deslizamiento",
+        "action": "deslizamiento",
+        "variant": 1,
+        "duration_ms": 300,
+        "rms_active_dbfs": -19.99998187986834,
+        "peak_dbfs": -11.335850056367951,
+        "initial_silence_ms": 4.852607709750567,
+        "tail_rms_dbfs": -94.93494871442502,
+        "sha256": "c1cf51f38e14152f1d963cef914682232f3f80634b18c5238f12bed3667144a3",
+        "bytes": 26504
+      }
+    },
+    {
+      "id": "abrirAyuda",
+      "action": "abrirAyuda",
+      "variant": 1,
+      "duration_ms": 380,
+      "voices": [
+        [
+          0,
+          61,
+          0.38,
+          0.75
+        ],
+        [
+          0.06,
+          65,
+          0.3,
+          0.3
+        ]
+      ],
+      "prompt": "A single isolated mellow expressive harmonic bloom. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026103300,
+        2026103301,
+        2026103302
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026103301,
+        "partials": [
+          1.0,
+          0.14678972896557776,
+          0.07,
+          0.04115722160970124,
+          0.013636833043112941
+        ],
+        "attack_seconds": 0.06,
+        "decay": 2.9,
+        "drift_cents": -22
+      },
+      "measurement": {
+        "id": "abrirAyuda",
+        "action": "abrirAyuda",
+        "variant": 1,
+        "duration_ms": 380,
+        "rms_active_dbfs": -19.999985775843136,
+        "peak_dbfs": -11.485729496024895,
+        "initial_silence_ms": 4.467120181405895,
+        "tail_rms_dbfs": -95.61395107080438,
+        "sha256": "d8ba4e9535f825ffb78ed20760cadf146b82b96937a597e9e90c4aa6bb74f812",
+        "bytes": 33560
+      }
+    },
+    {
+      "id": "cerrarAyuda",
+      "action": "cerrarAyuda",
+      "variant": 1,
+      "duration_ms": 250,
+      "voices": [
+        [
+          0,
+          59,
+          0.25,
+          0.8
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026103400,
+        2026103401,
+        2026103402
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026103401,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.04239993651110377,
+          0.010073776061636794
+        ],
+        "attack_seconds": 0.045,
+        "decay": 3.1,
+        "drift_cents": 18
+      },
+      "measurement": {
+        "id": "cerrarAyuda",
+        "action": "cerrarAyuda",
+        "variant": 1,
+        "duration_ms": 250,
+        "rms_active_dbfs": -19.99998726213885,
+        "peak_dbfs": -11.619029674323006,
+        "initial_silence_ms": 4.285714285714286,
+        "tail_rms_dbfs": -94.7121847673135,
+        "sha256": "6ae56ed1d5a14dbefb1c4efefa7d159af62b105f5a9a23f7a61157fea3539a48",
+        "bytes": 22094
+      }
+    },
+    {
+      "id": "volverInicio",
+      "action": "volverInicio",
+      "variant": 1,
+      "duration_ms": 350,
+      "voices": [
+        [
+          0,
+          65,
+          0.22,
+          0.55
+        ],
+        [
+          0.11,
+          60,
+          0.24,
+          0.7
+        ]
+      ],
+      "prompt": "A single isolated velvety rounded keyboard resonance. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026103500,
+        2026103501,
+        2026103502
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026103500,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.026745944601064907,
+          0.008
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "volverInicio",
+        "action": "volverInicio",
+        "variant": 1,
+        "duration_ms": 350,
+        "rms_active_dbfs": -20.000300411941172,
+        "peak_dbfs": -10.839052524553093,
+        "initial_silence_ms": 4.6938775510204085,
+        "tail_rms_dbfs": -94.93494871442502,
+        "sha256": "0c088c33cfed015786532bd9e8c5cca1bcb04c46f5ad2eac4827232f697941cb",
+        "bytes": 30914
+      }
+    },
+    {
+      "id": "tutorialSiguiente",
+      "action": "tutorialSiguiente",
+      "variant": 1,
+      "duration_ms": 220,
+      "voices": [
+        [
+          0,
+          70,
+          0.22,
+          0.8
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026103600,
+        2026103601,
+        2026103602
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026103600,
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "attack_seconds": 0.035,
+        "decay": 3.8,
+        "drift_cents": 28
+      },
+      "measurement": {
+        "id": "tutorialSiguiente",
+        "action": "tutorialSiguiente",
+        "variant": 1,
+        "duration_ms": 220,
+        "rms_active_dbfs": -20.00000357809039,
+        "peak_dbfs": -9.790598729154006,
+        "initial_silence_ms": 3.7414965986394555,
+        "tail_rms_dbfs": -94.82213861032812,
+        "sha256": "a1edd2e8d0e005f0d1b1be0e6771d63dace6d9665104d446af0d2ffb56fa55c7",
+        "bytes": 19448
+      }
+    },
+    {
+      "id": "tutorialAnterior",
+      "action": "tutorialAnterior",
+      "variant": 1,
+      "duration_ms": 240,
+      "voices": [
+        [
+          0,
+          63,
+          0.24,
+          0.8
+        ]
+      ],
+      "prompt": "A single isolated mellow expressive harmonic bloom. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026103700,
+        2026103701,
+        2026103702
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026103700,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.05218021523225872,
+          0.008
+        ],
+        "attack_seconds": 0.06,
+        "decay": 2.9,
+        "drift_cents": -22
+      },
+      "measurement": {
+        "id": "tutorialAnterior",
+        "action": "tutorialAnterior",
+        "variant": 1,
+        "duration_ms": 240,
+        "rms_active_dbfs": -19.999993412079395,
+        "peak_dbfs": -12.307120668326393,
+        "initial_silence_ms": 5.0566893424036286,
+        "tail_rms_dbfs": -95.29210423709037,
+        "sha256": "f57461f1ee59bde3573c0880704c404e7a24fdbb09d094fa241607f43c315f9a",
+        "bytes": 21212
+      }
+    },
+    {
+      "id": "tutorialOmitir",
+      "action": "tutorialOmitir",
+      "variant": 1,
+      "duration_ms": 290,
+      "voices": [
+        [
+          0,
+          58,
+          0.29,
+          0.8
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026103800,
+        2026103801,
+        2026103802
+      ],
+      "profile": {
+        "chosen": 1,
+        "seed": 2026103801,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.045,
+        "decay": 3.1,
+        "drift_cents": 18
+      },
+      "measurement": {
+        "id": "tutorialOmitir",
+        "action": "tutorialOmitir",
+        "variant": 1,
+        "duration_ms": 290,
+        "rms_active_dbfs": -19.999632498509957,
+        "peak_dbfs": -11.290996911866616,
+        "initial_silence_ms": 4.489795918367347,
+        "tail_rms_dbfs": -94.63150854983317,
+        "sha256": "4e7c89827692963395b8c136c56fe25416e2512b41c4320319a4f0a7f0d114eb",
+        "bytes": 25622
+      }
+    },
+    {
+      "id": "tutorialCompletar",
+      "action": "tutorialCompletar",
+      "variant": 1,
+      "duration_ms": 760,
+      "voices": [
+        [
+          0,
+          61,
+          0.35,
+          0.7
+        ],
+        [
+          0.18,
+          65,
+          0.33,
+          0.55
+        ],
+        [
+          0.35,
+          68,
+          0.4,
+          0.65
+        ]
+      ],
+      "prompt": "A single isolated velvety rounded keyboard resonance. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026103900,
+        2026103901,
+        2026103902
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026103900,
+        "partials": [
+          1.0,
+          0.27352045825197935,
+          0.07,
+          0.03318278488118261,
+          0.008
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "tutorialCompletar",
+        "action": "tutorialCompletar",
+        "variant": 1,
+        "duration_ms": 760,
+        "rms_active_dbfs": -20.00000071285063,
+        "peak_dbfs": -10.616652434459395,
+        "initial_silence_ms": 4.353741496598639,
+        "tail_rms_dbfs": -180.0,
+        "sha256": "df2c85792edca20de5a1e7a020770d43ae33f5fc6a118b6e83dc3dd9ac15bf12",
+        "bytes": 67076
+      }
+    },
+    {
+      "id": "activarSonido",
+      "action": "activarSonido",
+      "variant": 1,
+      "duration_ms": 340,
+      "voices": [
+        [
+          0,
+          71,
+          0.34,
+          0.7
+        ],
+        [
+          0.075,
+          64,
+          0.23,
+          0.3
+        ]
+      ],
+      "prompt": "A single isolated soft warm glassy legato tone. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026104000,
+        2026104001,
+        2026104002
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026104002,
+        "partials": [
+          1.0,
+          0.38,
+          0.07,
+          0.11358994083013925,
+          0.02499261187945662
+        ],
+        "attack_seconds": 0.035,
+        "decay": 3.8,
+        "drift_cents": 28
+      },
+      "measurement": {
+        "id": "activarSonido",
+        "action": "activarSonido",
+        "variant": 1,
+        "duration_ms": 340,
+        "rms_active_dbfs": -19.999991198561865,
+        "peak_dbfs": -10.153189950274786,
+        "initial_silence_ms": 3.6734693877551017,
+        "tail_rms_dbfs": -95.68128489739406,
+        "sha256": "92b7b6e62dede053b133286f39c77f2e72f57f53a283c9cefe2a7281057debb5",
+        "bytes": 30032
+      }
+    },
+    {
+      "id": "activarVibracion",
+      "action": "activarVibracion",
+      "variant": 1,
+      "duration_ms": 270,
+      "voices": [
+        [
+          0,
+          55,
+          0.16,
+          0.7
+        ],
+        [
+          0.11,
+          62,
+          0.16,
+          0.45
+        ]
+      ],
+      "prompt": "A single isolated mellow expressive harmonic bloom. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026104100,
+        2026104101,
+        2026104102
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026104102,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.010556884774797586
+        ],
+        "attack_seconds": 0.06,
+        "decay": 2.9,
+        "drift_cents": -22
+      },
+      "measurement": {
+        "id": "activarVibracion",
+        "action": "activarVibracion",
+        "variant": 1,
+        "duration_ms": 270,
+        "rms_active_dbfs": -20.000017367177776,
+        "peak_dbfs": -11.462883641276477,
+        "initial_silence_ms": 3.854875283446712,
+        "tail_rms_dbfs": -94.4234234899512,
+        "sha256": "bc34a943ff84e978f1b69b758424fff49bc980112d45bf0261b98865178a735a",
+        "bytes": 23858
+      }
+    },
+    {
+      "id": "desactivarVibracion",
+      "action": "desactivarVibracion",
+      "variant": 1,
+      "duration_ms": 280,
+      "voices": [
+        [
+          0,
+          60,
+          0.16,
+          0.5
+        ],
+        [
+          0.11,
+          56,
+          0.17,
+          0.65
+        ]
+      ],
+      "prompt": "A single isolated silky lightly smiling connected tones. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026104200,
+        2026104201,
+        2026104202
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026104200,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "attack_seconds": 0.045,
+        "decay": 3.1,
+        "drift_cents": 18
+      },
+      "measurement": {
+        "id": "desactivarVibracion",
+        "action": "desactivarVibracion",
+        "variant": 1,
+        "duration_ms": 280,
+        "rms_active_dbfs": -19.999611510462493,
+        "peak_dbfs": -11.711428226058693,
+        "initial_silence_ms": 4.172335600907029,
+        "tail_rms_dbfs": -93.87536729457048,
+        "sha256": "4ecbf1951523189b97001b3da34e17b85aa49f453b3ab5af44354aacc453b7fa",
+        "bytes": 24740
+      }
+    },
+    {
+      "id": "reintentar",
+      "action": "reintentar",
+      "variant": 1,
+      "duration_ms": 320,
+      "voices": [
+        [
+          0,
+          63,
+          0.22,
+          0.65
+        ],
+        [
+          0.11,
+          68,
+          0.21,
+          0.5
+        ]
+      ],
+      "prompt": "A single isolated velvety rounded keyboard resonance. A tiny cheerful charming playful gesture, smoothly connected musical notes, gently swelling mellow harmonic body, soft legato onset and clean natural decay. Dry studio sound effect, silence afterward.",
+      "seeds": [
+        2026104300,
+        2026104301,
+        2026104302
+      ],
+      "profile": {
+        "chosen": 0,
+        "seed": 2026104300,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.08361512336957277,
+          0.04341117637948481
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "reintentar",
+        "action": "reintentar",
+        "variant": 1,
+        "duration_ms": 320,
+        "rms_active_dbfs": -20.000001957279206,
+        "peak_dbfs": -12.277652898625359,
+        "initial_silence_ms": 5.0566893424036286,
+        "tail_rms_dbfs": -94.68512583355425,
+        "sha256": "a683bf46948f558f66379d18a9263509d3ff18da6baebe899d0a162c0a8a8a94",
+        "bytes": 28268
+      }
+    },
+    {
+      "id": "entradaInicio",
+      "action": "entradaInicio",
+      "variant": 1,
+      "duration_ms": 900,
+      "voices": [
+        [
+          0,
+          60,
+          60,
+          0.9,
+          0.38
+        ],
+        [
+          0.09,
+          65,
+          65,
+          0.81,
+          0.6
+        ],
+        [
+          0.18,
+          69,
+          69,
+          0.72,
+          0.24
+        ]
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026100302,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.03661449104299835,
+          0.008
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "entradaInicio",
+        "duration_ms": 900,
+        "rms_active_dbfs": -19.99988400455791,
+        "peak_dbfs": -9.198374198176394,
+        "sha256": "8642bab1f915d4319d595cd3bfca01dc3d17a5c46bac6932b79b49775455f67c",
+        "bytes": 79424
+      }
+    },
+    {
+      "id": "bienvenida",
+      "action": "bienvenida",
+      "variant": 1,
+      "duration_ms": 520,
+      "voices": [
+        [
+          0,
+          65,
+          65,
+          0.52,
+          0.55
+        ],
+        [
+          0.12,
+          69,
+          69,
+          0.4,
+          0.22
+        ]
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026100302,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.03661449104299835,
+          0.008
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "bienvenida",
+        "duration_ms": 520,
+        "rms_active_dbfs": -19.999789624882936,
+        "peak_dbfs": -11.854489539329158,
+        "sha256": "9b54a6c93cb34dfadaab93b53cb764a7f05f48e8f74089677cfd0ecd4894448d",
+        "bytes": 45908
+      }
+    },
+    {
+      "id": "comenzar",
+      "action": "comenzar",
+      "variant": 1,
+      "duration_ms": 1700,
+      "voices": [
+        [
+          0,
+          57,
+          60,
+          1.7,
+          0.62
+        ],
+        [
+          0,
+          65,
+          67,
+          1.7,
+          0.24
+        ]
+      ],
+      "profile": {
+        "chosen": 2,
+        "seed": 2026100302,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.03661449104299835,
+          0.008
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "measurement": {
+        "id": "comenzar",
+        "duration_ms": 1700,
+        "rms_active_dbfs": -20.000001144480024,
+        "peak_dbfs": -10.939339728115655,
+        "sha256": "152c280a7d1e62145b80767cddc8e55b4e2779cc7b9c8b1ee9ea21242f3b383f",
+        "bytes": 149984
+      }
+    }
+  ],
+  "production": {
+    "model": "stabilityai/stable-audio-3-small-sfx",
+    "device": "CUDA",
+    "model_half": true,
+    "source_duration_seconds": 2,
+    "steps": 8,
+    "candidates_per_export": 3,
+    "model_loads": 1,
+    "offline": true,
+    "source_repository_commit": "3a82c807b69cf4b7c5c05270011a5d5e47abac18",
+    "method": "IA aporta perfil armónico; resíntesis tonal elimina residuo de ruido y ataques percusivos; REAPER compone voces",
+    "reaper": "7.81",
+    "noise_source": false,
+    "reverb": false,
+    "air_layer": false,
+    "format": "PCM16 mono 44100 Hz",
+    "active_rms_dbfs": -20,
+    "peak_ceiling_dbfs": -6
+  },
+  "extension": {
+    "guide": "GUIA.md",
+    "provenance": {
+      "model": "stabilityai/stable-audio-3-small-sfx",
+      "source": "alegre-coqueto-v3/candidatos/bienvenida_2.wav",
+      "original_seed": 2026100302,
+      "profile": {
+        "chosen": 2,
+        "seed": 2026100302,
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.03661449104299835,
+          0.008
+        ],
+        "attack_seconds": 0.055,
+        "decay": 2.6,
+        "drift_cents": -12
+      },
+      "method": "Perfil armónico medido de una fuente previa Small-SFX en CUDA; resíntesis con portamento y arreglo nuevo en REAPER. Sin nueva inferencia, ruido aleatorio, percusión ni reverberación."
+    },
+    "timeline_ms": {
+      "bienvenida": 2000,
+      "boton_disponible": 2550,
+      "comenzar": 0,
+      "subida_boton": 550,
+      "silencio_desde": 1700,
+      "entradaInicio": 1850,
+      "fin": 2750
+    }
+  }
+}

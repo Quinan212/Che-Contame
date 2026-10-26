@@ -1,0 +1,321 @@
+{
+  "version": "apertura-5",
+  "provenance": {
+    "model": "stabilityai/stable-audio-3-small-sfx",
+    "source": "alegre-coqueto-v3/candidatos/bienvenida_2.wav",
+    "original_seed": 2026100302,
+    "profile": {
+      "chosen": 2,
+      "seed": 2026100302,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.03661449104299835,
+        0.008
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    },
+    "method": "Perfil armónico medido de una fuente previa Small-SFX en CUDA; resíntesis con alturas fijas y acordes solapados, y arreglo nuevo en REAPER. Sin nueva inferencia, ruido aleatorio, percusión ni reverberación."
+  },
+  "candidates": [
+    {
+      "id": "bienvenida-a",
+      "action": "bienvenida",
+      "duration_ms": 520,
+      "voices": [
+        [
+          0,
+          65,
+          65,
+          0.52,
+          0.55
+        ],
+        [
+          0.09,
+          69,
+          69,
+          0.43,
+          0.28
+        ],
+        [
+          0.15,
+          72,
+          72,
+          0.37,
+          0.12
+        ]
+      ]
+    },
+    {
+      "id": "bienvenida-b",
+      "action": "bienvenida",
+      "duration_ms": 520,
+      "voices": [
+        [
+          0,
+          65,
+          65,
+          0.52,
+          0.55
+        ],
+        [
+          0.055,
+          72,
+          72,
+          0.465,
+          0.12
+        ],
+        [
+          0.145,
+          69,
+          69,
+          0.375,
+          0.28
+        ]
+      ]
+    },
+    {
+      "id": "bienvenida-c",
+      "action": "bienvenida",
+      "duration_ms": 520,
+      "voices": [
+        [
+          0,
+          69,
+          69,
+          0.52,
+          0.42
+        ],
+        [
+          0.075,
+          65,
+          65,
+          0.445,
+          0.38
+        ],
+        [
+          0.16,
+          74,
+          74,
+          0.36,
+          0.1
+        ]
+      ]
+    },
+    {
+      "id": "comenzar-a",
+      "action": "comenzar",
+      "duration_ms": 1700,
+      "voices": [
+        [
+          0,
+          53,
+          53,
+          1.7,
+          0.38
+        ],
+        [
+          0.025,
+          60,
+          60,
+          1.675,
+          0.31
+        ],
+        [
+          0.07,
+          67,
+          67,
+          0.83,
+          0.13
+        ],
+        [
+          0.3,
+          69,
+          69,
+          1.4,
+          0.19
+        ],
+        [
+          0.5,
+          65,
+          65,
+          1.2,
+          0.27
+        ]
+      ]
+    },
+    {
+      "id": "comenzar-b",
+      "action": "comenzar",
+      "duration_ms": 1700,
+      "voices": [
+        [
+          0,
+          53,
+          53,
+          1.7,
+          0.36
+        ],
+        [
+          0.025,
+          60,
+          60,
+          1.675,
+          0.31
+        ],
+        [
+          0.08,
+          67,
+          67,
+          0.8,
+          0.14
+        ],
+        [
+          0.36,
+          69,
+          69,
+          1.34,
+          0.2
+        ],
+        [
+          0.52,
+          65,
+          65,
+          1.18,
+          0.28
+        ]
+      ]
+    },
+    {
+      "id": "comenzar-c",
+      "action": "comenzar",
+      "duration_ms": 1700,
+      "voices": [
+        [
+          0,
+          48,
+          48,
+          1.7,
+          0.34
+        ],
+        [
+          0.04,
+          60,
+          60,
+          1.66,
+          0.29
+        ],
+        [
+          0.09,
+          62,
+          62,
+          0.81,
+          0.12
+        ],
+        [
+          0.34,
+          64,
+          64,
+          1.36,
+          0.25
+        ],
+        [
+          0.54,
+          67,
+          67,
+          1.16,
+          0.18
+        ]
+      ]
+    }
+  ],
+  "selected": {
+    "bienvenida": "bienvenida-b",
+    "comenzar": "comenzar-b"
+  },
+  "selection_reason": "Bienvenida: tríada luminosa F4/C5/A4, breve y solapada. Comenzar: base F3/C4, novena transitoria G4 y resolución cálida A4/F4; alturas fijas, ataques suaves y sin glissando. Llegada existente conservada. Selección de arreglo, pendiente de valoración auditiva de Alan.",
+  "timeline_ms": {
+    "bienvenida": 2000,
+    "boton_disponible": 2550,
+    "comenzar": 0,
+    "subida_boton": 550,
+    "silencio_desde": 1700,
+    "entradaInicio": 1850,
+    "fin": 2750
+  },
+  "voice_design": {
+    "pitch": "Fixed frequency per voice; no pitch bend, vibrato or drift",
+    "welcome_attack_ms": 50,
+    "begin_attack_ms": 100,
+    "welcome_decay": 1.5,
+    "begin_decay": 0.65,
+    "welcome_harmonic_scale": [
+      1,
+      0.9,
+      0.8,
+      0.5,
+      0.3
+    ],
+    "begin_harmonic_scale": [
+      1,
+      0.75,
+      0.55,
+      0.3,
+      0.15
+    ],
+    "reference": "Carácter general de una apertura de sistema, sin copiar ninguna firma comercial."
+  },
+  "measurements": [
+    {
+      "id": "bienvenida-a",
+      "duration_ms": 520,
+      "rms_active_dbfs": -20.000002135920333,
+      "peak_dbfs": -11.47082321188237,
+      "sha256": "4c2c57be3cdc1c1e341769d48c9021d8ff3e735e2fb1aea71b7e300f4a048669",
+      "bytes": 45908
+    },
+    {
+      "id": "bienvenida-b",
+      "duration_ms": 520,
+      "rms_active_dbfs": -19.999998931951588,
+      "peak_dbfs": -11.87318898603062,
+      "sha256": "364d219d8c11c49e75c5bf67eb5654ff84f7d630b91271a97dbe335fcd3c4cb1",
+      "bytes": 45908
+    },
+    {
+      "id": "bienvenida-c",
+      "duration_ms": 520,
+      "rms_active_dbfs": -20.0002051574294,
+      "peak_dbfs": -10.416497623822265,
+      "sha256": "c1841b12cb7a427b5b77304eb10974c4a0fea2626fc1b7e6fcf16520d464fbbf",
+      "bytes": 45908
+    },
+    {
+      "id": "comenzar-a",
+      "duration_ms": 1700,
+      "rms_active_dbfs": -20.00006304886981,
+      "peak_dbfs": -9.67679040472473,
+      "sha256": "894f313592f95efae9dcf10e83cb1ef8cf053fed478f0aa0abce244a2c5c325a",
+      "bytes": 149984
+    },
+    {
+      "id": "comenzar-b",
+      "duration_ms": 1700,
+      "rms_active_dbfs": -20.000006970532503,
+      "peak_dbfs": -9.387684094580607,
+      "sha256": "9e9d57ac18fc7d124173972c33a7bec916f6ab90b700aca8229498171f21e6f8",
+      "bytes": 149984
+    },
+    {
+      "id": "comenzar-c",
+      "duration_ms": 1700,
+      "rms_active_dbfs": -19.999819310887105,
+      "peak_dbfs": -10.282980038785997,
+      "sha256": "5562ecbde766ddd9a40f596c5ef8324b52eefeeb5f067824fbe8c476dd36c3fd",
+      "bytes": 149984
+    }
+  ]
+}

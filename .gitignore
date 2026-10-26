@@ -1,0 +1,86 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.pid
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Widget Preview related
+.widget_preview/
+
+# Resultados locales y dependencias regenerables.
+/qa/
+/output/
+/tmp/
+/android/build/
+/android/.kotlin/
+node_modules/
+**/__pycache__/
+.vscode/settings.json
+AGENTS.md
+design-qa.md
+*.apk
+*.aab
+*.jks
+*.keystore
+*.pem
+key.properties
+
+# Firma exclusiva de Che Contame, incluida por indicación del propietario.
+!/android/key.properties
+!/android/firma-che-contame/che-contame-upload.jks
+!/android/firma-che-contame/che-contame-upload-certificate.pem
+!/android/firma-che-contame/credenciales.properties
+
+# Solo los documentos fuente; las capturas y los respaldos quedan locales.
+/docs/**/*
+!/docs/**/
+!/docs/**/*.md
+!/docs/**/*.txt
+!/docs/**/*.json
+!/docs/**/*.csv
+!/docs/**/*.svg
+/android/firma-che-contame/*
+!/android/firma-che-contame/che-contame-upload.jks
+!/android/firma-che-contame/che-contame-upload-certificate.pem
+!/android/firma-che-contame/credenciales.properties

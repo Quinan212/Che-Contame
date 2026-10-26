@@ -1,0 +1,276 @@
+{
+  "version": "apertura-3",
+  "provenance": {
+    "model": "stabilityai/stable-audio-3-small-sfx",
+    "source": "alegre-coqueto-v3/candidatos/bienvenida_2.wav",
+    "original_seed": 2026100302,
+    "profile": {
+      "chosen": 2,
+      "seed": 2026100302,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.03661449104299835,
+        0.008
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    },
+    "method": "Perfil armónico medido de una fuente previa Small-SFX en CUDA; resíntesis con portamento y arreglo nuevo en REAPER. Sin nueva inferencia, ruido aleatorio, percusión ni reverberación."
+  },
+  "candidates": [
+    {
+      "id": "comenzar-a",
+      "action": "comenzar",
+      "duration_ms": 1700,
+      "voices": [
+        [
+          0,
+          65,
+          65,
+          0.52,
+          0.5
+        ],
+        [
+          0.08,
+          69,
+          69,
+          0.44,
+          0.22
+        ],
+        [
+          0.55,
+          53,
+          57,
+          1.15,
+          0.6
+        ],
+        [
+          0.55,
+          60,
+          62,
+          1.15,
+          0.28
+        ]
+      ]
+    },
+    {
+      "id": "comenzar-b",
+      "action": "comenzar",
+      "duration_ms": 1700,
+      "voices": [
+        [
+          0,
+          65,
+          65,
+          0.52,
+          0.55
+        ],
+        [
+          0.12,
+          69,
+          69,
+          0.4,
+          0.22
+        ],
+        [
+          0.55,
+          57,
+          60,
+          1.15,
+          0.62
+        ],
+        [
+          0.55,
+          65,
+          67,
+          1.15,
+          0.24
+        ]
+      ]
+    },
+    {
+      "id": "comenzar-c",
+      "action": "comenzar",
+      "duration_ms": 1700,
+      "voices": [
+        [
+          0,
+          62,
+          62,
+          0.52,
+          0.5
+        ],
+        [
+          0.06,
+          69,
+          69,
+          0.46,
+          0.25
+        ],
+        [
+          0.55,
+          53,
+          60,
+          1.15,
+          0.55
+        ],
+        [
+          0.6,
+          60,
+          65,
+          1.1,
+          0.25
+        ]
+      ]
+    },
+    {
+      "id": "entradaInicio-a",
+      "action": "entradaInicio",
+      "duration_ms": 900,
+      "voices": [
+        [
+          0,
+          60,
+          60,
+          0.9,
+          0.45
+        ],
+        [
+          0.08,
+          65,
+          65,
+          0.82,
+          0.55
+        ],
+        [
+          0.16,
+          69,
+          69,
+          0.74,
+          0.28
+        ]
+      ]
+    },
+    {
+      "id": "entradaInicio-b",
+      "action": "entradaInicio",
+      "duration_ms": 900,
+      "voices": [
+        [
+          0,
+          60,
+          60,
+          0.9,
+          0.38
+        ],
+        [
+          0.09,
+          65,
+          65,
+          0.81,
+          0.6
+        ],
+        [
+          0.18,
+          69,
+          69,
+          0.72,
+          0.24
+        ]
+      ]
+    },
+    {
+      "id": "entradaInicio-c",
+      "action": "entradaInicio",
+      "duration_ms": 900,
+      "voices": [
+        [
+          0,
+          57,
+          57,
+          0.9,
+          0.36
+        ],
+        [
+          0.1,
+          60,
+          60,
+          0.8,
+          0.42
+        ],
+        [
+          0.2,
+          65,
+          65,
+          0.7,
+          0.55
+        ]
+      ]
+    }
+  ],
+  "selected": {
+    "comenzar": "comenzar-b",
+    "entradaInicio": "entradaInicio-b"
+  },
+  "selection_reason": "Ascenso ligado moderado y acorde abierto de llegada; sin salto de octava, ataques duros ni escalas de pitidos.",
+  "timeline_ms": {
+    "comenzar": 0,
+    "subida_boton": 550,
+    "silencio_desde": 1700,
+    "entradaInicio": 3700,
+    "fin": 4600
+  },
+  "measurements": [
+    {
+      "id": "comenzar-a",
+      "duration_ms": 1700,
+      "rms_active_dbfs": -19.999997818201795,
+      "peak_dbfs": -10.35079135225949,
+      "sha256": "55b2b17512d5b92f0062ce802cc9a78013d80976e27af19f1cd9c56785cad122",
+      "bytes": 149984
+    },
+    {
+      "id": "comenzar-b",
+      "duration_ms": 1700,
+      "rms_active_dbfs": -19.99993779077432,
+      "peak_dbfs": -10.713480044600647,
+      "sha256": "6a7bd5a3623b5e88f7ac3207c7dfac048adb943d72b38c5cc56792c5613e825c",
+      "bytes": 149984
+    },
+    {
+      "id": "comenzar-c",
+      "duration_ms": 1700,
+      "rms_active_dbfs": -19.999934668690067,
+      "peak_dbfs": -10.839975818695663,
+      "sha256": "3895e3351c0ff705af5ea5722b943236786fca7068acc578d9391df328e807c7",
+      "bytes": 149984
+    },
+    {
+      "id": "entradaInicio-a",
+      "duration_ms": 900,
+      "rms_active_dbfs": -19.999994709939102,
+      "peak_dbfs": -8.613184871036253,
+      "sha256": "fbe0673d59781ac49c8db4d356593be068de192985947a1ef0caa799de79827e",
+      "bytes": 79424
+    },
+    {
+      "id": "entradaInicio-b",
+      "duration_ms": 900,
+      "rms_active_dbfs": -19.99988400455791,
+      "peak_dbfs": -9.198374198176394,
+      "sha256": "8642bab1f915d4319d595cd3bfca01dc3d17a5c46bac6932b79b49775455f67c",
+      "bytes": 79424
+    },
+    {
+      "id": "entradaInicio-c",
+      "duration_ms": 900,
+      "rms_active_dbfs": -20.00000082386635,
+      "peak_dbfs": -7.987475264622123,
+      "sha256": "ddccda8d5f9d0e685102940c6244ce434e9ff4ecd69810a7b402d3fe0b130aa6",
+      "bytes": 79424
+    }
+  ]
+}

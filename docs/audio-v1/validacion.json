@@ -1,0 +1,240 @@
+{
+  "passed": true,
+  "count": 29,
+  "bytes": 529594,
+  "effects": [
+    {
+      "id": "bienvenida",
+      "duration_ms": 450,
+      "active_rms_dbfs": -20.00000768374861,
+      "peak_dbfs": -10.488023170140828,
+      "sha256": "09b737491e2f9da93d43e71b108b9e1e67d5abf2ff569956efa6a06da5b67176",
+      "bytes": 39734
+    },
+    {
+      "id": "cierre",
+      "duration_ms": 600,
+      "active_rms_dbfs": -19.999831487570116,
+      "peak_dbfs": -9.978359880049057,
+      "sha256": "b9541a90e264c9d7e2a2a2f7befd9323aeb2b98c8ddd227992e5c32004d00487",
+      "bytes": 52964
+    },
+    {
+      "id": "nivelSuave",
+      "duration_ms": 120,
+      "active_rms_dbfs": -19.999977185136636,
+      "peak_dbfs": -14.054741363886984,
+      "sha256": "16b85e2f848afacec6460a37bfa3ce7277cbaec5b460d2c0176814cc33a4434d",
+      "bytes": 10628
+    },
+    {
+      "id": "nivelMedio",
+      "duration_ms": 150,
+      "active_rms_dbfs": -20.000010091675243,
+      "peak_dbfs": -11.966243644065473,
+      "sha256": "241a902b66ced30ae9149e65c69428aa1316e7f6613bd45e2d6704955e1349f4",
+      "bytes": 13274
+    },
+    {
+      "id": "nivelProfundo",
+      "duration_ms": 180,
+      "active_rms_dbfs": -20.000008012010845,
+      "peak_dbfs": -12.411605564289307,
+      "sha256": "6599f0306030b9aa2f1c04c4f5a27926485ff7ac93abdce092f7531b5a1b06c6",
+      "bytes": 15920
+    },
+    {
+      "id": "rondaCorta",
+      "duration_ms": 180,
+      "active_rms_dbfs": -19.999992387212508,
+      "peak_dbfs": -11.855527342023272,
+      "sha256": "a7ecfd9ebb947f42aee9db0368e328213fbec882f3101a14d8c857e266c50929",
+      "bytes": 15920
+    },
+    {
+      "id": "rondaLarga",
+      "duration_ms": 240,
+      "active_rms_dbfs": -20.000004190148964,
+      "peak_dbfs": -12.536424191489836,
+      "sha256": "966b0c42899d2f0848fed0526526c27a9ba975e9fc607e5978dd14cb882e2d47",
+      "bytes": 21212
+    },
+    {
+      "id": "iniciarRonda",
+      "duration_ms": 260,
+      "active_rms_dbfs": -20.000003501745226,
+      "peak_dbfs": -10.926274027260108,
+      "sha256": "6ad88585baeceb408463f83020580d6e5bb812aa01458d2c6e781b44feba6b07",
+      "bytes": 22976
+    },
+    {
+      "id": "retomarRonda",
+      "duration_ms": 180,
+      "active_rms_dbfs": -20.000006539021523,
+      "peak_dbfs": -11.806884163001081,
+      "sha256": "7de5074fc35db8e614f84f747d4254ad990cd79b1ee74032a44074a4ac26d607",
+      "bytes": 15920
+    },
+    {
+      "id": "otraRonda",
+      "duration_ms": 220,
+      "active_rms_dbfs": -20.000005561285697,
+      "peak_dbfs": -11.421319546377475,
+      "sha256": "116e166064045b7b27d939cf8dd8c51467741af7b3a5263f9780ffff5019386f",
+      "bytes": 19448
+    },
+    {
+      "id": "abrirConsignas",
+      "duration_ms": 160,
+      "active_rms_dbfs": -20.00001376125233,
+      "peak_dbfs": -11.307546104191209,
+      "sha256": "1a311d886c8cd7433e1da49a0795d25015836f6a08c113356b7e9bc6bd8447b8",
+      "bytes": 14156
+    },
+    {
+      "id": "abrirTutorial",
+      "duration_ms": 180,
+      "active_rms_dbfs": -20.00000249213761,
+      "peak_dbfs": -11.55362735819564,
+      "sha256": "8dab523ef47d49a340512a19fff975a808416489e05b381e06c40e3d9ffd21eb",
+      "bytes": 15920
+    },
+    {
+      "id": "abrirLaboratorio",
+      "duration_ms": 200,
+      "active_rms_dbfs": -19.999997985490946,
+      "peak_dbfs": -11.659523405651292,
+      "sha256": "d0fba64b670316bb998ac1671c9902a86a5d8d4b87aeebbc299dc956b927bbb3",
+      "bytes": 17684
+    },
+    {
+      "id": "carta",
+      "duration_ms": 360,
+      "active_rms_dbfs": -19.99999530966737,
+      "peak_dbfs": -7.568249603404106,
+      "sha256": "727c0ddf794532678461e1f3f56e8c532a800f5a0f2ee73dd406c49376826d3d",
+      "bytes": 31796
+    },
+    {
+      "id": "giro",
+      "duration_ms": 300,
+      "active_rms_dbfs": -19.999673656189515,
+      "peak_dbfs": -11.355423900455627,
+      "sha256": "ed7b3893aac8e6899b724f1612e1c80615d8c74935e20e677b05ed8cf15621ee",
+      "bytes": 26504
+    },
+    {
+      "id": "volverCarta",
+      "duration_ms": 280,
+      "active_rms_dbfs": -20.00000764400098,
+      "peak_dbfs": -10.90020144015908,
+      "sha256": "2f9c87ba5c5db693242bbecdbe5424faa794a3c12604f74c8fec0bddcd9c57e9",
+      "bytes": 24740
+    },
+    {
+      "id": "pasar",
+      "duration_ms": 260,
+      "active_rms_dbfs": -19.99999675027629,
+      "peak_dbfs": -12.83561284505847,
+      "sha256": "6f9f8d93e1176ab1bcca005f5c8fd4a04d9e5cdbfecf0a8d0ef00a53a62e6cc5",
+      "bytes": 22976
+    },
+    {
+      "id": "deslizamiento",
+      "duration_ms": 210,
+      "active_rms_dbfs": -20.000006643813222,
+      "peak_dbfs": -7.058307968207239,
+      "sha256": "3c0b2f006da0dc34bee55e80d507eb1926db7728085378bd23e5319ad3d922ef",
+      "bytes": 18566
+    },
+    {
+      "id": "abrirAyuda",
+      "duration_ms": 160,
+      "active_rms_dbfs": -20.000010559318774,
+      "peak_dbfs": -10.972090226096032,
+      "sha256": "31fc8aa89c30ac8ed68b9854be1466ccdc66e9b7c808970a13d7014696bd2ede",
+      "bytes": 14156
+    },
+    {
+      "id": "cerrarAyuda",
+      "duration_ms": 120,
+      "active_rms_dbfs": -20.00000696133143,
+      "peak_dbfs": -12.40718076050637,
+      "sha256": "6e564b80eb4e104fe1cbfeef4b550e2511d684d57754779ec733a149961c7d69",
+      "bytes": 10628
+    },
+    {
+      "id": "volverInicio",
+      "duration_ms": 140,
+      "active_rms_dbfs": -20.000000071013652,
+      "peak_dbfs": -11.819277824516059,
+      "sha256": "b1bb02a28a6a52d89c603a319a8bc0601362137cd6b75eb40e22e7e61f3f7949",
+      "bytes": 12392
+    },
+    {
+      "id": "tutorialSiguiente",
+      "duration_ms": 100,
+      "active_rms_dbfs": -20.000008714034422,
+      "peak_dbfs": -12.87870752502672,
+      "sha256": "ef027162b0c721f3c824ae9d75fd3823f691ddf6f307fa6d4e1fe77152c99965",
+      "bytes": 8864
+    },
+    {
+      "id": "tutorialAnterior",
+      "duration_ms": 100,
+      "active_rms_dbfs": -19.99998857472236,
+      "peak_dbfs": -12.642585131534855,
+      "sha256": "cc75ed7cdd0c590b72cd4138cc379d1696ec84821dad180619f2bb5140fdf1f7",
+      "bytes": 8864
+    },
+    {
+      "id": "tutorialOmitir",
+      "duration_ms": 120,
+      "active_rms_dbfs": -20.00002070503955,
+      "peak_dbfs": -12.014732959721883,
+      "sha256": "ab1a9d6c61605e0ce90aac42d72bae2d0e4e0c3828a604e51a81b77f91709533",
+      "bytes": 10628
+    },
+    {
+      "id": "tutorialCompletar",
+      "duration_ms": 280,
+      "active_rms_dbfs": -20.000007676960937,
+      "peak_dbfs": -11.808948545574808,
+      "sha256": "807e6fdff6181b16d35314fc2eb9b4b7ef5676343d92650c4c964a7a7eeb5ef1",
+      "bytes": 24740
+    },
+    {
+      "id": "activarSonido",
+      "duration_ms": 120,
+      "active_rms_dbfs": -19.99999837635276,
+      "peak_dbfs": -11.228975345562954,
+      "sha256": "f3f0749f043382099702796fe42904d50a9ab4d38abb557d3531c73f991f31c3",
+      "bytes": 10628
+    },
+    {
+      "id": "activarVibracion",
+      "duration_ms": 100,
+      "active_rms_dbfs": -20.00000350254119,
+      "peak_dbfs": -11.779062913729952,
+      "sha256": "5cc8ab54bcda2c05e56f90a131f86be9e7cfbcbde2dacf08fea06c2d977b88f1",
+      "bytes": 8864
+    },
+    {
+      "id": "desactivarVibracion",
+      "duration_ms": 100,
+      "active_rms_dbfs": -20.0000162651162,
+      "peak_dbfs": -11.792447206699512,
+      "sha256": "48997ba54805b2bc1cb6bb8ef4f578eebe967874614d235440a2603fdf95d49e",
+      "bytes": 8864
+    },
+    {
+      "id": "reintentar",
+      "duration_ms": 120,
+      "active_rms_dbfs": -20.000826413331776,
+      "peak_dbfs": -11.821345155154894,
+      "sha256": "3c3644ea708b34c970dbff1668ccf339dddc506d97e60e8944cbd0d03c1428a3",
+      "bytes": 10628
+    }
+  ],
+  "similar_pairs": []
+}

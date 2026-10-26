@@ -1,0 +1,215 @@
+{
+  "version": "apertura-4",
+  "provenance": {
+    "model": "stabilityai/stable-audio-3-small-sfx",
+    "source": "alegre-coqueto-v3/candidatos/bienvenida_2.wav",
+    "original_seed": 2026100302,
+    "profile": {
+      "chosen": 2,
+      "seed": 2026100302,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.03661449104299835,
+        0.008
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    },
+    "method": "Perfil armónico medido de una fuente previa Small-SFX en CUDA; resíntesis con portamento y arreglo nuevo en REAPER. Sin nueva inferencia, ruido aleatorio, percusión ni reverberación."
+  },
+  "candidates": [
+    {
+      "id": "bienvenida-a",
+      "action": "bienvenida",
+      "duration_ms": 520,
+      "voices": [
+        [
+          0,
+          65,
+          65,
+          0.52,
+          0.5
+        ],
+        [
+          0.08,
+          69,
+          69,
+          0.44,
+          0.22
+        ]
+      ]
+    },
+    {
+      "id": "bienvenida-b",
+      "action": "bienvenida",
+      "duration_ms": 520,
+      "voices": [
+        [
+          0,
+          65,
+          65,
+          0.52,
+          0.55
+        ],
+        [
+          0.12,
+          69,
+          69,
+          0.4,
+          0.22
+        ]
+      ]
+    },
+    {
+      "id": "bienvenida-c",
+      "action": "bienvenida",
+      "duration_ms": 520,
+      "voices": [
+        [
+          0,
+          62,
+          62,
+          0.52,
+          0.5
+        ],
+        [
+          0.06,
+          69,
+          69,
+          0.46,
+          0.25
+        ]
+      ]
+    },
+    {
+      "id": "comenzar-a",
+      "action": "comenzar",
+      "duration_ms": 1700,
+      "voices": [
+        [
+          0,
+          53,
+          57,
+          1.7,
+          0.6
+        ],
+        [
+          0,
+          60,
+          62,
+          1.7,
+          0.28
+        ]
+      ]
+    },
+    {
+      "id": "comenzar-b",
+      "action": "comenzar",
+      "duration_ms": 1700,
+      "voices": [
+        [
+          0,
+          57,
+          60,
+          1.7,
+          0.62
+        ],
+        [
+          0,
+          65,
+          67,
+          1.7,
+          0.24
+        ]
+      ]
+    },
+    {
+      "id": "comenzar-c",
+      "action": "comenzar",
+      "duration_ms": 1700,
+      "voices": [
+        [
+          0,
+          53,
+          60,
+          1.7,
+          0.55
+        ],
+        [
+          0.05,
+          60,
+          65,
+          1.65,
+          0.25
+        ]
+      ]
+    }
+  ],
+  "selected": {
+    "bienvenida": "bienvenida-b",
+    "comenzar": "comenzar-b"
+  },
+  "selection_reason": "Guiño previo para la aparición; al tocar, solamente el ascenso ligado sin el motivo inicial. Llegada existente conservada.",
+  "timeline_ms": {
+    "bienvenida": 2000,
+    "boton_disponible": 2550,
+    "comenzar": 0,
+    "subida_boton": 550,
+    "silencio_desde": 1700,
+    "entradaInicio": 1850,
+    "fin": 2750
+  },
+  "measurements": [
+    {
+      "id": "bienvenida-a",
+      "duration_ms": 520,
+      "rms_active_dbfs": -19.999990957591876,
+      "peak_dbfs": -11.03701944724953,
+      "sha256": "61a8f13f3a4671edc6c9f232d80cbf8ad729e272e7a313dc6a0c0a112a222b05",
+      "bytes": 45908
+    },
+    {
+      "id": "bienvenida-b",
+      "duration_ms": 520,
+      "rms_active_dbfs": -19.999789624882936,
+      "peak_dbfs": -11.854489539329158,
+      "sha256": "9b54a6c93cb34dfadaab93b53cb764a7f05f48e8f74089677cfd0ecd4894448d",
+      "bytes": 45908
+    },
+    {
+      "id": "bienvenida-c",
+      "duration_ms": 520,
+      "rms_active_dbfs": -19.999993437383864,
+      "peak_dbfs": -10.293378152124449,
+      "sha256": "25736484ffebd544d925c5ed6bcd941ff99288afdade6e8795214bb8464d3d37",
+      "bytes": 45908
+    },
+    {
+      "id": "comenzar-a",
+      "duration_ms": 1700,
+      "rms_active_dbfs": -20.00006230010738,
+      "peak_dbfs": -10.736259731504871,
+      "sha256": "31f3f91fb0844f408406265c7cfa78bfe35ed7bbf077e303e9b21720e5405cb4",
+      "bytes": 149984
+    },
+    {
+      "id": "comenzar-b",
+      "duration_ms": 1700,
+      "rms_active_dbfs": -20.000001144480024,
+      "peak_dbfs": -10.939339728115655,
+      "sha256": "152c280a7d1e62145b80767cddc8e55b4e2779cc7b9c8b1ee9ea21242f3b383f",
+      "bytes": 149984
+    },
+    {
+      "id": "comenzar-c",
+      "duration_ms": 1700,
+      "rms_active_dbfs": -20.000004325039992,
+      "peak_dbfs": -11.057823983275084,
+      "sha256": "1c2088cf09676a454e5afdbfd5e99449fe7adf05e45aca52c566bec15a01588c",
+      "bytes": 149984
+    }
+  ]
+}

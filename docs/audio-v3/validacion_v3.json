@@ -1,0 +1,417 @@
+{
+  "passed": true,
+  "count": 41,
+  "bytes": 1644970,
+  "measurements": [
+    {
+      "id": "bienvenida",
+      "action": "bienvenida",
+      "variant": 1,
+      "duration_ms": 950,
+      "rms_active_dbfs": -20.000001712473384,
+      "peak_dbfs": -10.298581880470646,
+      "sha256": "6d4ded70899279ebe39751c608f56ba2a691fcf4b315d32099420eff2b926e54",
+      "bytes": 83834
+    },
+    {
+      "id": "cierre",
+      "action": "cierre",
+      "variant": 1,
+      "duration_ms": 1050,
+      "rms_active_dbfs": -19.999994518046087,
+      "peak_dbfs": -8.866207434399554,
+      "sha256": "a59f45c34d39c8e1e77ab3c859ded3a916d59e04236ab3b70712a25deab76197",
+      "bytes": 92654
+    },
+    {
+      "id": "nivelSuave",
+      "action": "nivelSuave",
+      "variant": 1,
+      "duration_ms": 250,
+      "rms_active_dbfs": -20.000005806672792,
+      "peak_dbfs": -12.049686285112283,
+      "sha256": "ff47f1520fbb7574990f9ea01c6efb8575b90aec0fe5cc5ad802a0c801c24b0f",
+      "bytes": 22094
+    },
+    {
+      "id": "nivelMedio",
+      "action": "nivelMedio",
+      "variant": 1,
+      "duration_ms": 300,
+      "rms_active_dbfs": -19.999999976050113,
+      "peak_dbfs": -11.976761797007441,
+      "sha256": "673937c9f9393a7d32538d8929adf32788dd89d3dddc4cf6cf33aebe5552a3ed",
+      "bytes": 26504
+    },
+    {
+      "id": "nivelProfundo",
+      "action": "nivelProfundo",
+      "variant": 1,
+      "duration_ms": 370,
+      "rms_active_dbfs": -19.99969865795963,
+      "peak_dbfs": -11.946294175867173,
+      "sha256": "e0bb0f1e1197483fff088098713a42dd34da2a6066c1184159b2bf3a7bfaed0a",
+      "bytes": 32678
+    },
+    {
+      "id": "rondaCorta",
+      "action": "rondaCorta",
+      "variant": 1,
+      "duration_ms": 400,
+      "rms_active_dbfs": -20.000006717489846,
+      "peak_dbfs": -10.967404016304416,
+      "sha256": "46f805539a961054dcc1db07cc2a91d2c911a0ed8380f13682d0bed3f5c0af5c",
+      "bytes": 35324
+    },
+    {
+      "id": "rondaLarga",
+      "action": "rondaLarga",
+      "variant": 1,
+      "duration_ms": 520,
+      "rms_active_dbfs": -19.99979690729522,
+      "peak_dbfs": -11.882553827517919,
+      "sha256": "07112994d82dd9e819853564f94ad02d7bf743ab1d43cb108ed53be8d917b4cd",
+      "bytes": 45908
+    },
+    {
+      "id": "iniciarRonda",
+      "action": "iniciarRonda",
+      "variant": 1,
+      "duration_ms": 680,
+      "rms_active_dbfs": -20.000171431441274,
+      "peak_dbfs": -10.718031205112457,
+      "sha256": "dda98263cb241519157a0f598e9d75bc12a92f0aff07f923a0fda0a4ee98d2e3",
+      "bytes": 60020
+    },
+    {
+      "id": "retomarRonda",
+      "action": "retomarRonda",
+      "variant": 1,
+      "duration_ms": 530,
+      "rms_active_dbfs": -19.999990282969353,
+      "peak_dbfs": -10.136995263956008,
+      "sha256": "f0a662eaf928e372e85309813038eee2146b30143ccabcc59e21ed82ad6e4fa1",
+      "bytes": 46790
+    },
+    {
+      "id": "otraRonda",
+      "action": "otraRonda",
+      "variant": 1,
+      "duration_ms": 620,
+      "rms_active_dbfs": -20.000002005557555,
+      "peak_dbfs": -9.638915240290864,
+      "sha256": "f01e9658158730daaa18af1027c637ff6a9106b9f4868702f407985e46dec843",
+      "bytes": 54728
+    },
+    {
+      "id": "abrirConsignas",
+      "action": "abrirConsignas",
+      "variant": 1,
+      "duration_ms": 420,
+      "rms_active_dbfs": -20.000245104714356,
+      "peak_dbfs": -11.331940575200088,
+      "sha256": "81f7ad2d919ab1d87aaac6f22c0092e1d1c32f45a2d22ed0170208b20b81ac15",
+      "bytes": 37088
+    },
+    {
+      "id": "abrirTutorial",
+      "action": "abrirTutorial",
+      "variant": 1,
+      "duration_ms": 510,
+      "rms_active_dbfs": -20.00000280445692,
+      "peak_dbfs": -10.847365707167008,
+      "sha256": "6541a71e0a8990482a6f8ae89ad599ce81772dedad0e305dd8ebdb195f9e5d31",
+      "bytes": 45026
+    },
+    {
+      "id": "abrirLaboratorio",
+      "action": "abrirLaboratorio",
+      "variant": 1,
+      "duration_ms": 570,
+      "rms_active_dbfs": -20.00000069111003,
+      "peak_dbfs": -11.008729693749402,
+      "sha256": "6014ea5188b06dee1d8a769592f03bac031e0cabe941b00e223e346554b3eb35",
+      "bytes": 50318
+    },
+    {
+      "id": "carta",
+      "action": "carta",
+      "variant": 1,
+      "duration_ms": 470,
+      "rms_active_dbfs": -19.99999655046851,
+      "peak_dbfs": -10.213116491420118,
+      "sha256": "ef90297cef01a1b29886b61ec176d4f35bec120facbd78a8b247564c3f867b93",
+      "bytes": 41498
+    },
+    {
+      "id": "carta_2",
+      "action": "carta",
+      "variant": 2,
+      "duration_ms": 510,
+      "rms_active_dbfs": -20.00000255500751,
+      "peak_dbfs": -10.587903083800454,
+      "sha256": "9409ea893999853ee2eedcc877e5951d842b2b3dcf8c753bc3315bbae8044169",
+      "bytes": 45026
+    },
+    {
+      "id": "carta_3",
+      "action": "carta",
+      "variant": 3,
+      "duration_ms": 490,
+      "rms_active_dbfs": -20.000007758589014,
+      "peak_dbfs": -11.547614974726644,
+      "sha256": "ee813a7179603d693ded934f590aea6da7bff256d843647678ee5bcc6fc5e58e",
+      "bytes": 43262
+    },
+    {
+      "id": "carta_4",
+      "action": "carta",
+      "variant": 4,
+      "duration_ms": 450,
+      "rms_active_dbfs": -19.999998864575346,
+      "peak_dbfs": -9.98672537201619,
+      "sha256": "6cbfb9eda85739ba3a77ace0a359ba87c1164237330d5ed0ead15349588a8f87",
+      "bytes": 39734
+    },
+    {
+      "id": "giro",
+      "action": "giro",
+      "variant": 1,
+      "duration_ms": 470,
+      "rms_active_dbfs": -19.999997911793457,
+      "peak_dbfs": -9.303724246278442,
+      "sha256": "dfc6db47ce25844b33cc0ca1de1d9609279972325d9f9fcc654c7ab85d5b1f39",
+      "bytes": 41498
+    },
+    {
+      "id": "giro_2",
+      "action": "giro",
+      "variant": 2,
+      "duration_ms": 500,
+      "rms_active_dbfs": -20.000003772394898,
+      "peak_dbfs": -10.207105197743386,
+      "sha256": "6dae5d05358b961b363d6400488eed34217c639476926cd29f47009b92bbc29b",
+      "bytes": 44144
+    },
+    {
+      "id": "giro_3",
+      "action": "giro",
+      "variant": 3,
+      "duration_ms": 460,
+      "rms_active_dbfs": -20.0000056445492,
+      "peak_dbfs": -11.510630291813225,
+      "sha256": "af9359a825122ba073f762796b76145d3224317ca9a8e7618a1db636624fd08c",
+      "bytes": 40616
+    },
+    {
+      "id": "giro_4",
+      "action": "giro",
+      "variant": 4,
+      "duration_ms": 490,
+      "rms_active_dbfs": -19.99999771846183,
+      "peak_dbfs": -10.034563138173098,
+      "sha256": "67768754e390a847bc1e961344a2d9c5363427ccbd7e68d41cf98ab6ee55611d",
+      "bytes": 43262
+    },
+    {
+      "id": "volverCarta",
+      "action": "volverCarta",
+      "variant": 1,
+      "duration_ms": 450,
+      "rms_active_dbfs": -19.999751629722244,
+      "peak_dbfs": -10.051410955768564,
+      "sha256": "aed85045159d618b084115ffe920a8dc513854f1dc4cb9015222f817691bbee0",
+      "bytes": 39734
+    },
+    {
+      "id": "volverCarta_2",
+      "action": "volverCarta",
+      "variant": 2,
+      "duration_ms": 480,
+      "rms_active_dbfs": -19.999993664019765,
+      "peak_dbfs": -10.805879131060571,
+      "sha256": "5fbed99912581284950eda99cbb849eeace3e2dc4811ea13db4bcd808d8f94aa",
+      "bytes": 42380
+    },
+    {
+      "id": "volverCarta_3",
+      "action": "volverCarta",
+      "variant": 3,
+      "duration_ms": 460,
+      "rms_active_dbfs": -19.999994501325023,
+      "peak_dbfs": -9.934988725869491,
+      "sha256": "70b9032c1384751baee8c9346fd352b4c7819867460f0c949a7ef84d509d010d",
+      "bytes": 40616
+    },
+    {
+      "id": "volverCarta_4",
+      "action": "volverCarta",
+      "variant": 4,
+      "duration_ms": 500,
+      "rms_active_dbfs": -19.999997546761787,
+      "peak_dbfs": -10.465000103282659,
+      "sha256": "e7079082407b248e220670277d6b32bb451b47654fa82e919d990cee1229a7a0",
+      "bytes": 44144
+    },
+    {
+      "id": "pasar",
+      "action": "pasar",
+      "variant": 1,
+      "duration_ms": 420,
+      "rms_active_dbfs": -20.000002494641652,
+      "peak_dbfs": -11.290024411206351,
+      "sha256": "0f61c97e178bce32e967b5daf82027df0038b40c89b8f0e91ce5efe2b001c24f",
+      "bytes": 37088
+    },
+    {
+      "id": "pasar_2",
+      "action": "pasar",
+      "variant": 2,
+      "duration_ms": 450,
+      "rms_active_dbfs": -19.99975441926581,
+      "peak_dbfs": -9.098063596670974,
+      "sha256": "b719b4823e3e220abe8dcb70e008ff0a214238bd357bb1a37ce920ef930075b4",
+      "bytes": 39734
+    },
+    {
+      "id": "pasar_3",
+      "action": "pasar",
+      "variant": 3,
+      "duration_ms": 400,
+      "rms_active_dbfs": -19.999727610445184,
+      "peak_dbfs": -11.929530089335273,
+      "sha256": "00336590def3fc5107b3f190b7c4353ce524fc803ad39cf52d2126a3008fa424",
+      "bytes": 35324
+    },
+    {
+      "id": "pasar_4",
+      "action": "pasar",
+      "variant": 4,
+      "duration_ms": 460,
+      "rms_active_dbfs": -19.999769005142117,
+      "peak_dbfs": -11.127216411846515,
+      "sha256": "a82165db0835a75a33fd084dee2ef4b528a28f8a4d40686bdd71d11a7020b4dc",
+      "bytes": 40616
+    },
+    {
+      "id": "deslizamiento",
+      "action": "deslizamiento",
+      "variant": 1,
+      "duration_ms": 300,
+      "rms_active_dbfs": -19.99998187986834,
+      "peak_dbfs": -11.335850056367951,
+      "sha256": "c1cf51f38e14152f1d963cef914682232f3f80634b18c5238f12bed3667144a3",
+      "bytes": 26504
+    },
+    {
+      "id": "abrirAyuda",
+      "action": "abrirAyuda",
+      "variant": 1,
+      "duration_ms": 380,
+      "rms_active_dbfs": -19.999985775843136,
+      "peak_dbfs": -11.485729496024895,
+      "sha256": "d8ba4e9535f825ffb78ed20760cadf146b82b96937a597e9e90c4aa6bb74f812",
+      "bytes": 33560
+    },
+    {
+      "id": "cerrarAyuda",
+      "action": "cerrarAyuda",
+      "variant": 1,
+      "duration_ms": 250,
+      "rms_active_dbfs": -19.99998726213885,
+      "peak_dbfs": -11.619029674323006,
+      "sha256": "6ae56ed1d5a14dbefb1c4efefa7d159af62b105f5a9a23f7a61157fea3539a48",
+      "bytes": 22094
+    },
+    {
+      "id": "volverInicio",
+      "action": "volverInicio",
+      "variant": 1,
+      "duration_ms": 350,
+      "rms_active_dbfs": -20.000300411941172,
+      "peak_dbfs": -10.839052524553093,
+      "sha256": "0c088c33cfed015786532bd9e8c5cca1bcb04c46f5ad2eac4827232f697941cb",
+      "bytes": 30914
+    },
+    {
+      "id": "tutorialSiguiente",
+      "action": "tutorialSiguiente",
+      "variant": 1,
+      "duration_ms": 220,
+      "rms_active_dbfs": -20.00000357809039,
+      "peak_dbfs": -9.790598729154006,
+      "sha256": "a1edd2e8d0e005f0d1b1be0e6771d63dace6d9665104d446af0d2ffb56fa55c7",
+      "bytes": 19448
+    },
+    {
+      "id": "tutorialAnterior",
+      "action": "tutorialAnterior",
+      "variant": 1,
+      "duration_ms": 240,
+      "rms_active_dbfs": -19.999993412079395,
+      "peak_dbfs": -12.307120668326393,
+      "sha256": "f57461f1ee59bde3573c0880704c404e7a24fdbb09d094fa241607f43c315f9a",
+      "bytes": 21212
+    },
+    {
+      "id": "tutorialOmitir",
+      "action": "tutorialOmitir",
+      "variant": 1,
+      "duration_ms": 290,
+      "rms_active_dbfs": -19.999632498509957,
+      "peak_dbfs": -11.290996911866616,
+      "sha256": "4e7c89827692963395b8c136c56fe25416e2512b41c4320319a4f0a7f0d114eb",
+      "bytes": 25622
+    },
+    {
+      "id": "tutorialCompletar",
+      "action": "tutorialCompletar",
+      "variant": 1,
+      "duration_ms": 760,
+      "rms_active_dbfs": -20.00000071285063,
+      "peak_dbfs": -10.616652434459395,
+      "sha256": "df2c85792edca20de5a1e7a020770d43ae33f5fc6a118b6e83dc3dd9ac15bf12",
+      "bytes": 67076
+    },
+    {
+      "id": "activarSonido",
+      "action": "activarSonido",
+      "variant": 1,
+      "duration_ms": 340,
+      "rms_active_dbfs": -19.999991198561865,
+      "peak_dbfs": -10.153189950274786,
+      "sha256": "92b7b6e62dede053b133286f39c77f2e72f57f53a283c9cefe2a7281057debb5",
+      "bytes": 30032
+    },
+    {
+      "id": "activarVibracion",
+      "action": "activarVibracion",
+      "variant": 1,
+      "duration_ms": 270,
+      "rms_active_dbfs": -20.000017367177776,
+      "peak_dbfs": -11.462883641276477,
+      "sha256": "bc34a943ff84e978f1b69b758424fff49bc980112d45bf0261b98865178a735a",
+      "bytes": 23858
+    },
+    {
+      "id": "desactivarVibracion",
+      "action": "desactivarVibracion",
+      "variant": 1,
+      "duration_ms": 280,
+      "rms_active_dbfs": -19.999611510462493,
+      "peak_dbfs": -11.711428226058693,
+      "sha256": "4ecbf1951523189b97001b3da34e17b85aa49f453b3ab5af44354aacc453b7fa",
+      "bytes": 24740
+    },
+    {
+      "id": "reintentar",
+      "action": "reintentar",
+      "variant": 1,
+      "duration_ms": 320,
+      "rms_active_dbfs": -20.000001957279206,
+      "peak_dbfs": -12.277652898625359,
+      "sha256": "a683bf46948f558f66379d18a9263509d3ff18da6baebe899d0a162c0a8a8a94",
+      "bytes": 28268
+    }
+  ]
+}

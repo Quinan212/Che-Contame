@@ -1,0 +1,714 @@
+{
+  "titulo": "Base argentina de conversación",
+  "version": "0.1-borrador",
+  "fecha": "2026-10-01",
+  "estado": "borrador editorial sin pruebas con jugadores",
+  "niveles": [
+    {
+      "id": 1,
+      "nombre": "Para arrancar"
+    },
+    {
+      "id": 2,
+      "nombre": "Se pone bueno"
+    },
+    {
+      "id": 3,
+      "nombre": "En confianza"
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "A01",
+      "nivel": 1,
+      "tema": "Planes",
+      "pregunta": "Se cayó el plan y te quedaron dos horas libres. ¿Qué hacés con ese rato?",
+      "repregunta": "¿Lo disfrutás más a solas o con alguien?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A02",
+      "nivel": 1,
+      "tema": "Planes",
+      "pregunta": "¿Qué plan sencillo te arregla un día medio flojo?",
+      "repregunta": "¿Qué tiene que pasar para que lo disfrutes de verdad?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A03",
+      "nivel": 1,
+      "tema": "Planes",
+      "pregunta": "Si me quisieras mostrar un rincón que te gusta de donde vivís, ¿adónde me llevarías?",
+      "repregunta": "¿Qué historia tuya hay en ese lugar?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A04",
+      "nivel": 1,
+      "tema": "Planes",
+      "pregunta": "¿Qué tendría que tener una juntada para que digas “qué buen plan”?",
+      "repregunta": "¿Qué detalle puede arruinarte ese mismo plan?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A05",
+      "nivel": 1,
+      "tema": "Planes",
+      "pregunta": "¿Con qué actividad perdés la noción del tiempo sin darte cuenta?",
+      "repregunta": "¿Cuándo fue la última vez que te pasó?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A06",
+      "nivel": 1,
+      "tema": "Gustos",
+      "pregunta": "¿Qué discusión sobre comida defendés con más entusiasmo del que merece?",
+      "repregunta": "¿Cómo convencerías a alguien que piensa al revés?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A07",
+      "nivel": 1,
+      "tema": "Gustos",
+      "pregunta": "¿Qué canción te cambia el ánimo apenas arranca?",
+      "repregunta": "¿A qué momento te lleva?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A08",
+      "nivel": 1,
+      "tema": "Gustos",
+      "pregunta": "¿Qué cosa te encanta aunque a tu alrededor no tenga muchos fans?",
+      "repregunta": "¿Cómo se la presentarías a alguien para que le dé una chance?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A09",
+      "nivel": 1,
+      "tema": "Gustos",
+      "pregunta": "¿Qué recomendación seguís haciendo aunque nadie te la haya pedido?",
+      "repregunta": "¿Quién te la recomendó a vos?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A10",
+      "nivel": 1,
+      "tema": "Gustos",
+      "pregunta": "¿Qué olor o sonido te hace pensar enseguida en un lugar?",
+      "repregunta": "¿Qué escena te aparece?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A11",
+      "nivel": 1,
+      "tema": "Anécdotas",
+      "pregunta": "¿Qué pequeña confusión tuya terminó en una buena anécdota?",
+      "repregunta": "¿En qué momento te diste cuenta?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A12",
+      "nivel": 1,
+      "tema": "Anécdotas",
+      "pregunta": "¿Qué frase de tu casa o de tu grupo necesita explicación para alguien de afuera?",
+      "repregunta": "¿De dónde salió?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A13",
+      "nivel": 1,
+      "tema": "Anécdotas",
+      "pregunta": "¿Qué habilidad bastante inútil podrías demostrar con orgullo?",
+      "repregunta": "¿Cómo terminaste aprendiendo eso?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A14",
+      "nivel": 1,
+      "tema": "Anécdotas",
+      "pregunta": "¿Qué moda seguiste y hoy te causa gracia?",
+      "repregunta": "¿Qué rescatarías de esa época?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A15",
+      "nivel": 1,
+      "tema": "Anécdotas",
+      "pregunta": "¿Qué vez algo salió distinto de lo planeado y estuvo mejor así?",
+      "repregunta": "¿Qué habrías hecho si salía como esperabas?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A16",
+      "nivel": 1,
+      "tema": "Costumbres",
+      "pregunta": "¿Qué costumbre tuya se nota apenas alguien comparte un rato con vos?",
+      "repregunta": "¿La tenés desde siempre o apareció después?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A17",
+      "nivel": 1,
+      "tema": "Costumbres",
+      "pregunta": "¿Qué hacés primero cuando por fin llegás a tu casa?",
+      "repregunta": "¿Qué cambia si venís de un día buenísimo?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A18",
+      "nivel": 1,
+      "tema": "Costumbres",
+      "pregunta": "¿Qué tarea cotidiana convertís en todo un ritual?",
+      "repregunta": "¿Qué parte te da más satisfacción?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A19",
+      "nivel": 1,
+      "tema": "Costumbres",
+      "pregunta": "En una juntada, ¿qué rol terminás ocupando sin que nadie te lo asigne?",
+      "repregunta": "¿Te gusta ese lugar o a veces querés cambiarlo?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A20",
+      "nivel": 1,
+      "tema": "Costumbres",
+      "pregunta": "¿Qué detalle te hace elegir quedarte un rato más en un lugar?",
+      "repregunta": "¿Te acordás de un lugar que lo tuviera?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A21",
+      "nivel": 1,
+      "tema": "Imaginación",
+      "pregunta": "Tenés que inventar una materia escolar sobre algo que sabés. ¿Cuál sería?",
+      "repregunta": "¿Qué harían en la primera clase?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A22",
+      "nivel": 1,
+      "tema": "Imaginación",
+      "pregunta": "Si pudieras sumar un talento solo para divertirte, ¿cuál elegirías?",
+      "repregunta": "¿Qué sería lo primero que harías con él?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A23",
+      "nivel": 1,
+      "tema": "Imaginación",
+      "pregunta": "Te toca organizar una salida con presupuesto cero. ¿Qué proponés?",
+      "repregunta": "¿Qué nombre le pondrías al plan?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A24",
+      "nivel": 1,
+      "tema": "Imaginación",
+      "pregunta": "Si tu semana fuera un capítulo de una serie, ¿cómo se llamaría?",
+      "repregunta": "¿Qué escena aparecería en el adelanto?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "A25",
+      "nivel": 1,
+      "tema": "Imaginación",
+      "pregunta": "Te regalan un botón que resuelve una molestia cotidiana. ¿Qué haría?",
+      "repregunta": "¿Qué uso inesperado le encontrarías?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B01",
+      "nivel": 2,
+      "tema": "Vínculos",
+      "pregunta": "¿Qué gesto chiquito te hace sentir que alguien te tiene en cuenta?",
+      "repregunta": "¿Hay una vez en que ese gesto te haya cambiado el día?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B02",
+      "nivel": 2,
+      "tema": "Vínculos",
+      "pregunta": "¿Cómo te das cuenta de que alguien escucha de verdad?",
+      "repregunta": "¿Qué hace distinto de alguien que solo espera su turno?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B03",
+      "nivel": 2,
+      "tema": "Vínculos",
+      "pregunta": "¿Qué aprendiste de una amistad que todavía llevás con vos?",
+      "repregunta": "¿En qué situación aparece ese aprendizaje?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B04",
+      "nivel": 2,
+      "tema": "Vínculos",
+      "pregunta": "¿Cómo solés mostrar cariño cuando no encontrás las palabras?",
+      "repregunta": "¿Qué gesto de cariño te cuesta reconocer cuando lo recibís?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B05",
+      "nivel": 2,
+      "tema": "Vínculos",
+      "pregunta": "¿Qué hace que una charla pase de correcta a interesante para vos?",
+      "repregunta": "¿Te acordás de una conversación que haya dado ese salto?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B06",
+      "nivel": 2,
+      "tema": "Aprendizajes",
+      "pregunta": "¿Sobre qué cambiaste de opinión después de vivir algo, y no por discutirlo?",
+      "repregunta": "¿Qué parte de esa experiencia te hizo cambiar?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B07",
+      "nivel": 2,
+      "tema": "Aprendizajes",
+      "pregunta": "¿Qué aprendiste más por probar que por seguir consejos?",
+      "repregunta": "¿Qué le dirías a alguien que recién empieza?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B08",
+      "nivel": 2,
+      "tema": "Aprendizajes",
+      "pregunta": "¿Qué decisión chica terminó cambiándote bastante la rutina?",
+      "repregunta": "¿Qué te sorprendió del resultado?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B09",
+      "nivel": 2,
+      "tema": "Aprendizajes",
+      "pregunta": "¿Qué hacés hoy con más tranquilidad que hace unos años?",
+      "repregunta": "¿Qué te ayudó a aflojar?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B10",
+      "nivel": 2,
+      "tema": "Aprendizajes",
+      "pregunta": "¿Qué consejo te sirvió, pero recién mucho después de escucharlo?",
+      "repregunta": "¿Qué te hizo entenderlo en ese momento?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B11",
+      "nivel": 2,
+      "tema": "Prioridades",
+      "pregunta": "Cuando tenés demasiadas cosas encima, ¿qué intentás cuidar primero?",
+      "repregunta": "¿Qué señal te avisa que lo estás descuidando?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B12",
+      "nivel": 2,
+      "tema": "Prioridades",
+      "pregunta": "¿En qué preferís invertir tu energía, aunque nadie lo vea?",
+      "repregunta": "¿Qué te devuelve esa inversión?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B13",
+      "nivel": 2,
+      "tema": "Prioridades",
+      "pregunta": "¿Qué significa para vos que un día haya valido la pena?",
+      "repregunta": "¿Hace cinco años habrías respondido lo mismo?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B14",
+      "nivel": 2,
+      "tema": "Prioridades",
+      "pregunta": "¿Qué plan rechazás aunque suene buenísimo desde afuera?",
+      "repregunta": "¿Qué aprendiste sobre tus gustos al decir que no?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B15",
+      "nivel": 2,
+      "tema": "Prioridades",
+      "pregunta": "¿Qué cosa preferís hacer a tu manera, incluso si tarda más?",
+      "repregunta": "¿Qué ganás al no apurarte?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B16",
+      "nivel": 2,
+      "tema": "Identidad",
+      "pregunta": "¿En qué ambiente aparece una versión tuya que en otros lugares no se ve?",
+      "repregunta": "¿Qué tiene ese ambiente que te habilita a ser así?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B17",
+      "nivel": 2,
+      "tema": "Identidad",
+      "pregunta": "¿Qué suelen dar por sentado de vos antes de conocerte?",
+      "repregunta": "¿Qué les sorprendería descubrir después?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B18",
+      "nivel": 2,
+      "tema": "Identidad",
+      "pregunta": "¿Qué parte de tu personalidad disfrutás más cuando estás con otra gente?",
+      "repregunta": "¿Quién suele sacar esa parte de vos?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B19",
+      "nivel": 2,
+      "tema": "Identidad",
+      "pregunta": "¿Qué tradición elegiste conservar porque tiene sentido para vos?",
+      "repregunta": "¿Qué detalle le cambiaste para hacerla propia?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B20",
+      "nivel": 2,
+      "tema": "Identidad",
+      "pregunta": "¿Qué cosa te entusiasma tanto que podrías explicarla durante una sobremesa entera?",
+      "repregunta": "¿Qué pregunta te gustaría que alguien te hiciera sobre eso?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B21",
+      "nivel": 2,
+      "tema": "Futuro",
+      "pregunta": "¿Qué te gustaría aprender sin tener que volverte excelente en eso?",
+      "repregunta": "¿Qué te permitiría empezar aunque sea de a poco?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B22",
+      "nivel": 2,
+      "tema": "Futuro",
+      "pregunta": "Si tu próxima etapa tuviera un poco más de algo, ¿de qué sería?",
+      "repregunta": "¿Cómo se notaría en un día común?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B23",
+      "nivel": 2,
+      "tema": "Futuro",
+      "pregunta": "¿Qué proyecto te da curiosidad aunque todavía no sepas si lo querés hacer?",
+      "repregunta": "¿Qué pequeña prueba podrías hacer antes de decidir?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B24",
+      "nivel": 2,
+      "tema": "Futuro",
+      "pregunta": "¿Qué parte de tu vida actual te gustaría que siguiera igual dentro de unos años?",
+      "repregunta": "¿Qué tendrías que cuidar para que siga ahí?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "B25",
+      "nivel": 2,
+      "tema": "Futuro",
+      "pregunta": "¿Qué sería para vos una buena sorpresa en los próximos meses?",
+      "repregunta": "¿Podés hacer algo para aumentar la chance de que pase?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C01",
+      "nivel": 3,
+      "tema": "Confianza",
+      "pregunta": "¿Qué necesitás para sentir que podés decir algo difícil sin quedar a la defensiva?",
+      "repregunta": "¿Cómo podría la otra persona ayudarte a empezar?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C02",
+      "nivel": 3,
+      "tema": "Confianza",
+      "pregunta": "¿Qué diferencia hay, para vos, entre sentirte acompañado y sentirte observado?",
+      "repregunta": "¿Qué gesto concreto marca esa diferencia?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C03",
+      "nivel": 3,
+      "tema": "Confianza",
+      "pregunta": "¿Qué te ayuda a creer un elogio cuando te cuesta recibirlo?",
+      "repregunta": "¿Qué forma de decirlo te llega más?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C04",
+      "nivel": 3,
+      "tema": "Confianza",
+      "pregunta": "¿Qué te gustaría que alguien entendiera de vos antes de sacar una conclusión?",
+      "repregunta": "¿Cómo podrías darle una pista de eso?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C05",
+      "nivel": 3,
+      "tema": "Confianza",
+      "pregunta": "¿Qué hace que puedas mostrar que no sabés algo sin sentir vergüenza?",
+      "repregunta": "¿Quién o qué contexto te da ese permiso?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C06",
+      "nivel": 3,
+      "tema": "Emociones",
+      "pregunta": "Cuando estás de bajón, ¿qué compañía te sirve y cuál te agota?",
+      "repregunta": "¿Cómo te gustaría poder pedir la que necesitás?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C07",
+      "nivel": 3,
+      "tema": "Emociones",
+      "pregunta": "¿Qué emoción te cuesta poner en palabras en el momento?",
+      "repregunta": "¿Cómo se nota en vos antes de que puedas nombrarla?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C08",
+      "nivel": 3,
+      "tema": "Emociones",
+      "pregunta": "¿Qué te gustaría que alguien hiciera cuando te ve haciendo un esfuerzo que no se nota mucho?",
+      "repregunta": "¿Preferís que lo nombre o que te ayude de alguna otra forma?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C09",
+      "nivel": 3,
+      "tema": "Emociones",
+      "pregunta": "¿Qué suele haber detrás de tu “está todo bien” cuando no está tan bien?",
+      "repregunta": "¿Qué pregunta podría abrirte una puerta sin presionarte?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C10",
+      "nivel": 3,
+      "tema": "Emociones",
+      "pregunta": "¿Qué experiencia cotidiana te devuelve calma cuando sentís que venís a mil?",
+      "repregunta": "¿Qué cambia en vos después de ese rato?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C11",
+      "nivel": 3,
+      "tema": "Límites",
+      "pregunta": "¿Qué límite te gustaría poder expresar antes de llegar al cansancio?",
+      "repregunta": "¿Cómo sonaría si lo dijeras con claridad y cariño?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C12",
+      "nivel": 3,
+      "tema": "Límites",
+      "pregunta": "¿Qué diferencia hay para vos entre compartir tu vida y perder tu espacio?",
+      "repregunta": "¿Qué costumbre te ayuda a mantener ese espacio?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C13",
+      "nivel": 3,
+      "tema": "Límites",
+      "pregunta": "¿Cómo te gustaría que alguien reaccionara cuando le decís que algo no te resulta cómodo?",
+      "repregunta": "¿Qué reacción te haría sentir que te escucharon?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C14",
+      "nivel": 3,
+      "tema": "Límites",
+      "pregunta": "¿Qué necesitás durante una diferencia para seguir sintiendo que pueden hablar?",
+      "repregunta": "¿Cómo podrías avisar que necesitás una pausa?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C15",
+      "nivel": 3,
+      "tema": "Límites",
+      "pregunta": "¿Qué aspecto de tu vida preferís que te pregunten antes de dar por sentado?",
+      "repregunta": "¿Qué pregunta sencilla evitaría el malentendido?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C16",
+      "nivel": 3,
+      "tema": "Crecimiento",
+      "pregunta": "Imaginá que por un tiempo dejás de tener que demostrar nada. ¿Qué empezarías a hacer distinto?",
+      "repregunta": "¿Qué parte de eso podrías permitirte ahora, aunque sea un poco?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C17",
+      "nivel": 3,
+      "tema": "Crecimiento",
+      "pregunta": "¿Qué parte de tu forma de ser estás aprendiendo a aceptar, sin tener que celebrarla todo el tiempo?",
+      "repregunta": "¿Qué cambió cuando dejaste de pelearte tanto con eso?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C18",
+      "nivel": 3,
+      "tema": "Crecimiento",
+      "pregunta": "¿Qué cambio tuyo te gustaría que alguien cercano reconociera?",
+      "repregunta": "¿Qué esfuerzo hubo detrás que tal vez no vio?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C19",
+      "nivel": 3,
+      "tema": "Crecimiento",
+      "pregunta": "¿Qué necesitás escuchar cuando algo importante no sale como esperabas?",
+      "repregunta": "¿Qué frase bien intencionada preferís que no te digan?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C20",
+      "nivel": 3,
+      "tema": "Crecimiento",
+      "pregunta": "¿Qué te gustaría animarte a pedir más seguido?",
+      "repregunta": "¿Qué hace difícil pedirlo hoy?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C21",
+      "nivel": 3,
+      "tema": "Conexión",
+      "pregunta": "¿Qué te hace sentir que te eligen en los detalles de todos los días?",
+      "repregunta": "¿Cómo te das cuenta cuando ese detalle es sincero?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C22",
+      "nivel": 3,
+      "tema": "Conexión",
+      "pregunta": "¿Qué significa para vos estar cerca de alguien sin tener que estar de acuerdo en todo?",
+      "repregunta": "¿Qué diferencia podrías convivir con más tranquilidad?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C23",
+      "nivel": 3,
+      "tema": "Conexión",
+      "pregunta": "¿Qué parte de tu historia ayuda a entender mejor quién sos hoy?",
+      "repregunta": "¿Qué te gustaría que alguien se llevara al escuchar esa historia?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C24",
+      "nivel": 3,
+      "tema": "Conexión",
+      "pregunta": "¿Qué forma de pedir perdón te ayuda a sentir que la otra persona entendió lo que pasó?",
+      "repregunta": "¿Qué tendría que cambiar después de las palabras?",
+      "tipo": "pregunta"
+    },
+    {
+      "id": "C25",
+      "nivel": 3,
+      "tema": "Conexión",
+      "pregunta": "¿Qué te gustaría que quedara de una buena conversación cuando ya terminó?",
+      "repregunta": "¿Qué parte de esta charla te gustaría llevarte hoy?",
+      "tipo": "pregunta"
+    }
+  ],
+  "consignas": [
+    {
+      "id": "R01",
+      "tema": "Humor",
+      "consigna": "Cada uno inventa el nombre de un negocio absurdo que igual tendría clientes. El otro propone su primer producto.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R02",
+      "tema": "Creatividad",
+      "consigna": "Armen una salida imaginaria con tres ingredientes: un lugar cercano, una actividad gratis y algo para comer. Cada uno elige un ingrediente y negocian el tercero.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R03",
+      "tema": "Historia",
+      "consigna": "Uno empieza con “Hoy pasó algo rarísimo…”. Sigan la historia alternando una frase por persona hasta encontrarle un final.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R04",
+      "tema": "Gustos",
+      "consigna": "Cada uno recomienda una canción para un estado de ánimo distinto. Cuenten por qué la eligieron; escucharla queda para después.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R05",
+      "tema": "Imaginación",
+      "consigna": "Diseñen una materia escolar que les habría servido en la vida cotidiana. Acuerden su nombre y la primera tarea.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R06",
+      "tema": "Humor",
+      "consigna": "Defiendan durante un minuto una preferencia inofensiva como si fuera un asunto de Estado. Pueden exagerar; no hace falta ganar.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R07",
+      "tema": "Memoria",
+      "consigna": "Cada uno cuenta una escena cotidiana que recuerda con mucho detalle. El otro hace una sola pregunta sobre un detalle de esa escena.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R08",
+      "tema": "Curiosidad",
+      "consigna": "Elijan algo que ninguno conozca bien. Digan qué les da curiosidad y qué les gustaría averiguar otro día.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R09",
+      "tema": "Planes",
+      "consigna": "Propongan dos versiones de un mismo plan: una para salir y otra para quedarse. Elijan cuál les pinta más hoy y cuenten por qué.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R10",
+      "tema": "Creatividad",
+      "consigna": "Si esta charla fuera un programa de radio, inventen juntos su nombre y la frase de apertura.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R11",
+      "tema": "Escucha",
+      "consigna": "Uno cuenta algo que disfruta. El otro devuelve “Lo que entendí es…”. Quien habló puede completar o corregir; después cambian.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R12",
+      "tema": "Reconocimiento",
+      "consigna": "Cada uno menciona un detalle del otro que pudo notar durante esta charla. Vale una forma de contar, una idea o un gesto.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R13",
+      "tema": "Atención",
+      "consigna": "Recuperen una cosa que el otro dijo antes y que les dio curiosidad. Pidan permiso para volver a ese tema.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R14",
+      "tema": "Complicidad",
+      "consigna": "Elijan una pregunta que les gustaría inventar para una próxima charla. Ajusten juntos las palabras hasta que suene natural.",
+      "tipo": "consigna"
+    },
+    {
+      "id": "R15",
+      "tema": "Cierre",
+      "consigna": "Cada uno completa “Me llevo…” con algo de este rato. Puede ser una idea, una risa o una cosa nueva que conoció del otro.",
+      "tipo": "consigna"
+    }
+  ]
+}

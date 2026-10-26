@@ -1,0 +1,1701 @@
+{
+  "version": "0.2-complicidad-cotidiana",
+  "cartas": [
+    {
+      "id": "A01",
+      "nivel": 1,
+      "escena": "Planes",
+      "fuentes": [
+        "S11",
+        "S12"
+      ],
+      "casos_relacionados": [
+        "C025",
+        "C026",
+        "C027",
+        "C028",
+        "C029"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A02",
+      "nivel": 1,
+      "escena": "Planes",
+      "fuentes": [
+        "S01",
+        "S07"
+      ],
+      "casos_relacionados": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C014",
+        "C015",
+        "C016",
+        "C017"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A03",
+      "nivel": 1,
+      "escena": "Planes",
+      "fuentes": [
+        "S02",
+        "S07",
+        "S12"
+      ],
+      "casos_relacionados": [
+        "C005",
+        "C006",
+        "C007",
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C027",
+        "C028",
+        "C029"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A04",
+      "nivel": 1,
+      "escena": "Planes",
+      "fuentes": [
+        "S07",
+        "S15"
+      ],
+      "casos_relacionados": [
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C035",
+        "C036",
+        "C037"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A05",
+      "nivel": 1,
+      "escena": "Planes",
+      "fuentes": [
+        "S01",
+        "S08"
+      ],
+      "casos_relacionados": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C018",
+        "C019",
+        "C020",
+        "C021"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A06",
+      "nivel": 1,
+      "escena": "Gustos",
+      "fuentes": [
+        "S09",
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C022",
+        "C023",
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A07",
+      "nivel": 1,
+      "escena": "Gustos",
+      "fuentes": [
+        "S03",
+        "S05"
+      ],
+      "casos_relacionados": [
+        "C008",
+        "C011",
+        "C012"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A08",
+      "nivel": 1,
+      "escena": "Gustos",
+      "fuentes": [
+        "S01",
+        "S08"
+      ],
+      "casos_relacionados": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C018",
+        "C019",
+        "C020",
+        "C021"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A09",
+      "nivel": 1,
+      "escena": "Gustos",
+      "fuentes": [
+        "S20",
+        "S24"
+      ],
+      "casos_relacionados": [
+        "C049",
+        "C050",
+        "C051",
+        "C060",
+        "C061",
+        "C062"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A10",
+      "nivel": 1,
+      "escena": "Gustos",
+      "fuentes": [
+        "S02",
+        "S04"
+      ],
+      "casos_relacionados": [
+        "C005",
+        "C006",
+        "C007",
+        "C009",
+        "C010"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A11",
+      "nivel": 1,
+      "escena": "Anécdotas",
+      "fuentes": [
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A12",
+      "nivel": 1,
+      "escena": "Anécdotas",
+      "fuentes": [
+        "S16",
+        "S26",
+        "S30"
+      ],
+      "casos_relacionados": [
+        "C038",
+        "C039",
+        "C040",
+        "C065",
+        "C066",
+        "C067",
+        "C068",
+        "C074"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A13",
+      "nivel": 1,
+      "escena": "Anécdotas",
+      "fuentes": [
+        "S09",
+        "S06"
+      ],
+      "casos_relacionados": [
+        "C013",
+        "C022",
+        "C023"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A14",
+      "nivel": 1,
+      "escena": "Anécdotas",
+      "fuentes": [
+        "S06",
+        "S33"
+      ],
+      "casos_relacionados": [
+        "C013",
+        "C077"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A15",
+      "nivel": 1,
+      "escena": "Anécdotas",
+      "fuentes": [
+        "S11",
+        "S21"
+      ],
+      "casos_relacionados": [
+        "C025",
+        "C026",
+        "C052",
+        "C053"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A16",
+      "nivel": 1,
+      "escena": "Cotidiano",
+      "fuentes": [
+        "S04",
+        "S16"
+      ],
+      "casos_relacionados": [
+        "C009",
+        "C010",
+        "C038",
+        "C039",
+        "C040"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A17",
+      "nivel": 1,
+      "escena": "Cotidiano",
+      "fuentes": [
+        "S08",
+        "S12"
+      ],
+      "casos_relacionados": [
+        "C018",
+        "C019",
+        "C020",
+        "C021",
+        "C027",
+        "C028",
+        "C029"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A18",
+      "nivel": 1,
+      "escena": "Cotidiano",
+      "fuentes": [
+        "S04",
+        "S07"
+      ],
+      "casos_relacionados": [
+        "C009",
+        "C010",
+        "C014",
+        "C015",
+        "C016",
+        "C017"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A19",
+      "nivel": 1,
+      "escena": "Cotidiano",
+      "fuentes": [
+        "S11",
+        "S16"
+      ],
+      "casos_relacionados": [
+        "C025",
+        "C026",
+        "C038",
+        "C039",
+        "C040"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A20",
+      "nivel": 1,
+      "escena": "Cotidiano",
+      "fuentes": [
+        "S02",
+        "S07"
+      ],
+      "casos_relacionados": [
+        "C005",
+        "C006",
+        "C007",
+        "C014",
+        "C015",
+        "C016",
+        "C017"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A21",
+      "nivel": 1,
+      "escena": "Juego",
+      "fuentes": [
+        "S26",
+        "S28"
+      ],
+      "casos_relacionados": [
+        "C065",
+        "C066",
+        "C067",
+        "C068",
+        "C072"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A22",
+      "nivel": 1,
+      "escena": "Juego",
+      "fuentes": [
+        "S08",
+        "S09"
+      ],
+      "casos_relacionados": [
+        "C018",
+        "C019",
+        "C020",
+        "C021",
+        "C022",
+        "C023"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A23",
+      "nivel": 1,
+      "escena": "Juego",
+      "fuentes": [
+        "S01",
+        "S17",
+        "S22"
+      ],
+      "casos_relacionados": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C041",
+        "C042",
+        "C043",
+        "C054",
+        "C055",
+        "C056"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A24",
+      "nivel": 1,
+      "escena": "Juego",
+      "fuentes": [
+        "S06",
+        "S27"
+      ],
+      "casos_relacionados": [
+        "C013",
+        "C069",
+        "C070",
+        "C071"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "A25",
+      "nivel": 1,
+      "escena": "Juego",
+      "fuentes": [
+        "S06",
+        "S14"
+      ],
+      "casos_relacionados": [
+        "C013",
+        "C033",
+        "C034"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B01",
+      "nivel": 2,
+      "escena": "Complicidad",
+      "fuentes": [
+        "S07",
+        "S15"
+      ],
+      "casos_relacionados": [
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C035",
+        "C036",
+        "C037"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B02",
+      "nivel": 2,
+      "escena": "Complicidad",
+      "fuentes": [
+        "S27",
+        "S28"
+      ],
+      "casos_relacionados": [
+        "C069",
+        "C070",
+        "C071",
+        "C072"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B03",
+      "nivel": 2,
+      "escena": "Complicidad",
+      "fuentes": [
+        "S01",
+        "S14"
+      ],
+      "casos_relacionados": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C033",
+        "C034"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B04",
+      "nivel": 2,
+      "escena": "Complicidad",
+      "fuentes": [
+        "S04",
+        "S27"
+      ],
+      "casos_relacionados": [
+        "C009",
+        "C010",
+        "C069",
+        "C070",
+        "C071"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B05",
+      "nivel": 2,
+      "escena": "Complicidad",
+      "fuentes": [
+        "S21",
+        "S23"
+      ],
+      "casos_relacionados": [
+        "C052",
+        "C053",
+        "C057",
+        "C058",
+        "C059"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B06",
+      "nivel": 2,
+      "escena": "Descubrimientos",
+      "fuentes": [
+        "S08",
+        "S21"
+      ],
+      "casos_relacionados": [
+        "C018",
+        "C019",
+        "C020",
+        "C021",
+        "C052",
+        "C053"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B07",
+      "nivel": 2,
+      "escena": "Descubrimientos",
+      "fuentes": [
+        "S09",
+        "S21"
+      ],
+      "casos_relacionados": [
+        "C022",
+        "C023",
+        "C052",
+        "C053"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B08",
+      "nivel": 2,
+      "escena": "Descubrimientos",
+      "fuentes": [
+        "S01",
+        "S03",
+        "S12"
+      ],
+      "casos_relacionados": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C008",
+        "C027",
+        "C028",
+        "C029"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B09",
+      "nivel": 2,
+      "escena": "Descubrimientos",
+      "fuentes": [
+        "S10",
+        "S13"
+      ],
+      "casos_relacionados": [
+        "C024",
+        "C030",
+        "C031",
+        "C032"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B10",
+      "nivel": 2,
+      "escena": "Descubrimientos",
+      "fuentes": [
+        "S15",
+        "S28"
+      ],
+      "casos_relacionados": [
+        "C035",
+        "C036",
+        "C037",
+        "C072"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B11",
+      "nivel": 2,
+      "escena": "A tu ritmo",
+      "fuentes": [
+        "S12",
+        "S13"
+      ],
+      "casos_relacionados": [
+        "C027",
+        "C028",
+        "C029",
+        "C030",
+        "C031",
+        "C032"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B12",
+      "nivel": 2,
+      "escena": "A tu ritmo",
+      "fuentes": [
+        "S05",
+        "S09"
+      ],
+      "casos_relacionados": [
+        "C011",
+        "C012",
+        "C022",
+        "C023"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B13",
+      "nivel": 2,
+      "escena": "A tu ritmo",
+      "fuentes": [
+        "S07",
+        "S23"
+      ],
+      "casos_relacionados": [
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C057",
+        "C058",
+        "C059"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B14",
+      "nivel": 2,
+      "escena": "A tu ritmo",
+      "fuentes": [
+        "S10",
+        "S16"
+      ],
+      "casos_relacionados": [
+        "C024",
+        "C038",
+        "C039",
+        "C040"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B15",
+      "nivel": 2,
+      "escena": "A tu ritmo",
+      "fuentes": [
+        "S04",
+        "S09"
+      ],
+      "casos_relacionados": [
+        "C009",
+        "C010",
+        "C022",
+        "C023"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B16",
+      "nivel": 2,
+      "escena": "Tu gente",
+      "fuentes": [
+        "S01",
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B17",
+      "nivel": 2,
+      "escena": "Tu gente",
+      "fuentes": [
+        "S13",
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C030",
+        "C031",
+        "C032",
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B18",
+      "nivel": 2,
+      "escena": "Tu gente",
+      "fuentes": [
+        "S16",
+        "S27"
+      ],
+      "casos_relacionados": [
+        "C038",
+        "C039",
+        "C040",
+        "C069",
+        "C070",
+        "C071"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B19",
+      "nivel": 2,
+      "escena": "Tu gente",
+      "fuentes": [
+        "S03",
+        "S27"
+      ],
+      "casos_relacionados": [
+        "C008",
+        "C069",
+        "C070",
+        "C071"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B20",
+      "nivel": 2,
+      "escena": "Tu gente",
+      "fuentes": [
+        "S01",
+        "S08",
+        "S09"
+      ],
+      "casos_relacionados": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C018",
+        "C019",
+        "C020",
+        "C021",
+        "C022",
+        "C023"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B21",
+      "nivel": 2,
+      "escena": "Lo que pinta",
+      "fuentes": [
+        "S08",
+        "S09"
+      ],
+      "casos_relacionados": [
+        "C018",
+        "C019",
+        "C020",
+        "C021",
+        "C022",
+        "C023"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B22",
+      "nivel": 2,
+      "escena": "Lo que pinta",
+      "fuentes": [
+        "S02",
+        "S07",
+        "S12"
+      ],
+      "casos_relacionados": [
+        "C005",
+        "C006",
+        "C007",
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C027",
+        "C028",
+        "C029"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B23",
+      "nivel": 2,
+      "escena": "Lo que pinta",
+      "fuentes": [
+        "S09",
+        "S11"
+      ],
+      "casos_relacionados": [
+        "C022",
+        "C023",
+        "C025",
+        "C026"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B24",
+      "nivel": 2,
+      "escena": "Lo que pinta",
+      "fuentes": [
+        "S01",
+        "S03"
+      ],
+      "casos_relacionados": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C008"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "B25",
+      "nivel": 2,
+      "escena": "Lo que pinta",
+      "fuentes": [
+        "S11",
+        "S22"
+      ],
+      "casos_relacionados": [
+        "C025",
+        "C026",
+        "C054",
+        "C055",
+        "C056"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C01",
+      "nivel": 3,
+      "escena": "A gusto",
+      "fuentes": [
+        "S23",
+        "S28"
+      ],
+      "casos_relacionados": [
+        "C057",
+        "C058",
+        "C059",
+        "C072"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C02",
+      "nivel": 3,
+      "escena": "A gusto",
+      "fuentes": [
+        "S27",
+        "S28"
+      ],
+      "casos_relacionados": [
+        "C069",
+        "C070",
+        "C071",
+        "C072"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C03",
+      "nivel": 3,
+      "escena": "A gusto",
+      "fuentes": [
+        "S27",
+        "S31"
+      ],
+      "casos_relacionados": [
+        "C069",
+        "C070",
+        "C071",
+        "C075"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C04",
+      "nivel": 3,
+      "escena": "A gusto",
+      "fuentes": [
+        "S04",
+        "S27"
+      ],
+      "casos_relacionados": [
+        "C009",
+        "C010",
+        "C069",
+        "C070",
+        "C071"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C05",
+      "nivel": 3,
+      "escena": "A gusto",
+      "fuentes": [
+        "S07",
+        "S13"
+      ],
+      "casos_relacionados": [
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C030",
+        "C031",
+        "C032"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C06",
+      "nivel": 3,
+      "escena": "Compañía",
+      "fuentes": [
+        "S10",
+        "S16"
+      ],
+      "casos_relacionados": [
+        "C024",
+        "C038",
+        "C039",
+        "C040"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C07",
+      "nivel": 3,
+      "escena": "Compañía",
+      "fuentes": [
+        "S23",
+        "S28"
+      ],
+      "casos_relacionados": [
+        "C057",
+        "C058",
+        "C059",
+        "C072"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C08",
+      "nivel": 3,
+      "escena": "Compañía",
+      "fuentes": [
+        "S07",
+        "S27"
+      ],
+      "casos_relacionados": [
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C069",
+        "C070",
+        "C071"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C09",
+      "nivel": 3,
+      "escena": "Compañía",
+      "fuentes": [
+        "S16",
+        "S31"
+      ],
+      "casos_relacionados": [
+        "C038",
+        "C039",
+        "C040",
+        "C075"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C10",
+      "nivel": 3,
+      "escena": "Compañía",
+      "fuentes": [
+        "S02",
+        "S07",
+        "S23"
+      ],
+      "casos_relacionados": [
+        "C005",
+        "C006",
+        "C007",
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C057",
+        "C058",
+        "C059"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C11",
+      "nivel": 3,
+      "escena": "Entre nosotros",
+      "fuentes": [
+        "S16",
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C038",
+        "C039",
+        "C040",
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C12",
+      "nivel": 3,
+      "escena": "Entre nosotros",
+      "fuentes": [
+        "S12",
+        "S16"
+      ],
+      "casos_relacionados": [
+        "C027",
+        "C028",
+        "C029",
+        "C038",
+        "C039",
+        "C040"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C13",
+      "nivel": 3,
+      "escena": "Entre nosotros",
+      "fuentes": [
+        "S16",
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C038",
+        "C039",
+        "C040",
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C14",
+      "nivel": 3,
+      "escena": "Entre nosotros",
+      "fuentes": [
+        "S16",
+        "S21"
+      ],
+      "casos_relacionados": [
+        "C038",
+        "C039",
+        "C040",
+        "C052",
+        "C053"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C15",
+      "nivel": 3,
+      "escena": "Entre nosotros",
+      "fuentes": [
+        "S24",
+        "S31"
+      ],
+      "casos_relacionados": [
+        "C060",
+        "C061",
+        "C062",
+        "C075"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C16",
+      "nivel": 3,
+      "escena": "Con vos",
+      "fuentes": [
+        "S24",
+        "S27"
+      ],
+      "casos_relacionados": [
+        "C060",
+        "C061",
+        "C062",
+        "C069",
+        "C070",
+        "C071"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C17",
+      "nivel": 3,
+      "escena": "Con vos",
+      "fuentes": [
+        "S01",
+        "S08",
+        "S27"
+      ],
+      "casos_relacionados": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C018",
+        "C019",
+        "C020",
+        "C021",
+        "C069",
+        "C070",
+        "C071"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C18",
+      "nivel": 3,
+      "escena": "Con vos",
+      "fuentes": [
+        "S07",
+        "S27"
+      ],
+      "casos_relacionados": [
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C069",
+        "C070",
+        "C071"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C19",
+      "nivel": 3,
+      "escena": "Con vos",
+      "fuentes": [
+        "S16",
+        "S28",
+        "S31"
+      ],
+      "casos_relacionados": [
+        "C038",
+        "C039",
+        "C040",
+        "C072",
+        "C075"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C20",
+      "nivel": 3,
+      "escena": "Con vos",
+      "fuentes": [
+        "S20",
+        "S24"
+      ],
+      "casos_relacionados": [
+        "C049",
+        "C050",
+        "C051",
+        "C060",
+        "C061",
+        "C062"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C21",
+      "nivel": 3,
+      "escena": "Cerca",
+      "fuentes": [
+        "S17",
+        "S27"
+      ],
+      "casos_relacionados": [
+        "C041",
+        "C042",
+        "C043",
+        "C069",
+        "C070",
+        "C071"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C22",
+      "nivel": 3,
+      "escena": "Cerca",
+      "fuentes": [
+        "S16",
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C038",
+        "C039",
+        "C040",
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C23",
+      "nivel": 3,
+      "escena": "Cerca",
+      "fuentes": [
+        "S04",
+        "S27"
+      ],
+      "casos_relacionados": [
+        "C009",
+        "C010",
+        "C069",
+        "C070",
+        "C071"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C24",
+      "nivel": 3,
+      "escena": "Cerca",
+      "fuentes": [
+        "S16",
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C038",
+        "C039",
+        "C040",
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "C25",
+      "nivel": 3,
+      "escena": "Cerca",
+      "fuentes": [
+        "S11",
+        "S28"
+      ],
+      "casos_relacionados": [
+        "C025",
+        "C026",
+        "C072"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R01",
+      "nivel": 0,
+      "escena": "Humor",
+      "fuentes": [
+        "S06",
+        "S09"
+      ],
+      "casos_relacionados": [
+        "C013",
+        "C022",
+        "C023"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R02",
+      "nivel": 0,
+      "escena": "Planes",
+      "fuentes": [
+        "S11",
+        "S17",
+        "S22"
+      ],
+      "casos_relacionados": [
+        "C025",
+        "C026",
+        "C041",
+        "C042",
+        "C043",
+        "C054",
+        "C055",
+        "C056"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R03",
+      "nivel": 0,
+      "escena": "Historia",
+      "fuentes": [
+        "S06",
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C013",
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R04",
+      "nivel": 0,
+      "escena": "Música",
+      "fuentes": [
+        "S03",
+        "S05"
+      ],
+      "casos_relacionados": [
+        "C008",
+        "C011",
+        "C012"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R05",
+      "nivel": 0,
+      "escena": "Imaginación",
+      "fuentes": [
+        "S08",
+        "S09"
+      ],
+      "casos_relacionados": [
+        "C018",
+        "C019",
+        "C020",
+        "C021",
+        "C022",
+        "C023"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R06",
+      "nivel": 0,
+      "escena": "Humor",
+      "fuentes": [
+        "S21",
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C052",
+        "C053",
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R07",
+      "nivel": 0,
+      "escena": "Anécdotas",
+      "fuentes": [
+        "S16",
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C038",
+        "C039",
+        "C040",
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R08",
+      "nivel": 0,
+      "escena": "Curiosidad",
+      "fuentes": [
+        "S08",
+        "S09"
+      ],
+      "casos_relacionados": [
+        "C018",
+        "C019",
+        "C020",
+        "C021",
+        "C022",
+        "C023"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R09",
+      "nivel": 0,
+      "escena": "Planes",
+      "fuentes": [
+        "S10",
+        "S16",
+        "S21"
+      ],
+      "casos_relacionados": [
+        "C024",
+        "C038",
+        "C039",
+        "C040",
+        "C052",
+        "C053"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R10",
+      "nivel": 0,
+      "escena": "Creatividad",
+      "fuentes": [
+        "S05",
+        "S06"
+      ],
+      "casos_relacionados": [
+        "C011",
+        "C012",
+        "C013"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R11",
+      "nivel": 0,
+      "escena": "Curiosidad",
+      "fuentes": [
+        "S16",
+        "S28"
+      ],
+      "casos_relacionados": [
+        "C038",
+        "C039",
+        "C040",
+        "C072"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R12",
+      "nivel": 0,
+      "escena": "Complicidad",
+      "fuentes": [
+        "S13",
+        "S27",
+        "S31"
+      ],
+      "casos_relacionados": [
+        "C030",
+        "C031",
+        "C032",
+        "C069",
+        "C070",
+        "C071",
+        "C075"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R13",
+      "nivel": 0,
+      "escena": "Charla",
+      "fuentes": [
+        "S20",
+        "S23",
+        "S31"
+      ],
+      "casos_relacionados": [
+        "C049",
+        "C050",
+        "C051",
+        "C057",
+        "C058",
+        "C059",
+        "C075"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R14",
+      "nivel": 0,
+      "escena": "Complicidad",
+      "fuentes": [
+        "S11",
+        "S26"
+      ],
+      "casos_relacionados": [
+        "C025",
+        "C026",
+        "C065",
+        "C066",
+        "C067",
+        "C068"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    },
+    {
+      "id": "R15",
+      "nivel": 0,
+      "escena": "Otra vez",
+      "fuentes": [
+        "S27",
+        "S28"
+      ],
+      "casos_relacionados": [
+        "C069",
+        "C070",
+        "C071",
+        "C072"
+      ],
+      "autoría": "Invención y adaptación editorial propia; referencias de mecanismo, no citas.",
+      "validacion_jugadores": "pendiente"
+    }
+  ]
+}

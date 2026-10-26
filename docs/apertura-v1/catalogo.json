@@ -1,0 +1,119 @@
+{
+  "version": "apertura-1",
+  "provenance": {
+    "model": "stabilityai/stable-audio-3-small-sfx",
+    "source": "alegre-coqueto-v3/candidatos/bienvenida_2.wav",
+    "original_seed": 2026100302,
+    "profile": {
+      "chosen": 2,
+      "seed": 2026100302,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.03661449104299835,
+        0.008
+      ],
+      "attack_seconds": 0.06,
+      "decay": 2.8,
+      "drift_cents": 16
+    },
+    "method": "Reutilización del perfil armónico medido de una fuente Small-SFX generada en CUDA; arreglo nuevo, sin ruido ni nueva inferencia."
+  },
+  "candidates": [
+    {
+      "id": "comenzar-a",
+      "duration_ms": 480,
+      "voices": [
+        [
+          0,
+          65,
+          0.34,
+          0.6
+        ],
+        [
+          0.14,
+          72,
+          0.34,
+          0.65
+        ]
+      ]
+    },
+    {
+      "id": "comenzar-b",
+      "duration_ms": 520,
+      "voices": [
+        [
+          0,
+          65,
+          0.4,
+          0.55
+        ],
+        [
+          0,
+          69,
+          0.36,
+          0.32
+        ],
+        [
+          0.16,
+          72,
+          0.36,
+          0.65
+        ]
+      ]
+    },
+    {
+      "id": "comenzar-c",
+      "duration_ms": 580,
+      "voices": [
+        [
+          0,
+          69,
+          0.35,
+          0.5
+        ],
+        [
+          0.12,
+          65,
+          0.36,
+          0.65
+        ],
+        [
+          0.26,
+          72,
+          0.32,
+          0.45
+        ]
+      ]
+    }
+  ],
+  "selected": "comenzar-b",
+  "selection_reason": "Un acorde redondo y una respuesta ascendente: gesto alegre y breve, sin percusión ni barrido.",
+  "measurements": [
+    {
+      "id": "comenzar-a",
+      "duration_ms": 480,
+      "rms_active_dbfs": -20.000000236215413,
+      "peak_dbfs": -10.441155950214307,
+      "sha256": "2e55d7e4df1f54ccc70557a68ddf60d800c0ff1e570e25931a66556443568ce2",
+      "bytes": 42380
+    },
+    {
+      "id": "comenzar-b",
+      "duration_ms": 520,
+      "rms_active_dbfs": -19.999997610928546,
+      "peak_dbfs": -9.988399437673884,
+      "sha256": "116b82b8a3cdc6761fea5c21540155cf5f2327bb010f9b0e841d91031d13118f",
+      "bytes": 45908
+    },
+    {
+      "id": "comenzar-c",
+      "duration_ms": 580,
+      "rms_active_dbfs": -20.0000024824973,
+      "peak_dbfs": -10.112335127023101,
+      "sha256": "2818eb84377d609629192943213d2e6be9235621de0196c06a7a2ec83ef5b0db",
+      "bytes": 51200
+    }
+  ]
+}

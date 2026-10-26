@@ -1,0 +1,1049 @@
+{
+  "version": 2,
+  "style": "cálido social · íntimo y relajado",
+  "effects": [
+    {
+      "id": "bienvenida",
+      "duration_ms": 1100,
+      "intent": "Una invitación que recibe y deja espacio",
+      "prompt": "A single isolated sound effect: warm thumb-plucked nylon strings, two softly overlapping resonances, relaxed gentle call and response. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -3
+        ],
+        [
+          0.34,
+          0.5,
+          0
+        ]
+      ],
+      "seeds": [
+        2026100200,
+        2026100201,
+        2026100202
+      ],
+      "chosen_candidate": 0,
+      "chosen_seed": 2026100200,
+      "measurement": {
+        "id": "bienvenida",
+        "duration_ms": 1100,
+        "rms_active_dbfs": -19.9998717662325,
+        "peak_dbfs": -6.467132350153672,
+        "initial_silence_ms": 2.9024943310657596,
+        "edge_max_dbfs": -180.0,
+        "sha256": "1e384ae8ff652df6b51e1870838a893857e5c02eeb852c04701e93d94ef2855c",
+        "bytes": 97064
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "cierre",
+      "duration_ms": 1350,
+      "intent": "Un cierre agradecido y tranquilo",
+      "prompt": "A single isolated sound effect: felt-damped low plucked strings, mellow rounded chord settling into a warm room resonance. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.6,
+          1
+        ],
+        [
+          0.32,
+          1,
+          -4
+        ]
+      ],
+      "seeds": [
+        2026100300,
+        2026100301,
+        2026100302
+      ],
+      "chosen_candidate": 1,
+      "chosen_seed": 2026100301,
+      "measurement": {
+        "id": "cierre",
+        "duration_ms": 1350,
+        "rms_active_dbfs": -19.999545097772913,
+        "peak_dbfs": -6.625963184726437,
+        "initial_silence_ms": 2.9024943310657596,
+        "edge_max_dbfs": -180.0,
+        "sha256": "13a29299f1662ab2faa43887e58b88b5a589d25bd75ade6e263de8c26bde5b2d",
+        "bytes": 119114
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "nivelSuave",
+      "duration_ms": 240,
+      "intent": "Un toque liviano y cercano",
+      "prompt": "A single isolated sound effect: delicate muted nylon string fingertip pluck, light springy rounded attack. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ]
+      ],
+      "seeds": [
+        2026100400,
+        2026100401,
+        2026100402
+      ],
+      "chosen_candidate": 2,
+      "chosen_seed": 2026100402,
+      "measurement": {
+        "id": "nivelSuave",
+        "duration_ms": 240,
+        "rms_active_dbfs": -20.00001485081549,
+        "peak_dbfs": -6.96383383832179,
+        "initial_silence_ms": 2.562358276643991,
+        "edge_max_dbfs": -180.0,
+        "sha256": "e963bac9f8e8e9dadb6466a63be02c0288b8dd946d9a978320b400ea05dd6e63",
+        "bytes": 21212
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "nivelMedio",
+      "duration_ms": 290,
+      "intent": "Dos apoyos relajados",
+      "prompt": "A single isolated sound effect: warm muted string and velvety soft elastic tap, gentle midrange body. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.8,
+          -2
+        ],
+        [
+          0.085,
+          1,
+          1
+        ]
+      ],
+      "seeds": [
+        2026100500,
+        2026100501,
+        2026100502
+      ],
+      "chosen_candidate": 1,
+      "chosen_seed": 2026100501,
+      "measurement": {
+        "id": "nivelMedio",
+        "duration_ms": 290,
+        "rms_active_dbfs": -19.999610529103155,
+        "peak_dbfs": -6.346308302560841,
+        "initial_silence_ms": 2.0181405895691613,
+        "edge_max_dbfs": -180.0,
+        "sha256": "a5827fccf646ec7dc1a7284f40a0dec5f97e9360840a5e0ee55975fc2edaa5f8",
+        "bytes": 25622
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "nivelProfundo",
+      "duration_ms": 360,
+      "intent": "Un apoyo más asentado",
+      "prompt": "A single isolated sound effect: deep soft thumb-plucked string, warm resonant body and felt damping, intimate and grounded. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ],
+        [
+          0.08,
+          0.35,
+          5
+        ]
+      ],
+      "seeds": [
+        2026100600,
+        2026100601,
+        2026100602
+      ],
+      "chosen_candidate": 2,
+      "chosen_seed": 2026100602,
+      "measurement": {
+        "id": "nivelProfundo",
+        "duration_ms": 360,
+        "rms_active_dbfs": -20.000009421472274,
+        "peak_dbfs": -7.931144191721926,
+        "initial_silence_ms": 2.653061224489796,
+        "edge_max_dbfs": -180.0,
+        "sha256": "6c66e6712c7d9f3341fc1fa30ab76e419d7cc3bd33c3363fbcb3e063d1e373e7",
+        "bytes": 31796
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "rondaCorta",
+      "duration_ms": 360,
+      "intent": "Dos pulsos que invitan a empezar",
+      "prompt": "A single isolated sound effect: rounded soft fingertip plucks, relaxed unhurried two pulse gesture with warm natural decay. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ],
+        [
+          0.13,
+          0.85,
+          2
+        ]
+      ],
+      "seeds": [
+        2026100700,
+        2026100701,
+        2026100702
+      ],
+      "chosen_candidate": 2,
+      "chosen_seed": 2026100702,
+      "measurement": {
+        "id": "rondaCorta",
+        "duration_ms": 360,
+        "rms_active_dbfs": -20.00216065333968,
+        "peak_dbfs": -7.421874151830689,
+        "initial_silence_ms": 1.6780045351473922,
+        "edge_max_dbfs": -180.0,
+        "sha256": "eb5bf65adf9906d234af28f00623c52f431f928f5c5065ed98b45198203f952a",
+        "bytes": 31796
+      },
+      "air_gain": 0,
+      "body_grain_max_ms": 180
+    },
+    {
+      "id": "rondaLarga",
+      "duration_ms": 490,
+      "intent": "Tres pulsos con espacio entre ellos",
+      "prompt": "A single isolated sound effect: mellow low nylon string plucks with airy soft brushed texture, gently unfolding friendly gesture. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.85,
+          -2
+        ],
+        [
+          0.14,
+          0.75,
+          1
+        ],
+        [
+          0.28,
+          1,
+          5
+        ]
+      ],
+      "seeds": [
+        2026100800,
+        2026100801,
+        2026100802
+      ],
+      "chosen_candidate": 1,
+      "chosen_seed": 2026100801,
+      "measurement": {
+        "id": "rondaLarga",
+        "duration_ms": 490,
+        "rms_active_dbfs": -20.000001295892275,
+        "peak_dbfs": -7.546103815604614,
+        "initial_silence_ms": 1.9501133786848073,
+        "edge_max_dbfs": -180.0,
+        "sha256": "cdf41026718ba02f8fdc2df3f9aca49fae48e11f7e4e11e81518d0a80b92f48f",
+        "bytes": 43262
+      },
+      "air_gain": 0,
+      "body_grain_max_ms": 180
+    },
+    {
+      "id": "iniciarRonda",
+      "duration_ms": 720,
+      "intent": "Abrir la conversación con calma",
+      "prompt": "A single isolated sound effect: warm soft plucked string flourish, elastic rounded lift and a spacious comforting resonance. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ],
+        [
+          0.24,
+          0.45,
+          2
+        ]
+      ],
+      "seeds": [
+        2026100900,
+        2026100901,
+        2026100902
+      ],
+      "chosen_candidate": 0,
+      "chosen_seed": 2026100900,
+      "measurement": {
+        "id": "iniciarRonda",
+        "duration_ms": 720,
+        "rms_active_dbfs": -19.999817027917132,
+        "peak_dbfs": -6.817336915642359,
+        "initial_silence_ms": 0.9070294784580499,
+        "edge_max_dbfs": -180.0,
+        "sha256": "09c445b7261e5105ff6e3ef4d46bcdb984ee868ecc9232e2cf7a4a156ab0a5aa",
+        "bytes": 63548
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "retomarRonda",
+      "duration_ms": 550,
+      "intent": "Reencontrarse con la charla",
+      "prompt": "A single isolated sound effect: intimate mellow thumb-plucked string, soft returning rounded gesture, relaxed natural decay. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.55,
+          3
+        ],
+        [
+          0.14,
+          1,
+          -2
+        ]
+      ],
+      "seeds": [
+        2026101000,
+        2026101001,
+        2026101002
+      ],
+      "chosen_candidate": 0,
+      "chosen_seed": 2026101000,
+      "measurement": {
+        "id": "retomarRonda",
+        "duration_ms": 550,
+        "rms_active_dbfs": -20.00000363944585,
+        "peak_dbfs": -6.534927736825786,
+        "initial_silence_ms": 3.6734693877551017,
+        "edge_max_dbfs": -180.0,
+        "sha256": "32552393f42011869b173e0ba9d026bd55581df0859d45641839569c70130d3a",
+        "bytes": 48554
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "otraRonda",
+      "duration_ms": 660,
+      "intent": "Dar continuidad al encuentro",
+      "prompt": "A single isolated sound effect: warm unhurried elastic pluck, softly flowing circular gesture and velvety resonant tail. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.75,
+          -3
+        ],
+        [
+          0.25,
+          1,
+          0
+        ]
+      ],
+      "seeds": [
+        2026101100,
+        2026101101,
+        2026101102
+      ],
+      "chosen_candidate": 2,
+      "chosen_seed": 2026101102,
+      "measurement": {
+        "id": "otraRonda",
+        "duration_ms": 660,
+        "rms_active_dbfs": -20.000005985950192,
+        "peak_dbfs": -6.673841429820822,
+        "initial_silence_ms": 2.2448979591836733,
+        "edge_max_dbfs": -180.0,
+        "sha256": "8769dde3e53c1035907d32eee4844a4131c216fc9a93682021e18d628cdde670",
+        "bytes": 58256
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "abrirConsignas",
+      "duration_ms": 460,
+      "intent": "Un pequeño gesto de curiosidad",
+      "prompt": "A single isolated sound effect: gentle mellow nylon string harmonic blended with a soft warm pluck, curious airy flutter. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ],
+        [
+          0.12,
+          0.45,
+          5
+        ]
+      ],
+      "seeds": [
+        2026101200,
+        2026101201,
+        2026101202
+      ],
+      "chosen_candidate": 1,
+      "chosen_seed": 2026101201,
+      "measurement": {
+        "id": "abrirConsignas",
+        "duration_ms": 460,
+        "rms_active_dbfs": -20.0002435420577,
+        "peak_dbfs": -7.423743223954546,
+        "initial_silence_ms": 2.5396825396825395,
+        "edge_max_dbfs": -180.0,
+        "sha256": "6e2d98bc4c699c3cf65f8f3d0a0fd6d239d33d1b185334a027c8ef4a4211cb5b",
+        "bytes": 40616
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "abrirTutorial",
+      "duration_ms": 560,
+      "intent": "Invitar a probar con confianza",
+      "prompt": "A single isolated sound effect: friendly warm fingertip string pluck with a soft airy lift, gentle loose two note invitation. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.75,
+          -2
+        ],
+        [
+          0.18,
+          1,
+          2
+        ]
+      ],
+      "seeds": [
+        2026101300,
+        2026101301,
+        2026101302
+      ],
+      "chosen_candidate": 2,
+      "chosen_seed": 2026101302,
+      "measurement": {
+        "id": "abrirTutorial",
+        "duration_ms": 560,
+        "rms_active_dbfs": -19.999562597741527,
+        "peak_dbfs": -7.0720595086239815,
+        "initial_silence_ms": 1.7687074829931972,
+        "edge_max_dbfs": -180.0,
+        "sha256": "17fb4bc7ad45dffed98f7fa0cfa5f0131aa7f74a41cd89d3d55fad798f26de7a",
+        "bytes": 49436
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "abrirLaboratorio",
+      "duration_ms": 590,
+      "intent": "Un gesto tranquilo de exploración",
+      "prompt": "A single isolated sound effect: soft elastic plucked string with velvety bubbly body, unhurried three relaxed rounded touches. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ],
+        [
+          0.22,
+          0.4,
+          1
+        ]
+      ],
+      "seeds": [
+        2026101400,
+        2026101401,
+        2026101402
+      ],
+      "chosen_candidate": 2,
+      "chosen_seed": 2026101402,
+      "measurement": {
+        "id": "abrirLaboratorio",
+        "duration_ms": 590,
+        "rms_active_dbfs": -20.000261151572598,
+        "peak_dbfs": -6.738092408974214,
+        "initial_silence_ms": 2.290249433106576,
+        "edge_max_dbfs": -180.0,
+        "sha256": "2dc1dc5156d9d53d2932523597476fa532a2fc0ac1c07546fcdd2dae43a4c9de",
+        "bytes": 52082
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "carta",
+      "duration_ms": 580,
+      "intent": "Un movimiento que abre otro tema",
+      "prompt": "A single isolated sound effect: gentle airy brushed swish into a warm muted nylon string pluck, rounded tactile landing and soft natural resonance. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.55,
+          -2
+        ],
+        [
+          0.2,
+          1,
+          -2
+        ]
+      ],
+      "seeds": [
+        2026101500,
+        2026101501,
+        2026101502
+      ],
+      "chosen_candidate": 1,
+      "chosen_seed": 2026101501,
+      "measurement": {
+        "id": "carta",
+        "duration_ms": 580,
+        "rms_active_dbfs": -19.9999966592944,
+        "peak_dbfs": -6.367248790196578,
+        "initial_silence_ms": 2.1088435374149657,
+        "edge_max_dbfs": -180.0,
+        "sha256": "4c969ba2c3eda4e876ac30b6b9911846b1310ad6409ab7061e80c72324fcbbce",
+        "bytes": 51200
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "giro",
+      "duration_ms": 500,
+      "intent": "Un giro curioso que invita a profundizar",
+      "prompt": "A single isolated sound effect: warm elastic string curl, a softly rising plucked resonance with light brushed air and rounded body. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.65,
+          -3
+        ],
+        [
+          0.16,
+          1,
+          0
+        ]
+      ],
+      "seeds": [
+        2026101600,
+        2026101601,
+        2026101602
+      ],
+      "chosen_candidate": 0,
+      "chosen_seed": 2026101600,
+      "measurement": {
+        "id": "giro",
+        "duration_ms": 500,
+        "rms_active_dbfs": -19.999727321373705,
+        "peak_dbfs": -6.383263723016843,
+        "initial_silence_ms": 2.675736961451247,
+        "edge_max_dbfs": -180.0,
+        "sha256": "5eb522ec8835d10a7f5c34d3f7d0dd9d4b196e8a5402d4cf149f2e19f03811a4",
+        "bytes": 44144
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "volverCarta",
+      "duration_ms": 460,
+      "intent": "Un regreso relajado al tema",
+      "prompt": "A single isolated sound effect: mellow soft string curl gently settling downward, warm thumb-damped resonance with a little brushed air. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.65,
+          0
+        ],
+        [
+          0.18,
+          1,
+          -4
+        ]
+      ],
+      "seeds": [
+        2026101700,
+        2026101701,
+        2026101702
+      ],
+      "chosen_candidate": 0,
+      "chosen_seed": 2026101700,
+      "measurement": {
+        "id": "volverCarta",
+        "duration_ms": 460,
+        "rms_active_dbfs": -20.00000744794137,
+        "peak_dbfs": -7.3690835550050595,
+        "initial_silence_ms": 2.4716553287981857,
+        "edge_max_dbfs": -180.0,
+        "sha256": "23bde743d75242aad67a9acb3c09864e112c1e08495d34e1884fe8e6a2877a78",
+        "bytes": 40616
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "pasar",
+      "duration_ms": 430,
+      "intent": "Dejar ir el tema con naturalidad",
+      "prompt": "A single isolated sound effect: soft velvety lateral air swish, muted elastic pluck dissolving gently, calm neutral comfortable gesture. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ]
+      ],
+      "seeds": [
+        2026101800,
+        2026101801,
+        2026101802
+      ],
+      "chosen_candidate": 1,
+      "chosen_seed": 2026101801,
+      "measurement": {
+        "id": "pasar",
+        "duration_ms": 430,
+        "rms_active_dbfs": -20.000006982413822,
+        "peak_dbfs": -7.02075181709898,
+        "initial_silence_ms": 2.3356009070294785,
+        "edge_max_dbfs": -180.0,
+        "sha256": "edf5670f78294336c533bfb58a6a9731f54192ba79c2833d22ba0657dcac1dd8",
+        "bytes": 37970
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "deslizamiento",
+      "duration_ms": 330,
+      "intent": "Una sugerencia ligera de movimiento",
+      "prompt": "A single isolated sound effect: gentle soft airy brushing sweep, intimate light feathered friction moving smoothly, quiet rounded fade. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ]
+      ],
+      "seeds": [
+        2026101900,
+        2026101901,
+        2026101902
+      ],
+      "chosen_candidate": 1,
+      "chosen_seed": 2026101901,
+      "measurement": {
+        "id": "deslizamiento",
+        "duration_ms": 330,
+        "rms_active_dbfs": -19.999992383570515,
+        "peak_dbfs": -7.803278033321089,
+        "initial_silence_ms": 1.6780045351473922,
+        "edge_max_dbfs": -180.0,
+        "sha256": "100627a31b652d5d175cd36ab4323d04c0b2e7ba2c8619cea95ca8d8faf86d59",
+        "bytes": 29150
+      },
+      "air_gain": 0.5
+    },
+    {
+      "id": "abrirAyuda",
+      "duration_ms": 390,
+      "intent": "Abrir un espacio de acompañamiento",
+      "prompt": "A single isolated sound effect: warm softly blooming nylon string harmonic, intimate velvety resonant opening. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ],
+        [
+          0.08,
+          0.35,
+          2
+        ]
+      ],
+      "seeds": [
+        2026102000,
+        2026102001,
+        2026102002
+      ],
+      "chosen_candidate": 0,
+      "chosen_seed": 2026102000,
+      "measurement": {
+        "id": "abrirAyuda",
+        "duration_ms": 390,
+        "rms_active_dbfs": -19.999994117855255,
+        "peak_dbfs": -7.415024326331859,
+        "initial_silence_ms": 2.2448979591836733,
+        "edge_max_dbfs": -180.0,
+        "sha256": "9fc02ca61599458b6f1436dc841ea4a7b5b108765bc443a178e49359500be3ce",
+        "bytes": 34442
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "cerrarAyuda",
+      "duration_ms": 220,
+      "intent": "Un cierre pequeño y amable",
+      "prompt": "A single isolated sound effect: soft felt-damped string pinch, short rounded tactile close with a warm low tail. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ]
+      ],
+      "seeds": [
+        2026102100,
+        2026102101,
+        2026102102
+      ],
+      "chosen_candidate": 0,
+      "chosen_seed": 2026102100,
+      "measurement": {
+        "id": "cerrarAyuda",
+        "duration_ms": 220,
+        "rms_active_dbfs": -20.000014875653346,
+        "peak_dbfs": -6.7168140246703505,
+        "initial_silence_ms": 1.9727891156462587,
+        "edge_max_dbfs": -180.0,
+        "sha256": "4b065c0aa185a31cfea3c406931c576166ccb46c4730dab3e2b5aef60ee2d780",
+        "bytes": 19448
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "volverInicio",
+      "duration_ms": 340,
+      "intent": "Un retorno familiar",
+      "prompt": "A single isolated sound effect: gentle low rounded nylon string pluck, soft returning gesture and intimate warm body. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.6,
+          3
+        ],
+        [
+          0.1,
+          1,
+          -2
+        ]
+      ],
+      "seeds": [
+        2026102200,
+        2026102201,
+        2026102202
+      ],
+      "chosen_candidate": 2,
+      "chosen_seed": 2026102202,
+      "measurement": {
+        "id": "volverInicio",
+        "duration_ms": 340,
+        "rms_active_dbfs": -20.000348473953196,
+        "peak_dbfs": -6.969745422051014,
+        "initial_silence_ms": 2.6984126984126986,
+        "edge_max_dbfs": -180.0,
+        "sha256": "17ceb2d06768dda30dad9b60b47a48b02d1642831c263e6fb36c671ec061bc39",
+        "bytes": 30032
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "tutorialSiguiente",
+      "duration_ms": 210,
+      "intent": "Un avance liviano",
+      "prompt": "A single isolated sound effect: light warm elastic fingertip pluck, delicate rounded forward touch and gentle decay. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ]
+      ],
+      "seeds": [
+        2026102300,
+        2026102301,
+        2026102302
+      ],
+      "chosen_candidate": 1,
+      "chosen_seed": 2026102301,
+      "measurement": {
+        "id": "tutorialSiguiente",
+        "duration_ms": 210,
+        "rms_active_dbfs": -20.0000028650964,
+        "peak_dbfs": -7.255894722848552,
+        "initial_silence_ms": 2.3356009070294785,
+        "edge_max_dbfs": -180.0,
+        "sha256": "1ce662efe092fe9eb60b934e07b0910782e0a530adbc8e1acc61496bfd37dca2",
+        "bytes": 18566
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "tutorialAnterior",
+      "duration_ms": 230,
+      "intent": "Un paso atrás sin reproche",
+      "prompt": "A single isolated sound effect: soft muted low string brush and pluck, rounded intimate backstep and felt-damped tail. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ]
+      ],
+      "seeds": [
+        2026102400,
+        2026102401,
+        2026102402
+      ],
+      "chosen_candidate": 0,
+      "chosen_seed": 2026102400,
+      "measurement": {
+        "id": "tutorialAnterior",
+        "duration_ms": 230,
+        "rms_active_dbfs": -19.999475974238088,
+        "peak_dbfs": -6.357323318478821,
+        "initial_silence_ms": 1.1337868480725624,
+        "edge_max_dbfs": -180.0,
+        "sha256": "e0a2412b8e68ffb8a73f3216cf37aed22082dc2d84b83a11cceaa392cf1200a1",
+        "bytes": 20330
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "tutorialOmitir",
+      "duration_ms": 280,
+      "intent": "Una salida sin presión",
+      "prompt": "A single isolated sound effect: quiet soft velvet brushing flick, gently releasing into a warm small resonance. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ]
+      ],
+      "seeds": [
+        2026102500,
+        2026102501,
+        2026102502
+      ],
+      "chosen_candidate": 2,
+      "chosen_seed": 2026102502,
+      "measurement": {
+        "id": "tutorialOmitir",
+        "duration_ms": 280,
+        "rms_active_dbfs": -20.0097361328804,
+        "peak_dbfs": -6.339156025653473,
+        "initial_silence_ms": 2.675736961451247,
+        "edge_max_dbfs": -180.0,
+        "sha256": "75a045dfed8ee5f941e7d35976558cea4cedad550c3e91d7ac2619b64b99c157",
+        "bytes": 24740
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "tutorialCompletar",
+      "duration_ms": 820,
+      "intent": "Quedar listos para conversar",
+      "prompt": "A single isolated sound effect: friendly warm nylon string flourish, loosely played calm soft call and response, mellow welcoming resonance. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.8,
+          -2
+        ],
+        [
+          0.29,
+          1,
+          1
+        ]
+      ],
+      "seeds": [
+        2026102600,
+        2026102601,
+        2026102602
+      ],
+      "chosen_candidate": 0,
+      "chosen_seed": 2026102600,
+      "measurement": {
+        "id": "tutorialCompletar",
+        "duration_ms": 820,
+        "rms_active_dbfs": -20.000001294917222,
+        "peak_dbfs": -7.094827253345769,
+        "initial_silence_ms": 2.0861678004535147,
+        "edge_max_dbfs": -180.0,
+        "sha256": "9a17ebb826d0f852e6bf03b940e072c20aee6498f940784825ae79fdf6be711f",
+        "bytes": 72368
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "activarSonido",
+      "duration_ms": 340,
+      "intent": "Una confirmación que se abre",
+      "prompt": "A single isolated sound effect: soft rounded string harmonic opening into a warm airy body, intimate mellow mellow pluck. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ],
+        [
+          0.09,
+          0.35,
+          5
+        ]
+      ],
+      "seeds": [
+        2026102700,
+        2026102701,
+        2026102702
+      ],
+      "chosen_candidate": 1,
+      "chosen_seed": 2026102701,
+      "measurement": {
+        "id": "activarSonido",
+        "duration_ms": 340,
+        "rms_active_dbfs": -19.999996871952902,
+        "peak_dbfs": -6.362284636593123,
+        "initial_silence_ms": 3.038548752834467,
+        "edge_max_dbfs": -180.0,
+        "sha256": "add64a3284ce2a3193d3bee072ab42add8641d94cf4fc10d2502a219b2d22eef",
+        "bytes": 30032
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "activarVibracion",
+      "duration_ms": 230,
+      "intent": "Dos pequeños apoyos de tacto",
+      "prompt": "A single isolated sound effect: warm muted elastic fingertip taps with felt-soft rounded low resonance, cozy tactile texture. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ],
+        [
+          0.075,
+          0.55,
+          0
+        ]
+      ],
+      "seeds": [
+        2026102800,
+        2026102801,
+        2026102802
+      ],
+      "chosen_candidate": 2,
+      "chosen_seed": 2026102802,
+      "measurement": {
+        "id": "activarVibracion",
+        "duration_ms": 230,
+        "rms_active_dbfs": -20.000568972710457,
+        "peak_dbfs": -6.687569542742015,
+        "initial_silence_ms": 1.2471655328798186,
+        "edge_max_dbfs": -180.0,
+        "sha256": "e039d4f65f270717874f019e165d00c8889b182982ea68ba26513c4ca967ca9d",
+        "bytes": 20330
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "desactivarVibracion",
+      "duration_ms": 250,
+      "intent": "Un apoyo que se apaga",
+      "prompt": "A single isolated sound effect: soft low damped string touch, mellow velvety rounded resonance relaxing into quiet. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          0.7,
+          0
+        ],
+        [
+          0.09,
+          1,
+          -5
+        ]
+      ],
+      "seeds": [
+        2026102900,
+        2026102901,
+        2026102902
+      ],
+      "chosen_candidate": 2,
+      "chosen_seed": 2026102902,
+      "measurement": {
+        "id": "desactivarVibracion",
+        "duration_ms": 250,
+        "rms_active_dbfs": -20.00000791631352,
+        "peak_dbfs": -7.011239548235276,
+        "initial_silence_ms": 2.6984126984126986,
+        "edge_max_dbfs": -180.0,
+        "sha256": "e489bb6f289dc7d3ff9964581f0a6f6de69a3c9e68ad2af634a9607c6f962641",
+        "bytes": 22094
+      },
+      "air_gain": 0.065
+    },
+    {
+      "id": "reintentar",
+      "duration_ms": 310,
+      "intent": "Dar otra oportunidad con calma",
+      "prompt": "A single isolated sound effect: warm rounded nylon string fingertip touch, gentle small elastic rebound and reassuring soft tail. Soft hand-played organic articulation, velvety felt damping, mellow lower midrange, close and intimate, very gentle attack, unhurried comfortable decay with soft spacious resonance. A tiny calm gesture for a quiet heartfelt conversation. Silence after the gesture.",
+      "pulses": [
+        [
+          0,
+          1,
+          -2
+        ],
+        [
+          0.095,
+          0.6,
+          2
+        ]
+      ],
+      "seeds": [
+        2026103000,
+        2026103001,
+        2026103002
+      ],
+      "chosen_candidate": 2,
+      "chosen_seed": 2026103002,
+      "measurement": {
+        "id": "reintentar",
+        "duration_ms": 310,
+        "rms_active_dbfs": -20.0004827702802,
+        "peak_dbfs": -7.426235945922599,
+        "initial_silence_ms": 1.4965986394557824,
+        "edge_max_dbfs": -180.0,
+        "sha256": "91a55dfba331f842c3a12424f5caf3e0d0c02b075f49ed11cebe38e6fb9ed133",
+        "bytes": 27386
+      },
+      "air_gain": 0.065
+    }
+  ],
+  "production": {
+    "model": "stabilityai/stable-audio-3-small-sfx",
+    "device": "CUDA",
+    "model_half": true,
+    "candidates_per_effect": 3,
+    "source_duration_seconds": 2,
+    "steps": 8,
+    "model_loads": 1,
+    "offline": true,
+    "source_repository_commit": "3a82c807b69cf4b7c5c05270011a5d5e47abac18",
+    "reaper": "7.81",
+    "instrument": "audio Small-SFX; sin osciladores ReaSynth",
+    "body_band_hz": [
+      90,
+      3000
+    ],
+    "air_band_hz": [
+      1100,
+      5000
+    ],
+    "master_render": "REAPER, dos pistas de audio editables, 29 regiones, WAV mono PCM24 44100 Hz",
+    "active_rms_definition": "envolvente de potencia 5 ms > -35 dB respecto al máximo",
+    "selection": "penalizar concentración estrecha, energía aguda y grave excesiva; cresta cercana a 3",
+    "body_decay": "envolvente exponencial exp(0..-1.9), amplitud activa RMS 0.1",
+    "air_envelope": "sin(0..pi)^2; capa secundaria 0.065, demostración 0.5",
+    "final_mastering": "DC, fundidos 5/35 ms, RMS activo -20 dBFS, limitación suave de picos -6.3 dBFS, PCM16"
+  }
+}

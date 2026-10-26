@@ -1,0 +1,3446 @@
+[
+  {
+    "id": "bienvenida",
+    "chosen": 2,
+    "seed": 2026100302,
+    "candidates": [
+      {
+        "source": "candidatos/bienvenida_0.wav",
+        "source_start_seconds": 0.3403628117913832,
+        "source_fundamental_hz": 494.59075927734375,
+        "harmonic_fraction": 0.998056231142234,
+        "measured_partials": [
+          1.0,
+          0.10817359201804967,
+          0.003408873523952278,
+          0.0010994879308344105,
+          0.0005677067154053656
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.0019437688577660373
+      },
+      {
+        "source": "candidatos/bienvenida_1.wav",
+        "source_start_seconds": 0.4099092970521542,
+        "source_fundamental_hz": 255.706787109375,
+        "harmonic_fraction": 0.0005799300592324461,
+        "measured_partials": [
+          1.0,
+          0.31570934539129974,
+          0.5839580447488427,
+          0.37591046772876946,
+          0.34116213267317
+        ],
+        "partials": [
+          1.0,
+          0.31570934539129974,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9994200699407676
+      },
+      {
+        "source": "candidatos/bienvenida_2.wav",
+        "source_start_seconds": 0.1309297052154195,
+        "source_fundamental_hz": 261.76300048828125,
+        "harmonic_fraction": 0.9980589199985459,
+        "measured_partials": [
+          1.0,
+          0.027111196735073395,
+          0.014206761746258385,
+          0.03661449104299835,
+          0.002131711703547235
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.03661449104299835,
+          0.008
+        ],
+        "score": 0.0019410800014540985
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026100302,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.03661449104299835,
+        0.008
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    }
+  },
+  {
+    "id": "cierre",
+    "chosen": 2,
+    "seed": 2026100402,
+    "candidates": [
+      {
+        "source": "candidatos/cierre_0.wav",
+        "source_start_seconds": 0.3426984126984127,
+        "source_fundamental_hz": 430.6640625,
+        "harmonic_fraction": 0.00034891478765393527,
+        "measured_partials": [
+          1.0,
+          0.3390309557731547,
+          0.3212285767740548,
+          0.3166662103992309,
+          0.46730731609466486
+        ],
+        "partials": [
+          1.0,
+          0.3390309557731547,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.999651085212346
+      },
+      {
+        "source": "candidatos/cierre_1.wav",
+        "source_start_seconds": 0.0,
+        "source_fundamental_hz": 255.706787109375,
+        "harmonic_fraction": 0.0015596697863652273,
+        "measured_partials": [
+          1.0,
+          0.2547627807975013,
+          0.30130563781417263,
+          0.3527367339176547,
+          0.18103612043424003
+        ],
+        "partials": [
+          1.0,
+          0.2547627807975013,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9984403302136348
+      },
+      {
+        "source": "candidatos/cierre_2.wav",
+        "source_start_seconds": 0.2330612244897959,
+        "source_fundamental_hz": 247.6318359375,
+        "harmonic_fraction": 0.07979200379302007,
+        "measured_partials": [
+          1.0,
+          0.032039136886221474,
+          0.02339759499007186,
+          0.055397168863691115,
+          0.01993610657322238
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.055397168863691115,
+          0.01993610657322238
+        ],
+        "score": 0.9202079962069799
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026100402,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.055397168863691115,
+        0.01993610657322238
+      ],
+      "attack_seconds": 0.035,
+      "decay": 3.8,
+      "drift_cents": 28
+    }
+  },
+  {
+    "id": "nivelSuave",
+    "chosen": 2,
+    "seed": 2026100502,
+    "candidates": [
+      {
+        "source": "candidatos/nivelSuave_0.wav",
+        "source_start_seconds": 0.21761904761904763,
+        "source_fundamental_hz": 294.06280517578125,
+        "harmonic_fraction": 0.903136551518217,
+        "measured_partials": [
+          1.0,
+          0.011920235332939347,
+          0.011884102094263743,
+          0.049396585676980055,
+          0.018075035943475842
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.049396585676980055,
+          0.018075035943475842
+        ],
+        "score": 0.09686344848178297
+      },
+      {
+        "source": "candidatos/nivelSuave_1.wav",
+        "source_start_seconds": 0.14884353741496598,
+        "source_fundamental_hz": 261.76300048828125,
+        "harmonic_fraction": 0.9561653492948605,
+        "measured_partials": [
+          1.0,
+          0.013545949833834647,
+          0.011418214734832004,
+          0.016162764425121212,
+          0.0035727319695246585
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.04383465070513948
+      },
+      {
+        "source": "candidatos/nivelSuave_2.wav",
+        "source_start_seconds": 0.15433106575963718,
+        "source_fundamental_hz": 261.090087890625,
+        "harmonic_fraction": 0.9935392807623594,
+        "measured_partials": [
+          1.0,
+          0.16591083936547193,
+          0.02124038751595894,
+          0.032103647419156695,
+          0.00905856281978376
+        ],
+        "partials": [
+          1.0,
+          0.16591083936547193,
+          0.07,
+          0.032103647419156695,
+          0.00905856281978376
+        ],
+        "score": 0.0064607192376405775
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026100502,
+      "partials": [
+        1.0,
+        0.16591083936547193,
+        0.07,
+        0.032103647419156695,
+        0.00905856281978376
+      ],
+      "attack_seconds": 0.06,
+      "decay": 2.9,
+      "drift_cents": -22
+    }
+  },
+  {
+    "id": "nivelMedio",
+    "chosen": 1,
+    "seed": 2026100601,
+    "candidates": [
+      {
+        "source": "candidatos/nivelMedio_0.wav",
+        "source_start_seconds": 0.6978458049886621,
+        "source_fundamental_hz": 337.12921142578125,
+        "harmonic_fraction": 0.591926605830669,
+        "measured_partials": [
+          1.0,
+          0.022221546206943023,
+          0.005242527999102589,
+          0.007774557807321536,
+          0.0019245362717496355
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.40807339416933097
+      },
+      {
+        "source": "candidatos/nivelMedio_1.wav",
+        "source_start_seconds": 0.7103854875283446,
+        "source_fundamental_hz": 333.09173583984375,
+        "harmonic_fraction": 0.9599188653305412,
+        "measured_partials": [
+          1.0,
+          0.06667299995026534,
+          0.020803193148260322,
+          0.00510162238231116,
+          0.0010566851370011018
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.04008113466945884
+      },
+      {
+        "source": "candidatos/nivelMedio_2.wav",
+        "source_start_seconds": 0.641156462585034,
+        "source_fundamental_hz": 335.1104736328125,
+        "harmonic_fraction": 0.8714705971786392,
+        "measured_partials": [
+          1.0,
+          0.06443818619927,
+          0.007925420388150473,
+          0.006427188505867726,
+          0.0028194073125724604
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.12852940282136083
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026100601,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.045,
+      "decay": 3.1,
+      "drift_cents": 18
+    }
+  },
+  {
+    "id": "nivelProfundo",
+    "chosen": 1,
+    "seed": 2026100701,
+    "candidates": [
+      {
+        "source": "candidatos/nivelProfundo_0.wav",
+        "source_start_seconds": 0.6062131519274376,
+        "source_fundamental_hz": 312.90435791015625,
+        "harmonic_fraction": 0.6635783540568567,
+        "measured_partials": [
+          1.0,
+          0.2803773439078307,
+          0.38804285584735565,
+          0.042666194547967655,
+          0.025688473723744384
+        ],
+        "partials": [
+          1.0,
+          0.2803773439078307,
+          0.25,
+          0.042666194547967655,
+          0.025688473723744384
+        ],
+        "score": 0.3364216459431433
+      },
+      {
+        "source": "candidatos/nivelProfundo_1.wav",
+        "source_start_seconds": 0.2891156462585034,
+        "source_fundamental_hz": 262.4359130859375,
+        "harmonic_fraction": 0.9974318341606182,
+        "measured_partials": [
+          1.0,
+          0.09551822908165315,
+          0.0018834678140487665,
+          0.019448362364647122,
+          0.0015540989839032788
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.0025681658393817974
+      },
+      {
+        "source": "candidatos/nivelProfundo_2.wav",
+        "source_start_seconds": 0.12854875283446712,
+        "source_fundamental_hz": 524.871826171875,
+        "harmonic_fraction": 0.9781591632934401,
+        "measured_partials": [
+          1.0,
+          68.6013439081552,
+          0.30184587410516717,
+          2.021809405785037,
+          0.15593713910732623
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 13.622109618337602
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026100701,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    }
+  },
+  {
+    "id": "rondaCorta",
+    "chosen": 1,
+    "seed": 2026100801,
+    "candidates": [
+      {
+        "source": "candidatos/rondaCorta_0.wav",
+        "source_start_seconds": 0.17145124716553287,
+        "source_fundamental_hz": 246.95892333984375,
+        "harmonic_fraction": 0.004119091262389575,
+        "measured_partials": [
+          1.0,
+          0.13334359010243713,
+          0.056726175220753614,
+          0.1538786110795359,
+          0.08790031199143401
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.15,
+          0.075
+        ],
+        "score": 0.9958809087376104
+      },
+      {
+        "source": "candidatos/rondaCorta_1.wav",
+        "source_start_seconds": 0.040952380952380955,
+        "source_fundamental_hz": 249.65057373046875,
+        "harmonic_fraction": 0.6174117120228866,
+        "measured_partials": [
+          1.0,
+          0.020329324232236747,
+          0.009792959684249087,
+          0.009256926203543688,
+          0.007635095157210927
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.3825882879771134
+      },
+      {
+        "source": "candidatos/rondaCorta_2.wav",
+        "source_start_seconds": 0.0,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.0014343718880983154,
+        "measured_partials": [
+          1.0,
+          0.18245041689905078,
+          0.07688343695733178,
+          0.1982786210591732,
+          0.3248021500492623
+        ],
+        "partials": [
+          1.0,
+          0.18245041689905078,
+          0.07688343695733178,
+          0.15,
+          0.075
+        ],
+        "score": 0.9985656281119016
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026100801,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.035,
+      "decay": 3.8,
+      "drift_cents": 28
+    }
+  },
+  {
+    "id": "rondaLarga",
+    "chosen": 1,
+    "seed": 2026100901,
+    "candidates": [
+      {
+        "source": "candidatos/rondaLarga_0.wav",
+        "source_start_seconds": 0.6446938775510204,
+        "source_fundamental_hz": 393.65386962890625,
+        "harmonic_fraction": 0.6243548015418153,
+        "measured_partials": [
+          1.0,
+          0.18817422176986692,
+          0.07457921563190065,
+          0.015912445179993403,
+          0.010662306490637602
+        ],
+        "partials": [
+          1.0,
+          0.18817422176986692,
+          0.07457921563190065,
+          0.025,
+          0.010662306490637602
+        ],
+        "score": 0.37564519845818467
+      },
+      {
+        "source": "candidatos/rondaLarga_1.wav",
+        "source_start_seconds": 0.15113378684807255,
+        "source_fundamental_hz": 294.06280517578125,
+        "harmonic_fraction": 0.9983876356432946,
+        "measured_partials": [
+          1.0,
+          0.09086103934282634,
+          0.017459334662245717,
+          0.032155449403521205,
+          0.013626135412548684
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.032155449403521205,
+          0.013626135412548684
+        ],
+        "score": 0.0016123643567054202
+      },
+      {
+        "source": "candidatos/rondaLarga_2.wav",
+        "source_start_seconds": 0.04857142857142857,
+        "source_fundamental_hz": 261.090087890625,
+        "harmonic_fraction": 0.996029253818883,
+        "measured_partials": [
+          1.0,
+          0.01754778750666051,
+          0.01814355144061019,
+          0.038485449961657855,
+          0.006308823408814899
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.038485449961657855,
+          0.008
+        ],
+        "score": 0.003970746181117035
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026100901,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.032155449403521205,
+        0.013626135412548684
+      ],
+      "attack_seconds": 0.06,
+      "decay": 2.9,
+      "drift_cents": -22
+    }
+  },
+  {
+    "id": "iniciarRonda",
+    "chosen": 1,
+    "seed": 2026101001,
+    "candidates": [
+      {
+        "source": "candidatos/iniciarRonda_0.wav",
+        "source_start_seconds": 0.6872335600907029,
+        "source_fundamental_hz": 442.10357666015625,
+        "harmonic_fraction": 0.7507041912149768,
+        "measured_partials": [
+          1.0,
+          0.08134565471200637,
+          0.006755494218699298,
+          0.001954450780016337,
+          0.002170751812832155
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.24929580878502322
+      },
+      {
+        "source": "candidatos/iniciarRonda_1.wav",
+        "source_start_seconds": 0.15761904761904763,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9936765926729814,
+        "measured_partials": [
+          1.0,
+          0.0485413622816691,
+          0.007660867252018654,
+          0.042026060708427515,
+          0.0032486768965030327
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.042026060708427515,
+          0.008
+        ],
+        "score": 0.0063234073270186375
+      },
+      {
+        "source": "candidatos/iniciarRonda_2.wav",
+        "source_start_seconds": 0.6872789115646258,
+        "source_fundamental_hz": 313.5772705078125,
+        "harmonic_fraction": 0.9908336815533683,
+        "measured_partials": [
+          1.0,
+          0.08758845053116303,
+          0.12428884086602954,
+          0.0061622433441892695,
+          0.015272299077688841
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.12428884086602954,
+          0.025,
+          0.015272299077688841
+        ],
+        "score": 0.009166318446631738
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026101001,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.042026060708427515,
+        0.008
+      ],
+      "attack_seconds": 0.045,
+      "decay": 3.1,
+      "drift_cents": 18
+    }
+  },
+  {
+    "id": "retomarRonda",
+    "chosen": 0,
+    "seed": 2026101100,
+    "candidates": [
+      {
+        "source": "candidatos/retomarRonda_0.wav",
+        "source_start_seconds": 0.7028117913832199,
+        "source_fundamental_hz": 659.454345703125,
+        "harmonic_fraction": 0.4026325929580913,
+        "measured_partials": [
+          1.0,
+          0.09609486073210487,
+          0.10851757400892109,
+          0.0038295360572050924,
+          0.001997892880394232
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.10851757400892109,
+          0.025,
+          0.008
+        ],
+        "score": 0.5973674070419087
+      },
+      {
+        "source": "candidatos/retomarRonda_1.wav",
+        "source_start_seconds": 0.14104308390022677,
+        "source_fundamental_hz": 265.80047607421875,
+        "harmonic_fraction": 0.0006927489315011201,
+        "measured_partials": [
+          1.0,
+          0.32334491341168203,
+          0.6069109886953775,
+          0.7283609051948341,
+          0.21144594377524425
+        ],
+        "partials": [
+          1.0,
+          0.32334491341168203,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9993072510684988
+      },
+      {
+        "source": "candidatos/retomarRonda_2.wav",
+        "source_start_seconds": 0.3142403628117914,
+        "source_fundamental_hz": 501.9927978515625,
+        "harmonic_fraction": 0.1822730152209949,
+        "measured_partials": [
+          1.0,
+          34.75746007481979,
+          0.30461274250311005,
+          2.720985302690016,
+          0.17220470929980056
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 7.649218999742963
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026101100,
+      "partials": [
+        1.0,
+        0.14,
+        0.10851757400892109,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    }
+  },
+  {
+    "id": "otraRonda",
+    "chosen": 0,
+    "seed": 2026101200,
+    "candidates": [
+      {
+        "source": "candidatos/otraRonda_0.wav",
+        "source_start_seconds": 0.04006802721088435,
+        "source_fundamental_hz": 294.06280517578125,
+        "harmonic_fraction": 0.926602257710115,
+        "measured_partials": [
+          1.0,
+          0.047504644652184805,
+          0.016190468485875822,
+          0.03839082595145175,
+          0.36576465792517326
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.03839082595145175,
+          0.075
+        ],
+        "score": 0.07339774228988505
+      },
+      {
+        "source": "candidatos/otraRonda_1.wav",
+        "source_start_seconds": 0.06596371882086167,
+        "source_fundamental_hz": 429.99114990234375,
+        "harmonic_fraction": 0.1267474100715421,
+        "measured_partials": [
+          1.0,
+          0.054494460975747165,
+          0.13037915054787777,
+          0.19723838404119592,
+          5.631038130360879
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.13037915054787777,
+          0.15,
+          0.075
+        ],
+        "score": 0.8732525899284579
+      },
+      {
+        "source": "candidatos/otraRonda_2.wav",
+        "source_start_seconds": 0.3429931972789116,
+        "source_fundamental_hz": 258.3984375,
+        "harmonic_fraction": 0.0007044278738670167,
+        "measured_partials": [
+          1.0,
+          0.17461464848537422,
+          0.6886519836458854,
+          0.5926519084861659,
+          0.3883629704496264
+        ],
+        "partials": [
+          1.0,
+          0.17461464848537422,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.999295572126133
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026101200,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.03839082595145175,
+        0.075
+      ],
+      "attack_seconds": 0.035,
+      "decay": 3.8,
+      "drift_cents": 28
+    }
+  },
+  {
+    "id": "abrirConsignas",
+    "chosen": 2,
+    "seed": 2026101302,
+    "candidates": [
+      {
+        "source": "candidatos/abrirConsignas_0.wav",
+        "source_start_seconds": 0.715578231292517,
+        "source_fundamental_hz": 405.0933837890625,
+        "harmonic_fraction": 0.5522076253750533,
+        "measured_partials": [
+          1.0,
+          0.07300035079881367,
+          0.00587502371540639,
+          0.0014062745994392711,
+          0.000790606673425996
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.4477923746249467
+      },
+      {
+        "source": "candidatos/abrirConsignas_1.wav",
+        "source_start_seconds": 0.5956916099773243,
+        "source_fundamental_hz": 318.9605712890625,
+        "harmonic_fraction": 0.5955560834632367,
+        "measured_partials": [
+          1.0,
+          0.02788922740970108,
+          0.0047330107983792275,
+          0.0018540913874695085,
+          0.00327160171816965
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.40444391653676326
+      },
+      {
+        "source": "candidatos/abrirConsignas_2.wav",
+        "source_start_seconds": 0.4136281179138322,
+        "source_fundamental_hz": 261.090087890625,
+        "harmonic_fraction": 0.998406970402456,
+        "measured_partials": [
+          1.0,
+          0.03918491958358435,
+          0.006910541798809086,
+          0.013933455686332983,
+          0.0009968041019813897
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.0015930295975440378
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026101302,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.06,
+      "decay": 2.9,
+      "drift_cents": -22
+    }
+  },
+  {
+    "id": "abrirTutorial",
+    "chosen": 1,
+    "seed": 2026101401,
+    "candidates": [
+      {
+        "source": "candidatos/abrirTutorial_0.wav",
+        "source_start_seconds": 0.6831972789115647,
+        "source_fundamental_hz": 334.43756103515625,
+        "harmonic_fraction": 0.9414851129212352,
+        "measured_partials": [
+          1.0,
+          0.0825775977096913,
+          0.017876490833813683,
+          0.008390155020836666,
+          0.0021142911277697318
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.05851488707876484
+      },
+      {
+        "source": "candidatos/abrirTutorial_1.wav",
+        "source_start_seconds": 0.15714285714285714,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9907920306483696,
+        "measured_partials": [
+          1.0,
+          0.0699349641867355,
+          0.0228487024874581,
+          0.024705919456981904,
+          0.006002338028689766
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.009207969351630374
+      },
+      {
+        "source": "candidatos/abrirTutorial_2.wav",
+        "source_start_seconds": 0.5259863945578231,
+        "source_fundamental_hz": 297.4273681640625,
+        "harmonic_fraction": 0.5497087431872358,
+        "measured_partials": [
+          1.0,
+          0.07134344855191904,
+          0.016071383175605972,
+          0.03444491521050194,
+          0.0032554672859331055
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.03444491521050194,
+          0.008
+        ],
+        "score": 0.45029125681276416
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026101401,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.045,
+      "decay": 3.1,
+      "drift_cents": 18
+    }
+  },
+  {
+    "id": "abrirLaboratorio",
+    "chosen": 2,
+    "seed": 2026101502,
+    "candidates": [
+      {
+        "source": "candidatos/abrirLaboratorio_0.wav",
+        "source_start_seconds": 0.31462585034013607,
+        "source_fundamental_hz": 311.55853271484375,
+        "harmonic_fraction": 0.9946776242848044,
+        "measured_partials": [
+          1.0,
+          0.30752706428100035,
+          0.1254460620786844,
+          0.03195693284542558,
+          0.006523291289538043
+        ],
+        "partials": [
+          1.0,
+          0.30752706428100035,
+          0.1254460620786844,
+          0.03195693284542558,
+          0.008
+        ],
+        "score": 0.00532237571519556
+      },
+      {
+        "source": "candidatos/abrirLaboratorio_1.wav",
+        "source_start_seconds": 0.2568027210884354,
+        "source_fundamental_hz": 258.3984375,
+        "harmonic_fraction": 0.0010841498995946008,
+        "measured_partials": [
+          1.0,
+          0.4381509352750475,
+          0.4874517113679852,
+          0.5456599079903547,
+          0.2824966040245745
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9989158501004054
+      },
+      {
+        "source": "candidatos/abrirLaboratorio_2.wav",
+        "source_start_seconds": 0.2744671201814059,
+        "source_fundamental_hz": 263.10882568359375,
+        "harmonic_fraction": 0.995780655335626,
+        "measured_partials": [
+          1.0,
+          0.1915662091540253,
+          0.01793031881284386,
+          0.02290461824554543,
+          0.00674218732188897
+        ],
+        "partials": [
+          1.0,
+          0.1915662091540253,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.004219344664374014
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026101502,
+      "partials": [
+        1.0,
+        0.1915662091540253,
+        0.07,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    }
+  },
+  {
+    "id": "carta",
+    "chosen": 2,
+    "seed": 2026101602,
+    "candidates": [
+      {
+        "source": "candidatos/carta_0.wav",
+        "source_start_seconds": 0.13886621315192743,
+        "source_fundamental_hz": 430.6640625,
+        "harmonic_fraction": 0.0007495574425385764,
+        "measured_partials": [
+          1.0,
+          0.2566069138634675,
+          0.597115270525655,
+          0.44182212567519696,
+          1.1518981139594884
+        ],
+        "partials": [
+          1.0,
+          0.2566069138634675,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9992504425574614
+      },
+      {
+        "source": "candidatos/carta_1.wav",
+        "source_start_seconds": 0.052222222222222225,
+        "source_fundamental_hz": 517.4697875976562,
+        "harmonic_fraction": 0.5290223915649317,
+        "measured_partials": [
+          1.0,
+          21.999824852447627,
+          0.22015341021315704,
+          1.1617652531325426,
+          0.15110679901761268
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.22015341021315704,
+          0.15,
+          0.075
+        ],
+        "score": 4.750942578924594
+      },
+      {
+        "source": "candidatos/carta_2.wav",
+        "source_start_seconds": 0.3421995464852608,
+        "source_fundamental_hz": 247.6318359375,
+        "harmonic_fraction": 0.022634660791866407,
+        "measured_partials": [
+          1.0,
+          0.05213252207002615,
+          0.032237374008103795,
+          0.12787169686393476,
+          0.049655794533469924
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.12787169686393476,
+          0.049655794533469924
+        ],
+        "score": 0.9773653392081336
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026101602,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.12787169686393476,
+        0.049655794533469924
+      ],
+      "attack_seconds": 0.035,
+      "decay": 3.8,
+      "drift_cents": 28
+    }
+  },
+  {
+    "id": "carta_2",
+    "chosen": 2,
+    "seed": 2026101702,
+    "candidates": [
+      {
+        "source": "candidatos/carta_2_0.wav",
+        "source_start_seconds": 0.1578684807256236,
+        "source_fundamental_hz": 294.06280517578125,
+        "harmonic_fraction": 0.9935085613837361,
+        "measured_partials": [
+          1.0,
+          0.09829234472055667,
+          0.01471606893076104,
+          0.037074363850836387,
+          0.0035502083496342473
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.037074363850836387,
+          0.008
+        ],
+        "score": 0.006491438616263889
+      },
+      {
+        "source": "candidatos/carta_2_1.wav",
+        "source_start_seconds": 0.16156462585034015,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.7254928052513653,
+        "measured_partials": [
+          1.0,
+          0.01945416015139247,
+          0.00616430431093402,
+          0.0044540610200372146,
+          0.002575290457238879
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.2745071947486347
+      },
+      {
+        "source": "candidatos/carta_2_2.wav",
+        "source_start_seconds": 0.15471655328798187,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.9956153953757971,
+        "measured_partials": [
+          1.0,
+          0.08290010582028509,
+          0.02776607206631861,
+          0.01213997740694778,
+          0.004452567151259112
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.00438460462420287
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026101702,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.06,
+      "decay": 2.9,
+      "drift_cents": -22
+    }
+  },
+  {
+    "id": "carta_3",
+    "chosen": 0,
+    "seed": 2026101800,
+    "candidates": [
+      {
+        "source": "candidatos/carta_3_0.wav",
+        "source_start_seconds": 0.3375283446712018,
+        "source_fundamental_hz": 426.6265869140625,
+        "harmonic_fraction": 0.009195320213176292,
+        "measured_partials": [
+          1.0,
+          0.11870776693835491,
+          0.15909482652162088,
+          0.13539969991858564,
+          3.4672945772063426
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.15909482652162088,
+          0.13539969991858564,
+          0.075
+        ],
+        "score": 0.9908046797868237
+      },
+      {
+        "source": "candidatos/carta_3_1.wav",
+        "source_start_seconds": 0.14392290249433107,
+        "source_fundamental_hz": 430.6640625,
+        "harmonic_fraction": 0.0008093273920698579,
+        "measured_partials": [
+          1.0,
+          0.18979192786037624,
+          0.5351746800962425,
+          0.2101831148414075,
+          0.7735668184205142
+        ],
+        "partials": [
+          1.0,
+          0.18979192786037624,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9991906726079302
+      },
+      {
+        "source": "candidatos/carta_3_2.wav",
+        "source_start_seconds": 0.017800453514739228,
+        "source_fundamental_hz": 198.50921630859375,
+        "harmonic_fraction": 0.0007709576739327855,
+        "measured_partials": [
+          1.0,
+          0.25216602595478654,
+          0.1623757057480538,
+          0.16242975479051228,
+          0.23051812925491172
+        ],
+        "partials": [
+          1.0,
+          0.25216602595478654,
+          0.1623757057480538,
+          0.15,
+          0.075
+        ],
+        "score": 0.9992290423260672
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026101800,
+      "partials": [
+        1.0,
+        0.14,
+        0.15909482652162088,
+        0.13539969991858564,
+        0.075
+      ],
+      "attack_seconds": 0.045,
+      "decay": 3.1,
+      "drift_cents": 18
+    }
+  },
+  {
+    "id": "carta_4",
+    "chosen": 2,
+    "seed": 2026101902,
+    "candidates": [
+      {
+        "source": "candidatos/carta_4_0.wav",
+        "source_start_seconds": 0.18480725623582767,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9934146929365012,
+        "measured_partials": [
+          1.0,
+          0.057799596305183935,
+          0.01530885567838494,
+          0.02820817894777586,
+          0.007748642176546082
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.02820817894777586,
+          0.008
+        ],
+        "score": 0.006585307063498802
+      },
+      {
+        "source": "candidatos/carta_4_1.wav",
+        "source_start_seconds": 0.1578684807256236,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.9951689514683244,
+        "measured_partials": [
+          1.0,
+          0.07287271629364805,
+          0.02203516830414682,
+          0.02661381732224597,
+          0.006184161040777803
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.02661381732224597,
+          0.008
+        ],
+        "score": 0.004831048531675597
+      },
+      {
+        "source": "candidatos/carta_4_2.wav",
+        "source_start_seconds": 0.17537414965986395,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9963330032953445,
+        "measured_partials": [
+          1.0,
+          0.2326910664155344,
+          0.04710730771830957,
+          0.07305401590895073,
+          0.012149812454998651
+        ],
+        "partials": [
+          1.0,
+          0.2326910664155344,
+          0.07,
+          0.07305401590895073,
+          0.012149812454998651
+        ],
+        "score": 0.003666996704655534
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026101902,
+      "partials": [
+        1.0,
+        0.2326910664155344,
+        0.07,
+        0.07305401590895073,
+        0.012149812454998651
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    }
+  },
+  {
+    "id": "giro",
+    "chosen": 1,
+    "seed": 2026102001,
+    "candidates": [
+      {
+        "source": "candidatos/giro_0.wav",
+        "source_start_seconds": 0.0,
+        "source_fundamental_hz": 259.07135009765625,
+        "harmonic_fraction": 0.0007126904645859099,
+        "measured_partials": [
+          1.0,
+          0.38123147717686584,
+          0.6527819364641215,
+          0.6140576255855628,
+          0.4023646758501054
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9992873095354141
+      },
+      {
+        "source": "candidatos/giro_1.wav",
+        "source_start_seconds": 0.04392290249433107,
+        "source_fundamental_hz": 257.0526123046875,
+        "harmonic_fraction": 0.005047471278035643,
+        "measured_partials": [
+          1.0,
+          0.5106493070509744,
+          0.6795120968174874,
+          2.8052136930693954,
+          0.21601015064221857
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9949525287219644
+      },
+      {
+        "source": "candidatos/giro_2.wav",
+        "source_start_seconds": 0.04664399092970522,
+        "source_fundamental_hz": 523.5260009765625,
+        "harmonic_fraction": 0.8883137748567875,
+        "measured_partials": [
+          1.0,
+          10.90140878029837,
+          0.08970602946855374,
+          0.13457890281161142,
+          0.13197871873551728
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.08970602946855374,
+          0.13457890281161142,
+          0.075
+        ],
+        "score": 2.1719679812028865
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026102001,
+      "partials": [
+        1.0,
+        0.38,
+        0.25,
+        0.15,
+        0.075
+      ],
+      "attack_seconds": 0.06,
+      "decay": 2.9,
+      "drift_cents": -22
+    }
+  },
+  {
+    "id": "giro_2",
+    "chosen": 0,
+    "seed": 2026102100,
+    "candidates": [
+      {
+        "source": "candidatos/giro_2_0.wav",
+        "source_start_seconds": 0.6726077097505669,
+        "source_fundamental_hz": 330.40008544921875,
+        "harmonic_fraction": 0.9963780282466016,
+        "measured_partials": [
+          1.0,
+          0.06959917545308544,
+          0.06081979128858075,
+          0.009043436868892278,
+          0.0032223049605499218
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.003621971753398401
+      },
+      {
+        "source": "candidatos/giro_2_1.wav",
+        "source_start_seconds": 0.6866893424036281,
+        "source_fundamental_hz": 220.71533203125,
+        "harmonic_fraction": 0.8819445958197183,
+        "measured_partials": [
+          1.0,
+          0.1234355903494539,
+          0.005597160003420802,
+          0.002483483589831764,
+          0.0015891507446965582
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.11805540418028171
+      },
+      {
+        "source": "candidatos/giro_2_2.wav",
+        "source_start_seconds": 0.14276643990929705,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.986343730732824,
+        "measured_partials": [
+          1.0,
+          0.14208040773550087,
+          0.0299689121339964,
+          0.042427660130793174,
+          0.009016062737422437
+        ],
+        "partials": [
+          1.0,
+          0.14208040773550087,
+          0.07,
+          0.042427660130793174,
+          0.009016062737422437
+        ],
+        "score": 0.013656269267176002
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026102100,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.045,
+      "decay": 3.1,
+      "drift_cents": 18
+    }
+  },
+  {
+    "id": "giro_3",
+    "chosen": 1,
+    "seed": 2026102201,
+    "candidates": [
+      {
+        "source": "candidatos/giro_3_0.wav",
+        "source_start_seconds": 0.14535147392290249,
+        "source_fundamental_hz": 256.37969970703125,
+        "harmonic_fraction": 0.0007469938759189322,
+        "measured_partials": [
+          1.0,
+          0.9774234702018191,
+          0.5308575301434522,
+          0.8331217536944769,
+          0.309065349155083
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 1.074737700164445
+      },
+      {
+        "source": "candidatos/giro_3_1.wav",
+        "source_start_seconds": 0.1009297052154195,
+        "source_fundamental_hz": 246.95892333984375,
+        "harmonic_fraction": 0.984673990927059,
+        "measured_partials": [
+          1.0,
+          0.023296475406957926,
+          0.005964493777979998,
+          0.18906766174856707,
+          0.0023540098539153137
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.15,
+          0.008
+        ],
+        "score": 0.015326009072941016
+      },
+      {
+        "source": "candidatos/giro_3_2.wav",
+        "source_start_seconds": 0.13975056689342405,
+        "source_fundamental_hz": 247.6318359375,
+        "harmonic_fraction": 0.02001858057862156,
+        "measured_partials": [
+          1.0,
+          0.09807323572451414,
+          0.04623990761484862,
+          0.09159000952850457,
+          0.04583163525852503
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.09159000952850457,
+          0.04583163525852503
+        ],
+        "score": 0.9799814194213784
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026102201,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.15,
+        0.008
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    }
+  },
+  {
+    "id": "giro_4",
+    "chosen": 2,
+    "seed": 2026102302,
+    "candidates": [
+      {
+        "source": "candidatos/giro_4_0.wav",
+        "source_start_seconds": 0.15643990929705215,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.9974174108613992,
+        "measured_partials": [
+          1.0,
+          0.08387580268681163,
+          0.023242985955905782,
+          0.010637677295007973,
+          0.005072388093497597
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.002582589138600766
+      },
+      {
+        "source": "candidatos/giro_4_1.wav",
+        "source_start_seconds": 0.15628117913832199,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.8015625330919793,
+        "measured_partials": [
+          1.0,
+          0.1086575973229127,
+          0.017418507145861715,
+          0.04436917128608276,
+          0.010611980005040484
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.04436917128608276,
+          0.010611980005040484
+        ],
+        "score": 0.19843746690802067
+      },
+      {
+        "source": "candidatos/giro_4_2.wav",
+        "source_start_seconds": 0.1598639455782313,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.9977558892311525,
+        "measured_partials": [
+          1.0,
+          0.050456332222267045,
+          0.01024299834243061,
+          0.013564045971988134,
+          0.006546531706423229
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.0022441107688474515
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026102302,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.035,
+      "decay": 3.8,
+      "drift_cents": 28
+    }
+  },
+  {
+    "id": "volverCarta",
+    "chosen": 0,
+    "seed": 2026102400,
+    "candidates": [
+      {
+        "source": "candidatos/volverCarta_0.wav",
+        "source_start_seconds": 0.0,
+        "source_fundamental_hz": 384.23309326171875,
+        "harmonic_fraction": 0.0017502987875383162,
+        "measured_partials": [
+          1.0,
+          0.09561919473410853,
+          0.3085338716957023,
+          0.15194848460853305,
+          0.31136582486019826
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9982497012124617
+      },
+      {
+        "source": "candidatos/volverCarta_1.wav",
+        "source_start_seconds": 0.1580498866213152,
+        "source_fundamental_hz": 259.07135009765625,
+        "harmonic_fraction": 0.0006053053813299222,
+        "measured_partials": [
+          1.0,
+          0.3897058340747829,
+          0.6160736633600989,
+          0.41701313208724483,
+          0.5961298801871732
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.99939469461867
+      },
+      {
+        "source": "candidatos/volverCarta_2.wav",
+        "source_start_seconds": 0.13984126984126985,
+        "source_fundamental_hz": 257.0526123046875,
+        "harmonic_fraction": 0.0012719197207322292,
+        "measured_partials": [
+          1.0,
+          0.18190083274219626,
+          0.3651779623195386,
+          0.4204129671431671,
+          0.2768442692698059
+        ],
+        "partials": [
+          1.0,
+          0.18190083274219626,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9987280802792677
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026102400,
+      "partials": [
+        1.0,
+        0.14,
+        0.25,
+        0.15,
+        0.075
+      ],
+      "attack_seconds": 0.045,
+      "decay": 3.1,
+      "drift_cents": 18
+    }
+  },
+  {
+    "id": "volverCarta_2",
+    "chosen": 2,
+    "seed": 2026102502,
+    "candidates": [
+      {
+        "source": "candidatos/volverCarta_2_0.wav",
+        "source_start_seconds": 0.605532879818594,
+        "source_fundamental_hz": 327.0355224609375,
+        "harmonic_fraction": 0.7485279610206538,
+        "measured_partials": [
+          1.0,
+          0.054686266524340416,
+          0.004910771011203385,
+          0.003387403027791903,
+          0.004296535210845541
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.2514720389793462
+      },
+      {
+        "source": "candidatos/volverCarta_2_1.wav",
+        "source_start_seconds": 0.28435374149659864,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.994456721160664,
+        "measured_partials": [
+          1.0,
+          0.06963992200660718,
+          0.057600803296530306,
+          0.021079575596754094,
+          0.008354618923662458
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008354618923662458
+        ],
+        "score": 0.00554327883933603
+      },
+      {
+        "source": "candidatos/volverCarta_2_2.wav",
+        "source_start_seconds": 0.1782766439909297,
+        "source_fundamental_hz": 294.06280517578125,
+        "harmonic_fraction": 0.9967030195728852,
+        "measured_partials": [
+          1.0,
+          0.05146274974317071,
+          0.01390289239201792,
+          0.026921881662134387,
+          0.007379615617215211
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.026921881662134387,
+          0.008
+        ],
+        "score": 0.003296980427114793
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026102502,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.026921881662134387,
+        0.008
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    }
+  },
+  {
+    "id": "volverCarta_3",
+    "chosen": 1,
+    "seed": 2026102601,
+    "candidates": [
+      {
+        "source": "candidatos/volverCarta_3_0.wav",
+        "source_start_seconds": 0.15555555555555556,
+        "source_fundamental_hz": 257.72552490234375,
+        "harmonic_fraction": 0.00196066273172225,
+        "measured_partials": [
+          1.0,
+          0.3108016107287832,
+          0.4322650208136647,
+          0.5688151275074514,
+          0.1924003176839797
+        ],
+        "partials": [
+          1.0,
+          0.3108016107287832,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9980393372682778
+      },
+      {
+        "source": "candidatos/volverCarta_3_1.wav",
+        "source_start_seconds": 0.0,
+        "source_fundamental_hz": 172.265625,
+        "harmonic_fraction": 0.0040637650463679915,
+        "measured_partials": [
+          1.0,
+          0.4419638277612746,
+          0.1800529162673141,
+          0.1115152984882345,
+          0.2690670608491935
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.1800529162673141,
+          0.1115152984882345,
+          0.075
+        ],
+        "score": 0.995936234953632
+      },
+      {
+        "source": "candidatos/volverCarta_3_2.wav",
+        "source_start_seconds": 0.23843537414965987,
+        "source_fundamental_hz": 430.6640625,
+        "harmonic_fraction": 0.0009669448274590493,
+        "measured_partials": [
+          1.0,
+          0.19776048418563805,
+          0.2243348808971645,
+          0.22199991514132747,
+          0.32865772380854785
+        ],
+        "partials": [
+          1.0,
+          0.19776048418563805,
+          0.2243348808971645,
+          0.15,
+          0.075
+        ],
+        "score": 0.9990330551725409
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026102601,
+      "partials": [
+        1.0,
+        0.38,
+        0.1800529162673141,
+        0.1115152984882345,
+        0.075
+      ],
+      "attack_seconds": 0.035,
+      "decay": 3.8,
+      "drift_cents": 28
+    }
+  },
+  {
+    "id": "volverCarta_4",
+    "chosen": 0,
+    "seed": 2026102700,
+    "candidates": [
+      {
+        "source": "candidatos/volverCarta_4_0.wav",
+        "source_start_seconds": 0.15836734693877552,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9964605606111198,
+        "measured_partials": [
+          1.0,
+          0.06090384504476454,
+          0.017979601328641175,
+          0.036425915847700656,
+          0.005741721866781526
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.036425915847700656,
+          0.008
+        ],
+        "score": 0.003539439388880239
+      },
+      {
+        "source": "candidatos/volverCarta_4_1.wav",
+        "source_start_seconds": 0.15485260770975057,
+        "source_fundamental_hz": 296.75445556640625,
+        "harmonic_fraction": 0.9400108208507407,
+        "measured_partials": [
+          1.0,
+          0.07852700061678738,
+          0.04261954741380498,
+          0.03770777722007612,
+          0.015636062452443818
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.03770777722007612,
+          0.015636062452443818
+        ],
+        "score": 0.059989179149259275
+      },
+      {
+        "source": "candidatos/volverCarta_4_2.wav",
+        "source_start_seconds": 0.2692517006802721,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9890053689135503,
+        "measured_partials": [
+          1.0,
+          0.2002938277696429,
+          0.016286190621947232,
+          0.02878708953166732,
+          0.0076130293351971915
+        ],
+        "partials": [
+          1.0,
+          0.2002938277696429,
+          0.07,
+          0.02878708953166732,
+          0.008
+        ],
+        "score": 0.010994631086449713
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026102700,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.036425915847700656,
+        0.008
+      ],
+      "attack_seconds": 0.06,
+      "decay": 2.9,
+      "drift_cents": -22
+    }
+  },
+  {
+    "id": "pasar",
+    "chosen": 0,
+    "seed": 2026102800,
+    "candidates": [
+      {
+        "source": "candidatos/pasar_0.wav",
+        "source_start_seconds": 0.0,
+        "source_fundamental_hz": 292.71697998046875,
+        "harmonic_fraction": 0.002075994130336984,
+        "measured_partials": [
+          1.0,
+          0.09228272038148803,
+          0.07628455633704966,
+          0.21599058768267415,
+          0.10741362781131626
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07628455633704966,
+          0.15,
+          0.075
+        ],
+        "score": 0.997924005869663
+      },
+      {
+        "source": "candidatos/pasar_1.wav",
+        "source_start_seconds": 0.0,
+        "source_fundamental_hz": 517.4697875976562,
+        "harmonic_fraction": 0.23965588559507658,
+        "measured_partials": [
+          1.0,
+          10.637661414598687,
+          0.1522877355445297,
+          0.4269889397885602,
+          0.2534623750628721
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.1522877355445297,
+          0.15,
+          0.075
+        ],
+        "score": 2.7678763973246614
+      },
+      {
+        "source": "candidatos/pasar_2.wav",
+        "source_start_seconds": 0.346031746031746,
+        "source_fundamental_hz": 255.706787109375,
+        "harmonic_fraction": 0.0015702676907954922,
+        "measured_partials": [
+          1.0,
+          0.4150403661007868,
+          0.37201827260174314,
+          0.3722762818556312,
+          0.10429572167477938
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9984297323092045
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026102800,
+      "partials": [
+        1.0,
+        0.14,
+        0.07628455633704966,
+        0.15,
+        0.075
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    }
+  },
+  {
+    "id": "pasar_2",
+    "chosen": 1,
+    "seed": 2026102901,
+    "candidates": [
+      {
+        "source": "candidatos/pasar_2_0.wav",
+        "source_start_seconds": 0.6726984126984127,
+        "source_fundamental_hz": 333.7646484375,
+        "harmonic_fraction": 0.9579267626769589,
+        "measured_partials": [
+          1.0,
+          0.1102835257795565,
+          0.016117984071090434,
+          0.00397417714096719,
+          0.002124600368418769
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.042073237323041135
+      },
+      {
+        "source": "candidatos/pasar_2_1.wav",
+        "source_start_seconds": 0.18523809523809523,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.9967834062832543,
+        "measured_partials": [
+          1.0,
+          0.045975872418174,
+          0.029776847697947632,
+          0.033085499816538314,
+          0.005130657878642398
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.033085499816538314,
+          0.008
+        ],
+        "score": 0.0032165937167456526
+      },
+      {
+        "source": "candidatos/pasar_2_2.wav",
+        "source_start_seconds": 0.17814058956916098,
+        "source_fundamental_hz": 261.090087890625,
+        "harmonic_fraction": 0.6323333277824582,
+        "measured_partials": [
+          1.0,
+          0.02044902818308363,
+          0.006490318333401669,
+          0.004633251733371979,
+          0.0018194954460077919
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.3676666722175418
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026102901,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.033085499816538314,
+        0.008
+      ],
+      "attack_seconds": 0.035,
+      "decay": 3.8,
+      "drift_cents": 28
+    }
+  },
+  {
+    "id": "pasar_3",
+    "chosen": 1,
+    "seed": 2026103001,
+    "candidates": [
+      {
+        "source": "candidatos/pasar_3_0.wav",
+        "source_start_seconds": 0.13281179138321997,
+        "source_fundamental_hz": 427.29949951171875,
+        "harmonic_fraction": 0.1271312816971168,
+        "measured_partials": [
+          1.0,
+          0.15380278097496664,
+          0.23364552254799703,
+          0.11981030094988404,
+          12.404020852337368
+        ],
+        "partials": [
+          1.0,
+          0.15380278097496664,
+          0.23364552254799703,
+          0.11981030094988404,
+          0.075
+        ],
+        "score": 0.8728687183028832
+      },
+      {
+        "source": "candidatos/pasar_3_1.wav",
+        "source_start_seconds": 0.15267573696145126,
+        "source_fundamental_hz": 247.6318359375,
+        "harmonic_fraction": 0.9959082389460523,
+        "measured_partials": [
+          1.0,
+          0.030884630760611848,
+          0.005523056156106655,
+          0.08750203122416741,
+          0.002599593243240091
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.08750203122416741,
+          0.008
+        ],
+        "score": 0.004091761053947707
+      },
+      {
+        "source": "candidatos/pasar_3_2.wav",
+        "source_start_seconds": 0.04199546485260771,
+        "source_fundamental_hz": 602.9296875,
+        "harmonic_fraction": 0.00044266189411564167,
+        "measured_partials": [
+          1.0,
+          0.5110305182690598,
+          0.3278810354983504,
+          0.2755381594110753,
+          0.5097071830568476
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9995573381058843
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026103001,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.08750203122416741,
+        0.008
+      ],
+      "attack_seconds": 0.06,
+      "decay": 2.9,
+      "drift_cents": -22
+    }
+  },
+  {
+    "id": "pasar_4",
+    "chosen": 2,
+    "seed": 2026103102,
+    "candidates": [
+      {
+        "source": "candidatos/pasar_4_0.wav",
+        "source_start_seconds": 0.6642857142857143,
+        "source_fundamental_hz": 224.07989501953125,
+        "harmonic_fraction": 0.541546818191323,
+        "measured_partials": [
+          1.0,
+          0.04338012518822807,
+          0.003358724491543003,
+          0.0020054748922313194,
+          0.0020371983451216292
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.458453181808677
+      },
+      {
+        "source": "candidatos/pasar_4_1.wav",
+        "source_start_seconds": 0.26580498866213154,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9970660620912686,
+        "measured_partials": [
+          1.0,
+          0.09495063942589704,
+          0.040582625870123845,
+          0.02750610516164349,
+          0.006510535241919571
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.02750610516164349,
+          0.008
+        ],
+        "score": 0.002933937908731421
+      },
+      {
+        "source": "candidatos/pasar_4_2.wav",
+        "source_start_seconds": 0.15977324263038548,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.9973408924002249,
+        "measured_partials": [
+          1.0,
+          0.039824496164246756,
+          0.025142796145508482,
+          0.025753252395976294,
+          0.0058758380671261054
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025753252395976294,
+          0.008
+        ],
+        "score": 0.002659107599775057
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026103102,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025753252395976294,
+        0.008
+      ],
+      "attack_seconds": 0.045,
+      "decay": 3.1,
+      "drift_cents": 18
+    }
+  },
+  {
+    "id": "deslizamiento",
+    "chosen": 1,
+    "seed": 2026103201,
+    "candidates": [
+      {
+        "source": "candidatos/deslizamiento_0.wav",
+        "source_start_seconds": 0.14233560090702949,
+        "source_fundamental_hz": 256.37969970703125,
+        "harmonic_fraction": 0.0008944710611588515,
+        "measured_partials": [
+          1.0,
+          0.2651491952627583,
+          0.39415276349782635,
+          0.5060491246833366,
+          0.37656309556437345
+        ],
+        "partials": [
+          1.0,
+          0.2651491952627583,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9991055289388412
+      },
+      {
+        "source": "candidatos/deslizamiento_1.wav",
+        "source_start_seconds": 0.15417233560090704,
+        "source_fundamental_hz": 432.68280029296875,
+        "harmonic_fraction": 0.10973151823369048,
+        "measured_partials": [
+          1.0,
+          0.12743828135707688,
+          0.26137737992647886,
+          0.18364518483015882,
+          10.185962616507283
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.8902684817663096
+      },
+      {
+        "source": "candidatos/deslizamiento_2.wav",
+        "source_start_seconds": 0.0,
+        "source_fundamental_hz": 172.265625,
+        "harmonic_fraction": 0.0025944495210965535,
+        "measured_partials": [
+          1.0,
+          0.31954210423017926,
+          0.28238764935622845,
+          0.169825996107612,
+          0.16346209349913088
+        ],
+        "partials": [
+          1.0,
+          0.31954210423017926,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9974055504789034
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026103201,
+      "partials": [
+        1,
+        0.12,
+        0.045,
+        0.02,
+        0.005
+      ],
+      "attack_seconds": 0.07,
+      "decay": 3.8,
+      "drift_cents": -35
+    }
+  },
+  {
+    "id": "abrirAyuda",
+    "chosen": 1,
+    "seed": 2026103301,
+    "candidates": [
+      {
+        "source": "candidatos/abrirAyuda_0.wav",
+        "source_start_seconds": 0.6514965986394557,
+        "source_fundamental_hz": 261.76300048828125,
+        "harmonic_fraction": 0.5135558288231117,
+        "measured_partials": [
+          1.0,
+          0.02297971614721014,
+          0.005018261160144509,
+          0.0029928503584922793,
+          0.0012439540298185782
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.4864441711768883
+      },
+      {
+        "source": "candidatos/abrirAyuda_1.wav",
+        "source_start_seconds": 0.15405895691609978,
+        "source_fundamental_hz": 261.76300048828125,
+        "harmonic_fraction": 0.9973730955789817,
+        "measured_partials": [
+          1.0,
+          0.14678972896557776,
+          0.009588563655347071,
+          0.04115722160970124,
+          0.013636833043112941
+        ],
+        "partials": [
+          1.0,
+          0.14678972896557776,
+          0.07,
+          0.04115722160970124,
+          0.013636833043112941
+        ],
+        "score": 0.0026269044210183168
+      },
+      {
+        "source": "candidatos/abrirAyuda_2.wav",
+        "source_start_seconds": 0.1442857142857143,
+        "source_fundamental_hz": 261.76300048828125,
+        "harmonic_fraction": 0.9076415316748023,
+        "measured_partials": [
+          1.0,
+          0.03951517477336336,
+          0.007173461734070991,
+          0.0030070529071709656,
+          0.002550695456362146
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.09235846832519767
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026103301,
+      "partials": [
+        1.0,
+        0.14678972896557776,
+        0.07,
+        0.04115722160970124,
+        0.013636833043112941
+      ],
+      "attack_seconds": 0.06,
+      "decay": 2.9,
+      "drift_cents": -22
+    }
+  },
+  {
+    "id": "cerrarAyuda",
+    "chosen": 1,
+    "seed": 2026103401,
+    "candidates": [
+      {
+        "source": "candidatos/cerrarAyuda_0.wav",
+        "source_start_seconds": 0.15435374149659864,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9935908213257617,
+        "measured_partials": [
+          1.0,
+          0.04719474311120483,
+          0.014287603211947239,
+          0.02864690043432214,
+          0.0069537153233553365
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.02864690043432214,
+          0.008
+        ],
+        "score": 0.006409178674238292
+      },
+      {
+        "source": "candidatos/cerrarAyuda_1.wav",
+        "source_start_seconds": 0.1536281179138322,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9968879324439093,
+        "measured_partials": [
+          1.0,
+          0.13545877424371985,
+          0.011173097428386082,
+          0.04239993651110377,
+          0.010073776061636794
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.04239993651110377,
+          0.010073776061636794
+        ],
+        "score": 0.003112067556090725
+      },
+      {
+        "source": "candidatos/cerrarAyuda_2.wav",
+        "source_start_seconds": 0.15798185941043083,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.9964169378015566,
+        "measured_partials": [
+          1.0,
+          0.01974156426720896,
+          0.013419131687765259,
+          0.014137406603086732,
+          0.0023740131068743188
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.0035830621984433986
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026103401,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.04239993651110377,
+        0.010073776061636794
+      ],
+      "attack_seconds": 0.045,
+      "decay": 3.1,
+      "drift_cents": 18
+    }
+  },
+  {
+    "id": "volverInicio",
+    "chosen": 0,
+    "seed": 2026103500,
+    "candidates": [
+      {
+        "source": "candidatos/volverInicio_0.wav",
+        "source_start_seconds": 0.2329251700680272,
+        "source_fundamental_hz": 294.06280517578125,
+        "harmonic_fraction": 0.9984499999763125,
+        "measured_partials": [
+          1.0,
+          0.10047865010302312,
+          0.019779853704397506,
+          0.026745944601064907,
+          0.007062096934666856
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.026745944601064907,
+          0.008
+        ],
+        "score": 0.0015500000236875477
+      },
+      {
+        "source": "candidatos/volverInicio_1.wav",
+        "source_start_seconds": 0.2272108843537415,
+        "source_fundamental_hz": 174.957275390625,
+        "harmonic_fraction": 0.9164689168045594,
+        "measured_partials": [
+          1.0,
+          0.005162810368653352,
+          0.0055010897377337185,
+          0.001269893107405219,
+          0.001521908341301141
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.08353108319544056
+      },
+      {
+        "source": "candidatos/volverInicio_2.wav",
+        "source_start_seconds": 0.34312925170068026,
+        "source_fundamental_hz": 263.78173828125,
+        "harmonic_fraction": 0.997326230539639,
+        "measured_partials": [
+          1.0,
+          0.2023945982630982,
+          0.03343366016430403,
+          0.03711435160784489,
+          0.005095740774684177
+        ],
+        "partials": [
+          1.0,
+          0.2023945982630982,
+          0.07,
+          0.03711435160784489,
+          0.008
+        ],
+        "score": 0.0026737694603610196
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026103500,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.026745944601064907,
+        0.008
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    }
+  },
+  {
+    "id": "tutorialSiguiente",
+    "chosen": 0,
+    "seed": 2026103600,
+    "candidates": [
+      {
+        "source": "candidatos/tutorialSiguiente_0.wav",
+        "source_start_seconds": 0.1789342403628118,
+        "source_fundamental_hz": 300.79193115234375,
+        "harmonic_fraction": 0.0003980121687312541,
+        "measured_partials": [
+          1.0,
+          0.5340753076546209,
+          0.5145685682714474,
+          0.4064508681706379,
+          0.21447303234173748
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9996019878312687
+      },
+      {
+        "source": "candidatos/tutorialSiguiente_1.wav",
+        "source_start_seconds": 0.08358276643990929,
+        "source_fundamental_hz": 517.4697875976562,
+        "harmonic_fraction": 0.0009795157629995403,
+        "measured_partials": [
+          1.0,
+          0.8326363580175838,
+          0.3275374679376974,
+          0.6892192450936632,
+          0.26905642444536476
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 1.0455477558405173
+      },
+      {
+        "source": "candidatos/tutorialSiguiente_2.wav",
+        "source_start_seconds": 0.15680272108843538,
+        "source_fundamental_hz": 820.2804565429688,
+        "harmonic_fraction": 0.00015628791627272215,
+        "measured_partials": [
+          1.0,
+          0.17925391255264406,
+          0.16235950238629154,
+          0.12776501243371932,
+          0.08970182016105303
+        ],
+        "partials": [
+          1.0,
+          0.17925391255264406,
+          0.16235950238629154,
+          0.12776501243371932,
+          0.075
+        ],
+        "score": 0.9998437120837272
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026103600,
+      "partials": [
+        1.0,
+        0.38,
+        0.25,
+        0.15,
+        0.075
+      ],
+      "attack_seconds": 0.035,
+      "decay": 3.8,
+      "drift_cents": 28
+    }
+  },
+  {
+    "id": "tutorialAnterior",
+    "chosen": 0,
+    "seed": 2026103700,
+    "candidates": [
+      {
+        "source": "candidatos/tutorialAnterior_0.wav",
+        "source_start_seconds": 0.1563718820861678,
+        "source_fundamental_hz": 261.76300048828125,
+        "harmonic_fraction": 0.995429427755664,
+        "measured_partials": [
+          1.0,
+          0.038601178502203036,
+          0.00614495017072346,
+          0.05218021523225872,
+          0.00557765955985614
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.05218021523225872,
+          0.008
+        ],
+        "score": 0.004570572244335991
+      },
+      {
+        "source": "candidatos/tutorialAnterior_1.wav",
+        "source_start_seconds": 0.6501133786848072,
+        "source_fundamental_hz": 261.76300048828125,
+        "harmonic_fraction": 0.8524782733619327,
+        "measured_partials": [
+          1.0,
+          0.033706073012026265,
+          0.061629289389338725,
+          0.016452333786130872,
+          0.016071739771870028
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.016071739771870028
+        ],
+        "score": 0.14752172663806729
+      },
+      {
+        "source": "candidatos/tutorialAnterior_2.wav",
+        "source_start_seconds": 0.15918367346938775,
+        "source_fundamental_hz": 294.06280517578125,
+        "harmonic_fraction": 0.6948707251363034,
+        "measured_partials": [
+          1.0,
+          0.021949427754167472,
+          0.04444191463838369,
+          0.06009345078405998,
+          0.01132806102227014
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.06009345078405998,
+          0.01132806102227014
+        ],
+        "score": 0.30512927486369656
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026103700,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.05218021523225872,
+        0.008
+      ],
+      "attack_seconds": 0.06,
+      "decay": 2.9,
+      "drift_cents": -22
+    }
+  },
+  {
+    "id": "tutorialOmitir",
+    "chosen": 1,
+    "seed": 2026103801,
+    "candidates": [
+      {
+        "source": "candidatos/tutorialOmitir_0.wav",
+        "source_start_seconds": 0.1579591836734694,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9933134758055387,
+        "measured_partials": [
+          1.0,
+          0.0908330059114658,
+          0.009677381779368832,
+          0.025457699855263503,
+          0.002376939055494569
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025457699855263503,
+          0.008
+        ],
+        "score": 0.006686524194461252
+      },
+      {
+        "source": "candidatos/tutorialOmitir_1.wav",
+        "source_start_seconds": 0.2780272108843537,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9935144130093921,
+        "measured_partials": [
+          1.0,
+          0.01939006635122183,
+          0.009853886407776303,
+          0.02020305541379769,
+          0.0025012730572622896
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.006485586990607861
+      },
+      {
+        "source": "candidatos/tutorialOmitir_2.wav",
+        "source_start_seconds": 0.6729705215419501,
+        "source_fundamental_hz": 331.74591064453125,
+        "harmonic_fraction": 0.9204477404099454,
+        "measured_partials": [
+          1.0,
+          0.040643573512782465,
+          0.05195985831041423,
+          0.026091327690586582,
+          0.017971143838395664
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.026091327690586582,
+          0.017971143838395664
+        ],
+        "score": 0.07955225959005463
+      }
+    ],
+    "articulation": {
+      "chosen": 1,
+      "seed": 2026103801,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.045,
+      "decay": 3.1,
+      "drift_cents": 18
+    }
+  },
+  {
+    "id": "tutorialCompletar",
+    "chosen": 0,
+    "seed": 2026103900,
+    "candidates": [
+      {
+        "source": "candidatos/tutorialCompletar_0.wav",
+        "source_start_seconds": 0.41859410430839,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.9887368098202576,
+        "measured_partials": [
+          1.0,
+          0.27352045825197935,
+          0.04582084296109418,
+          0.03318278488118261,
+          0.006356385827720708
+        ],
+        "partials": [
+          1.0,
+          0.27352045825197935,
+          0.07,
+          0.03318278488118261,
+          0.008
+        ],
+        "score": 0.011263190179742422
+      },
+      {
+        "source": "candidatos/tutorialCompletar_1.wav",
+        "source_start_seconds": 0.7310884353741497,
+        "source_fundamental_hz": 236.865234375,
+        "harmonic_fraction": 0.06708851235417618,
+        "measured_partials": [
+          1.0,
+          0.36437326310325513,
+          0.10195372957524217,
+          11.32048093975001,
+          3.539397810025472
+        ],
+        "partials": [
+          1.0,
+          0.36437326310325513,
+          0.10195372957524217,
+          0.15,
+          0.075
+        ],
+        "score": 0.9329114876458238
+      },
+      {
+        "source": "candidatos/tutorialCompletar_2.wav",
+        "source_start_seconds": 0.32761904761904764,
+        "source_fundamental_hz": 262.4359130859375,
+        "harmonic_fraction": 0.01318022426238799,
+        "measured_partials": [
+          1.0,
+          0.1692026179430605,
+          0.11557787761389782,
+          0.48113787540136016,
+          0.050669793693453966
+        ],
+        "partials": [
+          1.0,
+          0.1692026179430605,
+          0.11557787761389782,
+          0.15,
+          0.050669793693453966
+        ],
+        "score": 0.986819775737612
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026103900,
+      "partials": [
+        1.0,
+        0.27352045825197935,
+        0.07,
+        0.03318278488118261,
+        0.008
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    }
+  },
+  {
+    "id": "activarSonido",
+    "chosen": 2,
+    "seed": 2026104002,
+    "candidates": [
+      {
+        "source": "candidatos/activarSonido_0.wav",
+        "source_start_seconds": 0.2594784580498866,
+        "source_fundamental_hz": 258.3984375,
+        "harmonic_fraction": 0.0010245386444570194,
+        "measured_partials": [
+          1.0,
+          0.18843066695404237,
+          0.46381409855049055,
+          0.46985229593199324,
+          0.27718361109754597
+        ],
+        "partials": [
+          1.0,
+          0.18843066695404237,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9989754613555429
+      },
+      {
+        "source": "candidatos/activarSonido_1.wav",
+        "source_start_seconds": 0.15972789115646258,
+        "source_fundamental_hz": 257.72552490234375,
+        "harmonic_fraction": 0.0012059683758557768,
+        "measured_partials": [
+          1.0,
+          0.3654421415579841,
+          0.3286566023338373,
+          0.7101685458133973,
+          0.2202165487303854
+        ],
+        "partials": [
+          1.0,
+          0.3654421415579841,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9987940316241443
+      },
+      {
+        "source": "candidatos/activarSonido_2.wav",
+        "source_start_seconds": 0.005464852607709751,
+        "source_fundamental_hz": 522.8530883789062,
+        "harmonic_fraction": 0.6546434796472558,
+        "measured_partials": [
+          1.0,
+          2.933993509205011,
+          0.0544563250502044,
+          0.11358994083013925,
+          0.02499261187945662
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.07,
+          0.11358994083013925,
+          0.02499261187945662
+        ],
+        "score": 0.8121552221937465
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026104002,
+      "partials": [
+        1.0,
+        0.38,
+        0.07,
+        0.11358994083013925,
+        0.02499261187945662
+      ],
+      "attack_seconds": 0.035,
+      "decay": 3.8,
+      "drift_cents": 28
+    }
+  },
+  {
+    "id": "activarVibracion",
+    "chosen": 2,
+    "seed": 2026104102,
+    "candidates": [
+      {
+        "source": "candidatos/activarVibracion_0.wav",
+        "source_start_seconds": 0.6436961451247165,
+        "source_fundamental_hz": 310.21270751953125,
+        "harmonic_fraction": 0.6435610829698499,
+        "measured_partials": [
+          1.0,
+          0.0290898578502596,
+          0.08332657876207995,
+          0.002579107419386426,
+          0.0037965125335658284
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.08332657876207995,
+          0.025,
+          0.008
+        ],
+        "score": 0.35643891703015007
+      },
+      {
+        "source": "candidatos/activarVibracion_1.wav",
+        "source_start_seconds": 0.6565759637188209,
+        "source_fundamental_hz": 296.08154296875,
+        "harmonic_fraction": 0.7172562493273135,
+        "measured_partials": [
+          1.0,
+          0.0713380879569839,
+          0.00473584173277886,
+          0.0018571873777239794,
+          0.0011384002361603989
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.28274375067268653
+      },
+      {
+        "source": "candidatos/activarVibracion_2.wav",
+        "source_start_seconds": 0.1598185941043084,
+        "source_fundamental_hz": 261.76300048828125,
+        "harmonic_fraction": 0.9973265844053688,
+        "measured_partials": [
+          1.0,
+          0.11154480578734143,
+          0.013921515399699495,
+          0.020205637253320894,
+          0.010556884774797586
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.010556884774797586
+        ],
+        "score": 0.00267341559463119
+      }
+    ],
+    "articulation": {
+      "chosen": 2,
+      "seed": 2026104102,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025,
+        0.010556884774797586
+      ],
+      "attack_seconds": 0.06,
+      "decay": 2.9,
+      "drift_cents": -22
+    }
+  },
+  {
+    "id": "desactivarVibracion",
+    "chosen": 0,
+    "seed": 2026104200,
+    "candidates": [
+      {
+        "source": "candidatos/desactivarVibracion_0.wav",
+        "source_start_seconds": 0.2683219954648526,
+        "source_fundamental_hz": 294.7357177734375,
+        "harmonic_fraction": 0.997907604324232,
+        "measured_partials": [
+          1.0,
+          0.06793125037331933,
+          0.018378776061832847,
+          0.01707582155196413,
+          0.004363285980627356
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.025,
+          0.008
+        ],
+        "score": 0.0020923956757680218
+      },
+      {
+        "source": "candidatos/desactivarVibracion_1.wav",
+        "source_start_seconds": 0.17215419501133786,
+        "source_fundamental_hz": 295.40863037109375,
+        "harmonic_fraction": 0.9973366575240954,
+        "measured_partials": [
+          1.0,
+          0.076817115453474,
+          0.012574845060106138,
+          0.027009285923370117,
+          0.003460939683689759
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.027009285923370117,
+          0.008
+        ],
+        "score": 0.0026633424759046065
+      },
+      {
+        "source": "candidatos/desactivarVibracion_2.wav",
+        "source_start_seconds": 0.686031746031746,
+        "source_fundamental_hz": 220.71533203125,
+        "harmonic_fraction": 0.9897904775040548,
+        "measured_partials": [
+          1.0,
+          0.4832253583330523,
+          0.007510221333133837,
+          0.05390955451495627,
+          0.0028599687073253884
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.07,
+          0.05390955451495627,
+          0.008
+        ],
+        "score": 0.0102095224959452
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026104200,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.025,
+        0.008
+      ],
+      "attack_seconds": 0.045,
+      "decay": 3.1,
+      "drift_cents": 18
+    }
+  },
+  {
+    "id": "reintentar",
+    "chosen": 0,
+    "seed": 2026104300,
+    "candidates": [
+      {
+        "source": "candidatos/reintentar_0.wav",
+        "source_start_seconds": 0.3446485260770975,
+        "source_fundamental_hz": 262.4359130859375,
+        "harmonic_fraction": 0.9965826547330421,
+        "measured_partials": [
+          1.0,
+          0.09829656983514269,
+          0.010913495489442225,
+          0.08361512336957277,
+          0.04341117637948481
+        ],
+        "partials": [
+          1.0,
+          0.14,
+          0.07,
+          0.08361512336957277,
+          0.04341117637948481
+        ],
+        "score": 0.0034173452669579163
+      },
+      {
+        "source": "candidatos/reintentar_1.wav",
+        "source_start_seconds": 0.6904988662131519,
+        "source_fundamental_hz": 251.6693115234375,
+        "harmonic_fraction": 0.007067907739645185,
+        "measured_partials": [
+          1.0,
+          0.7937374510856732,
+          0.28398579078792285,
+          3.539869871458305,
+          0.2855873278621087
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 1.0316795824774894
+      },
+      {
+        "source": "candidatos/reintentar_2.wav",
+        "source_start_seconds": 0.31072562358276645,
+        "source_fundamental_hz": 253.68804931640625,
+        "harmonic_fraction": 0.0009781799767680575,
+        "measured_partials": [
+          1.0,
+          0.4768942162820665,
+          0.46290793876898734,
+          1.0404542567370114,
+          0.15959338703577253
+        ],
+        "partials": [
+          1.0,
+          0.38,
+          0.25,
+          0.15,
+          0.075
+        ],
+        "score": 0.9990218200232319
+      }
+    ],
+    "articulation": {
+      "chosen": 0,
+      "seed": 2026104300,
+      "partials": [
+        1.0,
+        0.14,
+        0.07,
+        0.08361512336957277,
+        0.04341117637948481
+      ],
+      "attack_seconds": 0.055,
+      "decay": 2.6,
+      "drift_cents": -12
+    }
+  }
+]

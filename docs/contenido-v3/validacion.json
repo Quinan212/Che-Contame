@@ -1,0 +1,100 @@
+{
+  "version": "0.3-historias-y-codigos",
+  "cartas_principales": 144,
+  "continuaciones": 144,
+  "dinamicas": 15,
+  "textos_reemplazados": 165,
+  "textos_nuevos_adicionales": 138,
+  "total_textos_activos": 303,
+  "ids_tecnicos_conservados": 90,
+  "ids_nuevos": 69,
+  "ediciones_historicas": [
+    "0.1-borrador",
+    "0.2-complicidad-cotidiana"
+  ],
+  "preguntas_directas_principales": 27,
+  "otros_formatos_principales": 117,
+  "por_nivel": {
+    "1": {
+      "cantidad": 48,
+      "temas": {
+        "Casa y costumbres": 10,
+        "Gustos y pasiones": 9,
+        "Papelones": 10,
+        "Mensajes y códigos": 9,
+        "Vida diaria": 10
+      },
+      "formatos": {
+        "Contá": 10,
+        "Pregunta": 9,
+        "Decí": 6,
+        "Completá": 5,
+        "Explicá": 4,
+        "Defendé": 3,
+        "Adivinen": 3,
+        "Elegí": 4,
+        "Situación": 3,
+        "Inventá": 1
+      }
+    },
+    "2": {
+      "cantidad": 50,
+      "temas": {
+        "Amistad": 10,
+        "Plata y favores": 10,
+        "Familia": 10,
+        "Cómo soy": 10,
+        "Vínculos": 10
+      },
+      "formatos": {
+        "Pregunta": 9,
+        "Contá": 10,
+        "Situación": 7,
+        "Decí": 9,
+        "Completá": 6,
+        "Elegí": 4,
+        "Explicá": 3,
+        "Adivinen": 1,
+        "Defendé": 1
+      }
+    },
+    "3": {
+      "cantidad": 46,
+      "temas": {
+        "Lealtad": 10,
+        "Lo que cuesta decir": 9,
+        "Familia y cambios": 9,
+        "Cariño": 9,
+        "Lo que me pasa": 9
+      },
+      "formatos": {
+        "Situación": 3,
+        "Contá": 15,
+        "Decí": 6,
+        "Completá": 7,
+        "Pregunta": 9,
+        "Elegí": 2,
+        "Defendé": 1,
+        "Explicá": 3
+      }
+    }
+  },
+  "longitud_frente_max": 127,
+  "longitud_continuacion_max": 100,
+  "longitud_dinamica_max": 159,
+  "respaldo_previo_sha256": "81ff8292219f92a31b2ffb020591b3f08ef7edca6d80950310bf5bf203fae808",
+  "comprobaciones": [
+    "IDs únicos",
+    "frentes diferentes",
+    "continuaciones diferentes",
+    "165 textos cambiados respecto a 0.2",
+    "referencias existentes",
+    "UTF-8 sin BOM y Unicode NFC",
+    "signos equilibrados",
+    "mínimo 25 cartas por nivel",
+    "mínimo 5 temas por nivel",
+    "mínimo 7 formatos por nivel",
+    "historial 0.1 y 0.2 conservado"
+  ],
+  "pruebas_con_jugadores": "pendientes"
+}

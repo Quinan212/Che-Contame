@@ -1,0 +1,34 @@
+{
+  "version": "0.2-complicidad-cotidiana",
+  "preguntas": 75,
+  "repreguntas": 75,
+  "consignas": 15,
+  "textos_reemplazados": 165,
+  "ids_conservados": 90,
+  "temas_por_nivel": {
+    "A": {
+      "Planes": 5,
+      "Gustos": 5,
+      "Anécdotas": 5,
+      "Cotidiano": 5,
+      "Juego": 5
+    },
+    "B": {
+      "Complicidad": 5,
+      "Descubrimientos": 5,
+      "A tu ritmo": 5,
+      "Tu gente": 5,
+      "Lo que pinta": 5
+    },
+    "C": {
+      "A gusto": 5,
+      "Compañía": 5,
+      "Entre nosotros": 5,
+      "Con vos": 5,
+      "Cerca": 5
+    }
+  },
+  "longitud_pregunta_max": 102,
+  "longitud_repregunta_max": 58,
+  "longitud_consigna_max": 139
+}
